@@ -7,41 +7,10 @@ subtitle:  	Some Short Description of Post
 category:  Global-Context
 ---
 <!-- Start Writing Below in Markdown -->
+# Global Carbon Cycle
 
-# Table of Contents
+ The global carbon cycle is a balance of fluxes between reservoirs. Currently there is an imbalance as a result of burning fossil fuels sending an enormous amount of CO2 into the atmosphere.  But, only about half of what is sent to the atmosphere accumulates there and the rest is taken into reservoirs, some into the ocean and a lot into terrestrial component – through vegetation and into soils.  Any process that increases the net movement into stable soil pools is a benefit and any process that increases net movement into the atmosphere is a cost.  There is a large range in both pools and fluxes indicating the uncertainty in our understanding of these processes and how to represent them accurately in earth systems models that generate these numbers.
 
-* TOC
-{:toc}
-
-# Basic Functionality
-
-## Headers
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-## Styling
-
-**Bold**
-
-*Italics*
-
-***Bold and Italics***
-
-## Lists
-
-1. Item 1
-
-2. Item 2
-
-* Unordered Item
-
-  * Sub Item 1
-
-    1. **Bold** Sub Sub Ordered Item
 
 ## Links
 
@@ -56,63 +25,4 @@ category:  Global-Context
 
 ## Images
 
-Hold your pointer clicked over the image to expand the view.
-
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
-
-## Code
-
-Inline `code`.
-
-{% highlight python %}
-import numpy as np
-def hello_world():
-    print('Hello World!'')
-{% endhighlight %}
-
-## MathJax
-
-Use MathJax for Math.
-$$ A = \pi r^2 $$
-
-## Tables
-
-Here | is | a | row!
-|---------|:----------|:----------:|---------:|
-is   |Left|  Center  |Right|
-a    | cut | it | A
-column  | short | B | C
-
-## Quotes
-
-> War does not decide who is *right*, only who is **left**.
-
-## Rule
-
----
-
-## HTML
-
-Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]
-
-# Advanced Functionality
-
-Head over to the [documentation page](http://projectpages.github.io/ppguide/) for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
-
-## Color and Alignment
-
-<p align="center">This text is centered.</p>
-
-<p style="color:red">This is a red text with <span style="color:blue">blue</span> and <span style="color:green">green</span> inline text.</p>
-
-# Some Advanced Features
-
-## Data Projector
-
-<embed src="/project-pages/2016/05/02/New-Projector/" height="500px" width="100%">
-
-## STL
-
-<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
-
-
+![GCC]({{site.baseurl}}/img/IPCC_2014_carbon cycle.jpg)
