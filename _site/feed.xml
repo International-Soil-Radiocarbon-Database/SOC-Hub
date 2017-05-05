@@ -3,221 +3,19 @@
   <channel>
     <title>Soil Carbon Information Hub</title>
     <description>A Learning Site for Soil Carbon Science</description>
-    <link>https://projectpages.github.io/project-pages/</link>
-    <atom:link href="https://projectpages.github.io/project-pages/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 May 2017 19:59:57 +0200</pubDate>
-    <lastBuildDate>Fri, 05 May 2017 19:59:57 +0200</lastBuildDate>
+    <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/</link>
+    <atom:link href="https://powellcenter-soilcarbon.github.io/SOC-Hub/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 06 May 2017 00:34:36 +0200</pubDate>
+    <lastBuildDate>Sat, 06 May 2017 00:34:36 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Transport of organic C into and through soils</title>
-        <description>
-  
-    Transport of organic C into and through soils
-
-    
-
-    Susan E. Crow
-
-    12 00 AM ,Wed, Apr 05 2017
-
-  
-
-
-  
-    
-
-    F11 to Fullscreen!
-
-    Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling.
-
-  
-
-
-  
-
-    Seperate with {{ page.horizontal }} between content for horizontal slides.
-
-  
-  
-
-    Seperate with {{ page.vertical }} between content for vertical slides.
-
-  
-
-
-  
-
-    Press ESC for a zoomed out overview of the presentation.
-
-  
-
-
-  
-
-    Press B to pause the presentation.
-
-  
-
-
-  
-
-    Header 1
-
-    Header 2
-
-    Header 3
-
-  
-
-
-  
-
-    Styling
-
-    Bold
-
-    Italics
-
-    Bold and Italics
-
-  
-
-
-  
-
-    Use MathJax for Math.
-
-    
-
-  
-
-
-  
-
-    Lists
-
-    
-      
-        Item 1
-      
-      
-        Item 2
-      
-      
-        Item
-      
-    
-
-  
-
-
-  
-
-    Links
-
-    In-Line
-
-    I’m a reference-style link 1
-
-    I’m a reference-style link 1
-
-  
-
-
-  
-
-    Images
-
-    Alt-Click to zoom.
-
-    
-
-  
-
-
-  
-
-    Code
-
-    Inline code.
-
-  
-  
-
-    Code Block
-
-    import numpy as np
-def _set_colors():
-HighRGB = np.array([26, 152, 80]) / 255.
-
-    
-
-  
-
-
-  
-
-    Quotes
-
-    
-      War does not decide who is right, only who is left.
-    
-
-  
-
-
-  
-
-    HTML
-
-    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.
-
-  
-  
-
-    Some HTML Functionality
-
-    Color and Alignment
-
-    This text is centered.
-
-    This is a red text with blue and green inline text.
-
-  
-
-
-  
-
-    STL
-
-    
-
-  
-
-
-  
-
-    Data Projector
-
-    
-
-    
-  
-
-
-  
-
-    Print
-
-    Back
-
-  
-
+        <description>Write post!
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://projectpages.github.io/project-pages/2017/04/05/Transport/</link>
-        <guid isPermaLink="true">https://projectpages.github.io/project-pages/2017/04/05/Transport/</guid>
+        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Transport/</link>
+        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Transport/</guid>
         
         <category>presentation</category>
         
@@ -390,8 +188,8 @@ reg =
 Published with MATLAB® R2014b
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://projectpages.github.io/project-pages/project1/2017/04/05/Soil-horizons/</link>
-        <guid isPermaLink="true">https://projectpages.github.io/project-pages/project1/2017/04/05/Soil-horizons/</guid>
+        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Soil-horizons/</link>
+        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Soil-horizons/</guid>
         
         <category>matlab</category>
         
@@ -409,8 +207,8 @@ Published with MATLAB® R2014b
         <description>
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://projectpages.github.io/project-pages/project1/2017/04/05/Global-maps/</link>
-        <guid isPermaLink="true">https://projectpages.github.io/project-pages/project1/2017/04/05/Global-maps/</guid>
+        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Global-maps/</link>
+        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Global-maps/</guid>
         
         <category>jupyter</category>
         
@@ -604,8 +402,8 @@ STL
 
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://projectpages.github.io/project-pages/global-context/2017/04/05/Dynamic-role/</link>
-        <guid isPermaLink="true">https://projectpages.github.io/project-pages/global-context/2017/04/05/Dynamic-role/</guid>
+        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/04/05/Dynamic-role/</link>
+        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/04/05/Dynamic-role/</guid>
         
         <category>post</category>
         
@@ -621,8 +419,8 @@ STL
         <description>
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://projectpages.github.io/project-pages/2017/04/05/Composition-diversity/</link>
-        <guid isPermaLink="true">https://projectpages.github.io/project-pages/2017/04/05/Composition-diversity/</guid>
+        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Composition-diversity/</link>
+        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Composition-diversity/</guid>
         
         <category>projector</category>
         

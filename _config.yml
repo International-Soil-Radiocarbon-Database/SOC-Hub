@@ -1,20 +1,20 @@
 # Site settings
 title: Soil Carbon Information Hub
 description: "A Learning Site for Soil Carbon Science"
-url: "https://projectpages.github.io"
+url: "https://powellcenter-soilcarbon.github.io"
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: /SOC-Hub
 header-img: img/group_pic.jpg
 headercolor: "#FFFFFF"
 #logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+github_username:  powellcenter-soilcarbon
+project_repository: soilcarbon
+#disqus_shortname: project-pages
+#g-analytics: UA-75881392-1
+#altmetric: true
 
 # Build settings
 gems: [jekyll-paginate]
