@@ -3,19 +3,33 @@
   <channel>
     <title>Soil Carbon Information Hub</title>
     <description>A Learning Site for Soil Carbon Science</description>
+<<<<<<< HEAD
     <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/</link>
     <atom:link href="https://powellcenter-soilcarbon.github.io/SOC-Hub/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sat, 06 May 2017 00:34:36 +0200</pubDate>
     <lastBuildDate>Sat, 06 May 2017 00:34:36 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+=======
+    <link>http://localhost:4000/project-pages/</link>
+    <atom:link href="http://localhost:4000/project-pages/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 05 May 2017 12:21:48 -1000</pubDate>
+    <lastBuildDate>Fri, 05 May 2017 12:21:48 -1000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
     
       <item>
         <title>Transport of organic C into and through soils</title>
         <description>Write post!
 </description>
+<<<<<<< HEAD
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Transport/</link>
         <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Transport/</guid>
+=======
+        <pubDate>Wed, 05 Apr 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/project-pages/2017/04/05/Transport/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/2017/04/05/Transport/</guid>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
         
         <category>presentation</category>
         
@@ -187,9 +201,15 @@ reg =
 
 Published with MATLAB® R2014b
 </description>
+<<<<<<< HEAD
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Soil-horizons/</link>
         <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Soil-horizons/</guid>
+=======
+        <pubDate>Wed, 05 Apr 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/project-pages/project1/2017/04/05/Soil-horizons/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/project1/2017/04/05/Soil-horizons/</guid>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
         
         <category>matlab</category>
         
@@ -206,9 +226,15 @@ Published with MATLAB® R2014b
         <title>Global Maps of Soil C stocks</title>
         <description>
 </description>
+<<<<<<< HEAD
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Global-maps/</link>
         <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Global-maps/</guid>
+=======
+        <pubDate>Wed, 05 Apr 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/project-pages/project1/2017/04/05/Global-maps/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/project1/2017/04/05/Global-maps/</guid>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
         
         <category>jupyter</category>
         
@@ -224,87 +250,9 @@ Published with MATLAB® R2014b
       <item>
         <title>Dynamic role of soil and terrestrial ecosystems in global C cycle</title>
         <description>
+Global Carbon Cycle
 
-Table of Contents
-
-
-  Table of Contents
-  Basic Functionality    
-      Headers
-    
-  
-  Header 1    
-      Header 2        
-          Header 3
-        
-      
-      Styling
-      Lists
-      Links
-      Images
-      Code
-      MathJax
-      Tables
-      Quotes
-      Rule
-      HTML
-    
-  
-  Advanced Functionality    
-      Color and Alignment
-    
-  
-  Some Advanced Features    
-      Data Projector
-      STL
-    
-  
-
-
-Basic Functionality
-
-Headers
-
-Header 1
-
-Header 2
-
-Header 3
-
-Styling
-
-Bold
-
-Italics
-
-Bold and Italics
-
-Lists
-
-
-  
-    Item 1
-  
-  
-    Item 2
-  
-
-
-
-  
-    Unordered Item
-
-    
-      
-        Sub Item 1
-
-        
-          Bold Sub Sub Ordered Item
-        
-      
-    
-  
-
+The global carbon cycle is a balance of fluxes between reservoirs. Currently there is an imbalance as a result of burning fossil fuels sending an enormous amount of CO2 into the atmosphere.  But, only about half of what is sent to the atmosphere accumulates there and the rest is taken into reservoirs, some into the ocean and a lot into terrestrial component – through vegetation and into soils.  Any process that increases the net movement into stable soil pools is a benefit and any process that increases net movement into the atmosphere is a cost.  There is a large range in both pools and fluxes indicating the uncertainty in our understanding of these processes and how to represent them accurately in earth systems models that generate these numbers.
 
 Links
 
@@ -316,94 +264,17 @@ I’m a reference-style link 1
 
 Images
 
-Hold your pointer clicked over the image to expand the view.
-
-
-
-Code
-
-Inline code.
-
-import numpy as np
-def hello_world():
-    print('Hello World!'')
-
-MathJax
-
-Use MathJax for Math.
-
-
-Tables
-
-
-  
-    
-      Here
-      is
-      a
-      row!
-    
-  
-  
-    
-      is
-      Left
-      Center
-      Right
-    
-    
-      a
-      cut
-      it
-      A
-    
-    
-      column
-      short
-      B
-      C
-    
-  
-
-
-Quotes
-
-
-  War does not decide who is right, only who is left.
-
-
-Rule
-
-
-
-HTML
-
-Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]
-
-Advanced Functionality
-
-Head over to the documentation page for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
-
-Color and Alignment
-
-This text is centered.
-
-This is a red text with blue and green inline text.
-
-Some Advanced Features
-
-Data Projector
-
-
-
-STL
-
-
 
 </description>
+<<<<<<< HEAD
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/04/05/Dynamic-role/</link>
         <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/04/05/Dynamic-role/</guid>
+=======
+        <pubDate>Wed, 05 Apr 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/project-pages/global-context/2017/04/05/Dynamic-role/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/global-context/2017/04/05/Dynamic-role/</guid>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
         
         <category>post</category>
         
@@ -418,9 +289,15 @@ STL
         <title>Composition and diversity of soil organic carbon</title>
         <description>
 </description>
+<<<<<<< HEAD
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Composition-diversity/</link>
         <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Composition-diversity/</guid>
+=======
+        <pubDate>Wed, 05 Apr 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/project-pages/2017/04/05/Composition-diversity/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/2017/04/05/Composition-diversity/</guid>
+>>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
         
         <category>projector</category>
         
