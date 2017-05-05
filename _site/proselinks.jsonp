@@ -2,47 +2,27 @@ callback([
 
   {
     "text": "Composition and diversity of soil organic carbon",
-<<<<<<< HEAD
-    "href": "https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Composition-diversity/"
-=======
-    "href": "http://localhost:4000/project-pages/2017/04/05/Composition-diversity/"
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+    "href": "http://localhost:4000/SOC-Hub/2017/04/05/Composition-diversity/"
   } ,
 
   {
     "text": "Dynamic role of soil and terrestrial ecosystems in global C cycle",
-<<<<<<< HEAD
-    "href": "https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/04/05/Dynamic-role/"
-=======
-    "href": "http://localhost:4000/project-pages/global-context/2017/04/05/Dynamic-role/"
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+    "href": "http://localhost:4000/SOC-Hub/global-context/2017/04/05/Dynamic-role/"
   } ,
 
   {
     "text": "Global Maps of Soil C stocks",
-<<<<<<< HEAD
-    "href": "https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Global-maps/"
-=======
-    "href": "http://localhost:4000/project-pages/project1/2017/04/05/Global-maps/"
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+    "href": "http://localhost:4000/SOC-Hub/project1/2017/04/05/Global-maps/"
   } ,
 
   {
     "text": "Soil horizons and soil carbon in profiles",
-<<<<<<< HEAD
-    "href": "https://powellcenter-soilcarbon.github.io/SOC-Hub/project1/2017/04/05/Soil-horizons/"
-=======
-    "href": "http://localhost:4000/project-pages/project1/2017/04/05/Soil-horizons/"
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+    "href": "http://localhost:4000/SOC-Hub/project1/2017/04/05/Soil-horizons/"
   } ,
 
   {
     "text": "Transport of organic C into and through soils",
-<<<<<<< HEAD
-    "href": "https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/04/05/Transport/"
-=======
-    "href": "http://localhost:4000/project-pages/2017/04/05/Transport/"
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+    "href": "http://localhost:4000/SOC-Hub/2017/04/05/Transport/"
   } 
 
 ])

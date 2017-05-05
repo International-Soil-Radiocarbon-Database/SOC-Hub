@@ -33,13 +33,8 @@
 
     "global-context-2017-04-05-dynamic-role": {
       "title": "Dynamic role of soil and terrestrial ecosystems in global C cycle",
-<<<<<<< HEAD
-      "content"	 : "Table of Contents  Table of Contents  Basic Functionality          Headers        Header 1          Header 2                  Header 3                    Styling      Lists      Links      Images      Code      MathJax      Tables      Quotes      Rule      HTML        Advanced Functionality          Color and Alignment        Some Advanced Features          Data Projector      STL      Basic FunctionalityHeadersHeader 1Header 2Header 3StylingBoldItalicsBold and ItalicsLists      Item 1        Item 2        Unordered Item                  Sub Item 1                  Bold Sub Sub Ordered Item                    LinksIn-LineI’m a reference-style link 1I’m a reference-style link 1ImagesHold your pointer clicked over the image to expand the view.CodeInline code.import numpy as npdef hello_world():    print(&#39;Hello World!&#39;&#39;)MathJaxUse MathJax for Math.Tables            Here      is      a      row!                  is      Left      Center      Right              a      cut      it      A              column      short      B      C      Quotes  War does not decide who is right, only who is left.RuleHTMLCan write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]Advanced FunctionalityHead over to the documentation page for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.Color and AlignmentThis text is centered.This is a red text with blue and green inline text.Some Advanced FeaturesData ProjectorSTL",
-      "url": "/SOC-Hub/global-context/2017/04/05/Dynamic-role/",
-=======
       "content"	 : "Global Carbon CycleThe global carbon cycle is a balance of fluxes between reservoirs. Currently there is an imbalance as a result of burning fossil fuels sending an enormous amount of CO2 into the atmosphere.  But, only about half of what is sent to the atmosphere accumulates there and the rest is taken into reservoirs, some into the ocean and a lot into terrestrial component – through vegetation and into soils.  Any process that increases the net movement into stable soil pools is a benefit and any process that increases net movement into the atmosphere is a cost.  There is a large range in both pools and fluxes indicating the uncertainty in our understanding of these processes and how to represent them accurately in earth systems models that generate these numbers.LinksIn-LineI’m a reference-style link 1I’m a reference-style link 1Images",
-      "url": "/project-pages/global-context/2017/04/05/Dynamic-role/",
->>>>>>> 727beccb4a8a85b80d2ddb14bbe3f5b22642658b
+      "url": "/SOC-Hub/global-context/2017/04/05/Dynamic-role/",
       "author": "Susan E. Crow",
       "categories": "Global-Context"
     }
