@@ -26,38 +26,77 @@
 
 - name: Joseph Blankinship
   role: Fellow
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A457391616598017%401486062067607_l/Joseph_Blankinship.png
+  bio: Joey thinks about triangles
+  url: https://www.researchgate.net/profile/Joseph_Blankinship
 
 - name: Joshua P Schimel
   role: Participant
+  img: https://www.eemb.ucsb.edu/sites/www.eemb.ucsb.edu/files/styles/portrait-full/public/images/faculty/joshua-schimel.jpg
+  url: https://www.eemb.ucsb.edu/people/faculty/schimel
+  bio: Josh brings senior expertise to the team and keeps them focused
 
-- name: Christina Schaedel
+- name: Christina Schädel
   role: Participant
+  img: https://www2.nau.edu/schuurlab-p/images/people/Sch%C3%A4del%20thumb.jpg
+  url: https://www2.nau.edu/schuurlab-p/Schaedel.html
+  bio: Christina contributes to the team with her expertise on permafrost soil carbon
 
 - name: Erika Marin-Spiotta
   role: Participant
+  img: https://marinspiotta.files.wordpress.com/2013/12/dsc_0823-copy-2.jpg
+  bio: Erika contributes her expertise on soil carbon and land use
+  url: https://marinspiotta.wordpress.com/
 
 - name: Asmeret Berhe
   role: Participant
+  img: https://scholar.google.com/citations?view_op=medium_photo&user=AbCVgKMAAAAJ&citpid=4
+  bio: Asmeret rocks the soil erosion component of the soil C cycle
+  url: https://aaberhe.com/
 
 - name: Aaron Thompson
   role: Participant
+  img: http://thompsonlab.uga.edu/Thompson_Lab/people_files/shapeimage_5.jpg
+  bio: Aaron brings expertise on soil chemistry and physicochemical dynamics
+  url: http://thompsonlab.uga.edu/Thompson_Lab/Home.html
 
 - name: Craig Rasmussen
   role: Participant
+  url: https://cals.arizona.edu/swes/rasmussen/
+  bio: Craig thinks beyond the clay paradigm of soil C stabilization
+  img: http://www.environment.arizona.edu/sites/default/files/styles/profile/public/profile/Rasmussen%2C_Craig.jpg
 
 - name: Alain Plante
   role: Participant
+  url: http://web.sas.upenn.edu/aplante/
+  img: https://web.sas.upenn.edu/aplante/files/2016/04/Me-at-SOM5-1qn2m2i.jpg
+  bio: Alain brings his unique perspective to the team.
 
 - name: Jennifer Druhan
   role: Participant
-
+  url: https://www.geology.illinois.edu/cms/One.aspx?portalId=127672&pageId=299670
+  img: https://www.geology.illinois.edu/UserFiles/Servers/Server_127588/Image/Directory/jdruhan.jpg
+  bio: Jenny contributes expertise on reaction transport modeling
 - name: William Wieder
   role: Participant
+  img: https://staff.ucar.edu/sites/default/files/styles/medium/public/user/photos/wwieder.jpg
+  url: https://staff.ucar.edu/users/wwieder
+  bio: Will brings a unique perspective on soil biogeochemistry and land surface modeling
 
 - name: Carlos Sierra
   role: Participant
+  img: http://www.bgc-jena.mpg.de/TEE/assets/Sierra.jpg
+  url: http://www.bgc-jena.mpg.de/TEE/index.html
+  bio: Carlos talks non-sense about theories and models, and mantains this website
 
 - name: Rota Wagai
   role: Participant
+  url: http://www.naro.affrc.go.jp/archive/niaes/researcher/wagai_r_e.html
+  img: http://www.naro.affrc.go.jp/archive/niaes/researcher/wagai.jpg
+  bio: Rota contributes expertise on soil minerology and fractionation methods
 
-
+- name: Caitlin E. Hicks Pries
+  role: Participant
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A272845100023817%401442062749775_l/Caitlin_Hicks_Pries.png
+  url: https://www.researchgate.net/profile/Caitlin_Hicks_Pries
+  bio: Caitlin warms the whole atmosphere of the group

@@ -1,28 +1,38 @@
-# Project Pages
+# SOC-Hub: A Learning Site for Soil Carbon Science 
 
-Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
+This repository contains all files related to the SOC-Hub project.
 
-# Nav Bar Jumbles
+This is a `git` repository, a version control system that keeps track of all files we will share in this project. It will help us to stay updated with the most recent version of all files and recover previous versions if needed.
 
-If you have seemingly random pages popping up on your Nav Bar recently, this is due to the fact that GitHub/Jekyll changed a fundemental rule they used to render pages. 
+The first thing you want to do is to clone this repository, i.e. to download a copy of all files to your computer so you can work on them, make changes and then push updated versions to the central repository. To clone the repository you need first to open the Terminal in OS X, or the Command Prompt in Windows. Once you are there type
 
-## CAUSE:
-It used to be that if a markdown file didn't have `---` frontmatter at the beginning, it wasn't rendered as a page. This was changed very recently (like in the last 2 days) so that every markdown file anywhere no matter what gets rendered as a page.  
+```
+git clone https://github.com/powellcenter-soilcarbon/SOC-Hub.git
+```
 
-## FIX:
+now go to the SOC-Hub folder and see if everything is there
 
-1) Go to:
+```
+cd SOC-Hub/
+ls
+```
 
-`project-pages/plugin/projector/` or `yourreponame/plugin/projector/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+After making changes to existing files or adding new files, you have to tell Git to incorporate these changes with `git add` as
 
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+```
+git add filename.extension
+```
 
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+Then, you need to commit the changes before pushing to the central copy using the command `git commit` as
 
-2) Go to:
+```
+git commit -m "Write here a meaningful message"
+```
 
-`project-pages/css/theme/` or `yourreponame/css/theme/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+Now you are ready to share your changes with the group using the command
 
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+```
+git push
+```
 
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+If you run into problems, you probably can find a solution online just by googling it. You can also find documentation in [Git's website](http://www.git-scm.com/).

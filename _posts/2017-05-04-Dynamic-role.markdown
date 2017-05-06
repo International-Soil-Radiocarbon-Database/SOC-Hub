@@ -2,8 +2,8 @@
 layout:     post
 title:      Dynamic role of soil and terrestrial ecosystems in global C cycle
 author:     Susan E. Crow
-tags: 		post template
-subtitle:  	Some Short Description of Post
+tags:       global warming 
+subtitle:   Some Short Description of Post
 category:  Global-Context
 ---
 <!-- Start Writing Below in Markdown -->
