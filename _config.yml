@@ -12,7 +12,7 @@ headercolor: "#FFFFFF"
 # Tertiary Parameters
 github_username:  powellcenter-soilcarbon
 project_repository: soilcarbon
-#disqus_shortname: project-pages
+disqus_shortname: soc-hub
 #g-analytics: UA-75881392-1
 #altmetric: true
 

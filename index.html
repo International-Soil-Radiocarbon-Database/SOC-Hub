@@ -7,52 +7,78 @@ Welcome to the {{site.title}}, a site for sharing and distributing information o
 Use the links below to obtain information on specific topics. 
 </p>
 
-<h1>Global Context</h1>
-
-
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-subtitle">            {{ post.title }}
-        </h3>
-<!--        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %} -->
-    </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
-<!--	<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div> -->
-</div>
-<hr>
-{% endfor %}
-
-<h1> Controls </h1>
-
-<h1>Quantitative Methods </h1>
+<h1>Main topics</h1>
 
 <!--
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
+        <h3 class="post-subtitle">            {{ post.title }}
+        </h3>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
-        {% endif %}
+        {% endif %} 
     </a>
     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
-	<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div>
 </div>
 <hr>
 {% endfor %}
 -->
+
+<h2> Climate and soil development, geomorphology </h2>
+
+<h2>Climate and plant distribution </h2>
+
+<h2>Global carbon modeling </h2> 
+
+<h2>Carbon fixation, partitioning, and allocation </h2>
+
+<h2> Soil ecosystems </h2>
+
+<h2> Microbial control of carbon flow </h2>
+
+<h2> Physical protection of organic matter in aggregates </h2>
+
+<h2> Mineral association </h2> 
+
+<h2> Accessibility to microbes </h2>
+
+<h2> Mineral </h2> 
+
+<h2> Physical </h2>
+
+<h2> Spectral or thermal </h2>
+
+<h2> Chemical </h2>
+
+<h2> Biological </h2>
+
+<h2> Stable isotopes </h2>
+
+<h2> Radiocarbon </h2>
+
+<h2> Scientific Method and hypothesis testing </h2>
+
+<h2> Big data - how it can be used to solve problems </h2>
+
+<h2> Observations and SOM theory </h2>
+
+<h2> Partitioning of SOM stocks (methods, models, theory) </h2>
+
+<h2> Models of SOM dynamics </h2>
+
+<h2> SOM storage capacity, carbon saturation </h2>
+
+<h2> Drivers of change in SOM stocks - loss and gains </h2>
+
+<h2> Soil C contribution to soil health and climate change mitigation </h2>
+
+
+
+
+
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
