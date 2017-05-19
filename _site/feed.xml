@@ -3,19 +3,19 @@
   <channel>
     <title>Soil Carbon Information Hub</title>
     <description>A Learning Site for Soil Carbon Science</description>
-    <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/</link>
-    <atom:link href="https://powellcenter-soilcarbon.github.io/SOC-Hub/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 May 2017 14:46:08 +0200</pubDate>
-    <lastBuildDate>Sun, 14 May 2017 14:46:08 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/SOC-Hub/</link>
+    <atom:link href="http://localhost:4000/SOC-Hub/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 19 May 2017 10:58:17 -1000</pubDate>
+    <lastBuildDate>Fri, 19 May 2017 10:58:17 -1000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Transport of organic C into and through soils</title>
         <description>Write post!
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0200</pubDate>
-        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Transport/</link>
-        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Transport/</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/SOC-Hub/global-context/2017/05/04/Transport/</link>
+        <guid isPermaLink="true">http://localhost:4000/SOC-Hub/global-context/2017/05/04/Transport/</guid>
         
         <category>transport</category>
         
@@ -30,9 +30,9 @@
         <title>Soil horizons and soil carbon in profiles</title>
         <description>
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0200</pubDate>
-        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Soil-horizons/</link>
-        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Soil-horizons/</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/SOC-Hub/global-context/2017/05/04/Soil-horizons/</link>
+        <guid isPermaLink="true">http://localhost:4000/SOC-Hub/global-context/2017/05/04/Soil-horizons/</guid>
         
         <category>pedology</category>
         
@@ -47,9 +47,9 @@
         <title>Global Maps of Soil C stocks</title>
         <description>
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0200</pubDate>
-        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Global-maps/</link>
-        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Global-maps/</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/SOC-Hub/global-context/2017/05/04/Global-maps/</link>
+        <guid isPermaLink="true">http://localhost:4000/SOC-Hub/global-context/2017/05/04/Global-maps/</guid>
         
         <category>maps</category>
         
@@ -63,27 +63,80 @@
       </item>
     
       <item>
-        <title>Dynamic role of soil and terrestrial ecosystems in global C cycle</title>
+        <title>Global Carbon Context</title>
         <description>
-Global Carbon Cycle
+Global carbon cycle
 
 The global carbon cycle is a balance of fluxes between reservoirs. Currently there is an imbalance as a result of burning fossil fuels sending an enormous amount of CO2 into the atmosphere.  But, only about half of what is sent to the atmosphere accumulates there and the rest is taken into reservoirs, some into the ocean and a lot into terrestrial component – through vegetation and into soils.  Any process that increases the net movement into stable soil pools is a benefit and any process that increases net movement into the atmosphere is a cost.  There is a large range in both pools and fluxes indicating the uncertainty in our understanding of these processes and how to represent them accurately in earth systems models that generate these numbers.
 
-Links
 
-In-Line
+From Intergovernmental Panel on Climate Change (IPCC) 2013
 
-I’m a reference-style link 1
+Global maps of soil C stocks
 
-I’m a reference-style link 1
-
-Images
+Soil organic carbon is distributed globally on land surfaces and total carbon stock is dependent on carbon concentration and depth of soil profile.  Detecting change in carbon stock on a regional or site-level is challenging because we rarely sample all the way to bedrock, and land use, management, or vegetation can impact the bulk density of soil and therefore the carbon stock if measured on a volumetric basis only at the surface of the soil profile.  One solution is to remove volume from the carbon stock equation and calculate carbon stock on an equivalent mass basis instead of volume basis.
 
 
+  References Carbon Stocks
+    
+      (Köchy et al. 2015) doi: 10.5194/soil-1-351-2015
+    
+  
+  Equivalent Soil Mass method
+    
+      (Davidson and Ackerman 1993) doi: 10.1007/BF00000786
+      (Ellert and Bettany 1995) doi: 10.4141/cjss95-075
+      (Gifford and Roderick 2003) doi: 10.1046/j.1365-2486.2003.00677.x
+      (Wendt and Hauser 2013) doi: 10.1111/ejss.12002
+      (Crow et al. 2016) doi: 10.1080/17583004.2016.1213140
+    
+  
+
+
+Soil horizons and soil carbon in profiles
+Soil carbon persists throughout the soil profile, typically in higher concentration at the surface and lower concentration in deeper horizons of mineral soils. Permafrost and peat soils, particularly abundant in high latitudes, may have homogenous, high organic carbon concentrations throughout very deep profiles.
+
+
+From EPA CLU-IN content on terrestrial carbon sequestration
+
+Transport of organic C into and through soils
+Multiple soil processes act to transform and transport organic matter in soil resulting in additions and losses throughout the profile.
+
+
+From FOA International Year of Soils 2015
+
+Soil as an ecosystem
+
+  Ecosystem: A community of organisms interacting with their environment and functioning as a system linked together by nutrient and energy flows
+  High biological diversity is considered an indicator of high soil quality
+    
+      Species diversity – number of species, distribution of numbers
+      Functional diversity –value and range of organismal traits that influence ecosystem functioning
+        
+          Functional group – a set of species that have similar traits and thus are likely to have similar effects on ecosystem functioning
+          Functions of soil ecosystem?  Nutrient cycling (specifically, biological N fixation, nitrification, denitrification, etc), decomposition, water relations, etc. From a human perspective, these are “ecosystem services”.
+        
+      
+      Functional redundancy – multiple organisms have same functionality, provides stability and resilience
+    
+  
+  Stability – the ability of soils to continue to perform functions of nutrient cycling, use of organic wastes, maintenance of soil structure
+  Resilience – ability to recover following severe disturbance
+
+
+
+
+
+
+
+
+
+
+From NREM 304 Fundamentals of Soil Science, University of Hawaii Manoa
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0200</pubDate>
-        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Dynamic-role/</link>
-        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Dynamic-role/</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/SOC-Hub/global-context/2017/05/04/Dynamic-role/</link>
+        <guid isPermaLink="true">http://localhost:4000/SOC-Hub/global-context/2017/05/04/Dynamic-role/</guid>
         
         <category>global</category>
         
@@ -98,9 +151,9 @@ Images
         <title>Composition and diversity of soil organic carbon</title>
         <description>
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0200</pubDate>
-        <link>https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/05/04/Composition-diversity/</link>
-        <guid isPermaLink="true">https://powellcenter-soilcarbon.github.io/SOC-Hub/2017/05/04/Composition-diversity/</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -1000</pubDate>
+        <link>http://localhost:4000/SOC-Hub/2017/05/04/Composition-diversity/</link>
+        <guid isPermaLink="true">http://localhost:4000/SOC-Hub/2017/05/04/Composition-diversity/</guid>
         
         <category>biodiversity</category>
         
