@@ -1,28 +1,8 @@
 callback([
 
   {
-    "text": "Composition and diversity of soil organic carbon",
-    "href": "http://localhost:4000/SOC-Hub/2017/05/04/Composition-diversity/"
-  } ,
-
-  {
-    "text": "Global Carbon Context",
+    "text": "Dynamic role of soil and terrestrial ecosystems in the global C cycle",
     "href": "http://localhost:4000/SOC-Hub/global-context/2017/05/04/Dynamic-role/"
-  } ,
-
-  {
-    "text": "Global Maps of Soil C stocks",
-    "href": "http://localhost:4000/SOC-Hub/global-context/2017/05/04/Global-maps/"
-  } ,
-
-  {
-    "text": "Soil horizons and soil carbon in profiles",
-    "href": "http://localhost:4000/SOC-Hub/global-context/2017/05/04/Soil-horizons/"
-  } ,
-
-  {
-    "text": "Transport of organic C into and through soils",
-    "href": "http://localhost:4000/SOC-Hub/global-context/2017/05/04/Transport/"
   } 
 
 ])

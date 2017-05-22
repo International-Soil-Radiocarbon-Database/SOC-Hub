@@ -8,8 +8,11 @@ Use the links below to obtain information on specific topics.
 </p>
 
 
-<!--
+
+<h1>Soil carbon within the global C cycle</h1>
+
 {% for post in paginator.posts %}
+{% if post.category == "Global-Context" %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-subtitle">            {{ post.title }}
@@ -23,11 +26,9 @@ Use the links below to obtain information on specific topics.
     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
--->
 
-
-<h1>Soil carbon within the global C cycle</h1>
 
 <h1> Primary controls on soil carbon development </h1>
  <h2> Climate controls </h2>
