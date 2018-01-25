@@ -1,0 +1,48 @@
+---
+title: "Soil Carbon Information Hub Template"
+author: "Jon M. Wells"
+layout: post
+output: word_document
+tags: stabilization mechanisms conceptual theory
+category: Secondary controls on carbon turnover
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#The Conundrum of SOM
+
+Outline the history of how SOC/SOM has been conceptualized
+
+List of important publications:
+  * Sollins et al. (1996) DOI: [10.1016/S0016-7061(96)00036-5](https://doi.org/10.1016/S0016-7061(96)00036-5)
+
+#Humification as a theory is unsupported
+
+Explain how humication theory is unsupported.
+
+![Figure 1. How our view of SOM has changed as we employ new soil measurement techniques. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f2.2.jpg)
+
+Discuss the emerging understandings in stabilization mechanisms. 
+
+![Figure 2. An emerging understanding of stabilization/destabilization processes has replaced humification theory. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg)
+
+List of important publications:
+  * Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)
+
+#Rethinking the Conceptual Theory of SOM Sequestration
+
+As paradigms have shifted, its important to get away from humification terminology and embrace mechanistic theories and conceptualizations of soil carbon stabilization.
+
+![Figure 3. The soil continum model (SCM) is an attempt to bring together disparate conceptualizations of soil carbon storage, which is an important step forward in soil science as we try to determine the best measurement and modeling techniques to predict SOC changes. For full figure text see Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)](https://media.springernature.com/m685/nature-assets/nature/journal/v528/n7580/images/nature16069-f2.jpg)
+
+List of important publications:
+  * Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)
+
+#Moving forward: bringing together theory, measurement, and modeling
+
+Theory, measurement, and modeling need to be thought of as a single process to close the loop of the scientific method and create usable products to not just inform further science, but also provide farmers, land managers, policy makers, and the general public a tool to understand soil carbon. 
+
+List of important publications:
+  * Triangle paper
