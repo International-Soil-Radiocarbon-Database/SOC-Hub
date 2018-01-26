@@ -1,9 +1,9 @@
 ---
-layout:     post
-author:     Susan E. Crow
-title:      Dynamic role of soil and terrestrial ecosystems in the global C cycle
-tags:       global warming
-category:  Global-Context
+title: "Dynamic role of soil and terrestrial ecosystems in the global C cycle"
+author: "Susan E. Crow"
+layout: post
+tags: global warming
+category: Global-Context
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -11,7 +11,7 @@ category:  Global-Context
 
  The global carbon cycle is a balance of fluxes between reservoirs. Currently there is an imbalance as a result of burning fossil fuels sending an enormous amount of CO<sub>2</sub> into the atmosphere.  But, only about half of what is sent to the atmosphere accumulates there and the rest is taken into reservoirs, some into the ocean and a lot into terrestrial component – through vegetation and into soils.  Any process that increases the net movement into stable soil pools is a benefit and any process that increases net movement into the atmosphere is a cost.  There is a large range in both pools and fluxes indicating the uncertainty in our understanding of these processes and how to represent them accurately in earth systems models that generate these numbers.
 
-![GCC]({{site.baseurl}}/img/IPCC_2014_carbon cycle.jpg)
+![GCC](IPCC_2014_carbon cycle.jpg)
 [From Intergovernmental Panel on Climate Change (IPCC) 2013](http://www.ipcc.ch/report/ar5/wg1/)
 
 # Global maps of soil C stocks
@@ -30,13 +30,15 @@ Soil organic carbon is distributed globally on land surfaces and total carbon st
 # Soil horizons and soil carbon in profiles
 Soil carbon persists throughout the soil profile, typically in higher concentration at the surface and lower concentration in deeper horizons of mineral soils. Permafrost and peat soils, particularly abundant in high latitudes, may have homogenous, high organic carbon concentrations throughout very deep profiles.
 
-![GCC]({{site.baseurl}}/img/soil_carbon cross_section.jpg)
+![GCC](soil_carbon cross_section.jpg)
+
 [From EPA CLU-IN content on terrestrial carbon sequestration](https://clu-in.org/ecotools/seq.cfm)
 
 # Transport of organic C into and through soils
 Multiple soil processes act to transform and transport organic matter in soil resulting in additions and losses throughout the profile.
 
- ![Processes]({{site.baseurl}}/img/FAO Year of Soils_soil processes.pdf)
+ ![Processes](FAO Year of Soils_soil processes.png)
+
 [From FOA International Year of Soils 2015](http://www.fao.org/global-soil-partnership/overview/why-the-partnership/en/)
 
 # Soil as an ecosystem
@@ -50,12 +52,19 @@ Multiple soil processes act to transform and transport organic matter in soil re
 * *Stability* – the ability of soils to continue to perform functions of nutrient cycling, use of organic wastes, maintenance of soil structure
 * *Resilience* – ability to recover following severe disturbance
 
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides1.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides2.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides3.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides4.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides5.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides6.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides7.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides8.pdf)
+![Soil organisms](Soil organisms_lecture slides1.png)
+![Soil organisms](Soil organisms_lecture slides2.png)
+
+![Soil organisms](Soil organisms_lecture slides3.png)
+
+![Soil organisms](Soil organisms_lecture slides4.png)
+
+![Soil organisms](Soil organisms_lecture slides5.png)
+
+![Soil organisms](Soil organisms_lecture slides6.png)
+
+![Soil organisms](Soil organisms_lecture slides7.png)
+
+![Soil organisms](Soil organisms_lecture slides8.png)
+
 From [NREM](https://www.ctahr.hawaii.edu/nrem/) 304 Fundamentals of Soil Science, University of Hawaii Manoa
