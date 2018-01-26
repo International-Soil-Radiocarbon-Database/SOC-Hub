@@ -2,6 +2,7 @@
 title: "Dynamic role of soil and terrestrial ecosystems in the global C cycle"
 author: "Susan E. Crow"
 layout: post
+output: word_document
 tags: global warming
 category: Global-Context
 ---

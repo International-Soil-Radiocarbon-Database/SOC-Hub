@@ -3,9 +3,9 @@ title: "Soil Carbon Information Hub Template"
 author: "Jon M. Wells"
 layout: post
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
 tags: stabilization mechanisms conceptual theory
 category: Secondary controls on carbon turnover
 ---
