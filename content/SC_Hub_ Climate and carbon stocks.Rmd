@@ -1,0 +1,50 @@
+---
+title: "SC_Hub_Climate_and_carbon stocks"
+author: "Casey McGrath"
+date: "January 30, 2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#The State of Science: Earth System Modeling 
+
+The state of climate science has been ever evolving in the face of global climate change. Global climate change is the overall increase of the Earth’s temperature by the input of greenhouse gases into the Earth’s atmosphere. This increase in temperature not only affects the planet’s atmosphere but also the terrestrial processes involved in the Earth’s crust, both above ground and below ground. One of the most important processes being effected in terrestrial ecosystems is the soil carbon cycle. See the previous blog [post](https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Dynamic-role/) titled the “Dynamic role of soil and terrestrial ecosystems in the global C cycle” to learn the essentials on the soil carbon cycle. 
+
+Earth system models (ESM) work to integrate the interactions between the atmosphere, biosphere, lithosphere and hydrosphere to predict responses to certain conditions. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest there is significant potential to sequester carbon into to the soil within this century. It is projected the decomposition rates will increase as the global temperature increases, however this effect is predicted to be offset by net primary productivity of plants (Todd-Brown et al. 2014). [DOI](https://doi.org/10.5194/bg-11-2341-2014). As with all models there are uncertainties within these relationships nonetheless. Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is a positive feedback loop [DOI](https://doi.org/10.1038/nature06591).  This positive feedback loop creates major challenges in accurate ESMs (Figure 1). 
+
+![Figure 1: Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of SOC stocks.  a, microbial metabolism and permafrost thawing b,  'microbial priming effect', c, interactions between carbon and nitrogen cycles. Pink arrows denote effects of terrestrial ecosystems on climate, orange arrows denote effects of climate change on terrestrial ecosystems, and black arrows denote interactions within ecosystems (Heimann and Reichmann, 2008).]
+
+#Climate and its relationship with soil carbon turnover
+
+Different climates present different challenges to ESM. Dependent on the latitude a soil falls upon the soil carbon will have different vulnerabilities to global climate change. Using the biome descriptions given in Olson et al. (2011), [DOI](https://doi.org/10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2), we can take a look at the different soil carbon stocks by biome in Table 2.  Permafrost and peatlands have some of the highest amounts of soil organic carbon (SOC) trapped within their soils. As the Earth’s temperature increases the carbon stored in these soils is threatened by the melting of these partially frozen soils and therefore reigniting the decomposition process of the microbes in the soil. 
+
+!Table 2: SOC by biome given by Jackson et al. 2017 [DOI](https://doi.org/10.1146/annurev-ecolsys-112414-054234)
+
+The effects of this phenomenon is underrepresented in current ESMs. In order to accurately predict how carbon is moving from the soil to the atmosphere, modelers are looking for ways to reduce uncertainties in these predicts so they can hold more power in the argument of increase soil carbon to mitigate the greenhouse gas effect driving climate change. The main sources of uncertainty in ESM are climate control on net primary productivity (NPP), (Fung et al., 2005) [DOI](https://doi.org/10.1073/pnas.0504949102), soil respiration (Jones et al., 2003) (doi: doi:10.1029/2005JD006548), tropical forest to savannah conversion (Friedlingstein et al., 2006) [DOI](https://doi.org/10.1175/JCLI3800.1), and the turnover time of live carbon (Friend et al., 2014) [DOI](https://doi.org/10.1073/pnas.1222477110). One model that is trying to reduce this uncertainty, specifically in the turnover time of live carbon, is the Coupled Model Intercomparison Project Phase 5 (CMIP5). This model is looking at the two main pools of carbon live (vegetation) and dead (decomposing organic matter) in order to address how carbon may be changing with climate change. By separating the carbon into two separate pools the variables on carbon feedbacks like photosynthesis and microbial decomposition can be better controlled and manipulated within the model predict responses to different conditions.  These two separate pools were applied to five existing ESMs to determine the effect of this uncertainty (Koven et al. 2015) [DOI](https://doi.org/10.5194/bg-12-5211-2015). Figure 2 shows the variations between the five models once the two pool carbon protocol from CMIP5 is enacted.  
+
+!Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al. 2015). 
+
+#Management
+
+It is important to understand the amount of soil carbon across the globe as well as how it may change over time in order to managed it correctly. Land use change is the most critical factor of how carbon is lost from soils. By understanding how soil carbon react under different management practices we can help manage the land for it’s best use and for the health of the overall environment. Land use emits  25% of the total anthropogenically influenced greenhouse gases (GHG) into the atmosphere. Of this 25%, the biggest contributors to GHG are agriculture and deforestation (Tubiello et al., 2015) [DOI](https://doi.org/10.1111/gcb.12865). Focusing on these two land use changes by applying them to a global model would help to substantially decrease carbon emissions. 
+
+!Figure 3: Using three separate datasets on global GHG emissions, Tubiello et al., (2015) looked at the total contribution from agriculture, forestry and other land uses and the combined agriculture forestry and other land uses to determine at roughly 10 Gt of CO2 per year. 
+
+Movements are already being made to help sequester carbon through better land management, specifically in agriculture. The “4 per mil initiative” in France is looking to secure food and climate security by increasing the quantity of organic matter in the top 30-40cm of soils by 4% each year on over 570 million farms across the world [4permil](https://www.4p1000.org/). By increasing the organic matter in soil by management decisions like reducing deforestation and increasing agro-ecological practices, the amount of carbon dioxide going into the atmosphere will be halted and thus slowing the consequences of climate change. These movements however are only possible with an integrated implementation approach across scientists, land managers, farmers and policy makers. This discussion starts with ESM models of what SOC stocks look like across the globe and then predicting the positive effects that proper land management can have on increasing the SOC in vulnerable areas like those under agriculture. 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
