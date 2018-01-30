@@ -5,10 +5,6 @@ layout: post
 output: word_document
 tags: "climate change, carbon stocks, ESM"
 category: "Climate and carbon stocks"
-level 1:
-level 2: 
-level 3: 
-
 ---
 
 ```{r setup, include=FALSE}
@@ -21,38 +17,38 @@ The state of climate science has been ever evolving in the face of global climat
 
 Earth system models (ESM) work to integrate the interactions between the atmosphere, biosphere, lithosphere and hydrosphere to predict responses to certain conditions. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest there is significant potential to sequester carbon into to the soil within this century. It is projected the decomposition rates will increase as the global temperature increases, however this effect is predicted to be offset by net primary productivity of plants (Todd-Brown et al. 2014). [DOI](https://doi.org/10.5194/bg-11-2341-2014). As with all models there are uncertainties within these relationships nonetheless. Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is a positive feedback loop [DOI](https://doi.org/10.1038/nature06591).  This positive feedback loop creates major challenges in accurate ESMs (Figure 1). 
 
-!Figure 1: [Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of SOC stocks.  a, microbial metabolism and permafrost thawing b,  'microbial priming effect', c, interactions between carbon and nitrogen cycles. Pink arrows denote effects of terrestrial ecosystems on climate, orange arrows denote effects of climate change on terrestrial ecosystems, and black arrows denote interactions within ecosystems (Heimann and Reichmann, 2008).](link)
+![Figure 1: Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of SOC stocks.  a, microbial metabolism and permafrost thawing b,  'microbial priming effect', c, interactions between carbon and nitrogen cycles. Pink arrows denote effects of terrestrial ecosystems on climate, orange arrows denote effects of climate change on terrestrial ecosystems, and black arrows denote interactions within ecosystems (Heimann and Reichmann, 2008).](Figure1.png)
 
 #Climate and its relationship with soil carbon turnover
 
 Different climates present different challenges to ESM. Dependent on the latitude a soil falls upon the soil carbon will have different vulnerabilities to global climate change. Using the biome descriptions given in Olson et al. (2011), [DOI](https://doi.org/10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2), we can take a look at the different soil carbon stocks by biome in Table 2.  Permafrost and peatlands have some of the highest amounts of soil organic carbon (SOC) trapped within their soils. As the Earth’s temperature increases the carbon stored in these soils is threatened by the melting of these partially frozen soils and therefore reigniting the decomposition process of the microbes in the soil. 
 
-!Table 1: [SOC by biome given by Jackson et al. 2017 [DOI](https://doi.org/10.1146/annurev-ecolsys-112414-054234)](link)
+![Table 1: SOC by biome given by Jackson et al. 2017 [DOI](https://doi.org/10.1146/annurev-ecolsys-112414-054234)](link)
 
 The effects of this phenomenon is underrepresented in current ESMs. In order to accurately predict how carbon is moving from the soil to the atmosphere, modelers are looking for ways to reduce uncertainties in these predicts so they can hold more power in the argument of increase soil carbon to mitigate the greenhouse gas effect driving climate change. The main sources of uncertainty in ESM are climate control on net primary productivity (NPP), (Fung et al., 2005) [DOI](https://doi.org/10.1073/pnas.0504949102), soil respiration (Jones et al., 2003) [DOI](https://doi.org/10.1029/2005JD006548), tropical forest to savannah conversion (Friedlingstein et al., 2006) [DOI](https://doi.org/10.1175/JCLI3800.1), and the turnover time of live carbon (Friend et al., 2014) [DOI](https://doi.org/10.1073/pnas.1222477110). One model that is trying to reduce this uncertainty, specifically in the turnover time of live carbon, is the Coupled Model Intercomparison Project Phase 5 (CMIP5). This model is looking at the two main pools of carbon live (vegetation) and dead (decomposing organic matter) in order to address how carbon may be changing with climate change. By separating the carbon into two separate pools the variables on carbon feedbacks like photosynthesis and microbial decomposition can be better controlled and manipulated within the model predict responses to different conditions.  These two separate pools were applied to five existing ESMs to determine the effect of this uncertainty (Koven et al. 2015) [DOI](https://doi.org/10.5194/bg-12-5211-2015). Figure 2 shows the variations between the five models once the two pool carbon protocol from CMIP5 is enacted.  
 
-!Figure 2: [The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al. 2015).](link) 
+![Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al. 2015).](link) 
 
 #Management
 
 It is important to understand the amount of soil carbon across the globe as well as how it may change over time in order to managed it correctly. Land use change is the most critical factor of how carbon is lost from soils. By understanding how soil carbon react under different management practices we can help manage the land for it’s best use and for the health of the overall environment. Land use emits  25% of the total anthropogenically influenced greenhouse gases (GHG) into the atmosphere. Of this 25%, the biggest contributors to GHG are agriculture and deforestation (Tubiello et al., 2015) [DOI](https://doi.org/10.1111/gcb.12865). Focusing on these two land use changes by applying them to a global model would help to substantially decrease carbon emissions. 
 
-!Figure 3: [Using three separate datasets on global GHG emissions, Tubiello et al., (2015) looked at the total contribution from agriculture, forestry and other land uses and the combined agriculture forestry and other land uses to determine at roughly 10 Gt of CO2 per year.](link) 
+![Figure 3: Using three separate datasets on global GHG emissions, Tubiello et al., (2015) looked at the total contribution from agriculture, forestry and other land uses and the combined agriculture forestry and other land uses to determine at roughly 10 Gt of CO2 per year.](link) 
 
 Movements are already being made to help sequester carbon through better land management, specifically in agriculture. The “4 per mil initiative” in France is looking to secure food and climate security by increasing the quantity of organic matter in the top 30-40cm of soils by 4% each year on over 570 million farms across the world [4permil](https://www.4p1000.org/). By increasing the organic matter in soil by management decisions like reducing deforestation and increasing agro-ecological practices, the amount of carbon dioxide going into the atmosphere will be halted and thus slowing the consequences of climate change. These movements however are only possible with an integrated implementation approach across scientists, land managers, farmers and policy makers. This discussion starts with ESM models of what SOC stocks look like across the globe and then predicting the positive effects that proper land management can have on increasing the SOC in vulnerable areas like those under agriculture. 
 
-!Figure 4: [Integrating a broad range of stakeholder to help develop models and reduce uncertainties is needed to models for helping to “drive advanced model-based GHG metrics.” This requires cross discipline cooperation in model creation and implementation of practice and policies to transition into “climate smart” agriculture. (Paustian et al. 2016) [DOI](https://doi.org/10.1038/nature17174).](link)
+![Figure 4: Integrating a broad range of stakeholder to help develop models and reduce uncertainties is needed to models for helping to “drive advanced model-based GHG metrics.” This requires cross discipline cooperation in model creation and implementation of practice and policies to transition into “climate smart” agriculture. (Paustian et al. 2016) [DOI](https://doi.org/10.1038/nature17174).](link)
 
 
 #Original models
 
 The original models in the global climate cycle looked at soil carbon stocks within an area as a relationship between precipitation, evapotranspiration, carbon minerals and the Holdridge world life zones (more commonly referred to as biomes). These early models of global terrestrial carbon failed to account for the effects of climate change that would be brought into fruition many years after the original models were established. 
 
-Figure 5: [Contours of soil carbon density overlaid on the Holdridge world life zones, displaying the old view of how carbon stocks are distributed globally (Post et al. 1982) [DOI](https://doi.org/10.1038/298156a0).](link)
+[Figure 5: Contours of soil carbon density overlaid on the Holdridge world life zones, displaying the old view of how carbon stocks are distributed globally (Post et al. 1982) [DOI](https://doi.org/10.1038/298156a0).](link)
 
 Looking at Figure 6 from Scharlemann et al. (2014) [DOI](https://doi.org/10.4155/cmt.13.77)) it is shown that the total global estimates in carbon density have evolved overtime. Some estimates have been over the current level (#28) and others have been underestimated.  As we enter this new period of climate change and all the heavy uncertainty around the relationship of terrestrial carbon and the atmosphere, we need to evolve the ESM models to encompass this change. Protocols like those in CMIP5 are helping to address this uncertainty but are only scratching the surface of what is to come. 
 
-!Figure 6: [The estimates of the global distribution of carbon density (tons of C ha-1) extracted from literature of that time (Scharlemann et al. 2014)](link)
+![Figure 6: The estimates of the global distribution of carbon density (tons of C ha-1) extracted from literature of that time (Scharlemann et al. 2014)](link)
 
 #Types of Models 
 
@@ -60,7 +56,7 @@ There are several different types of models that have been developed in ESM. Mos
 
 There are three types of reactive transport modeling, continuum models, pore scale models, and hybrid models. Continuum models averaging the systems properties across a control volume or representative elementary volume (REV). This is the most common and efficient method of modelling since it averages coupled processes to address a larger scale.  Pore scale models “aim to capture pore scale behavior through a set of rules governing mass transport and chemical/biological reactions within and between individual pores” (Steefel et al. 2005). These models are efficient for use on computational power. Hybrid models use a hierarchical system to link different continuum representing a characteristic length scale to the next continuum to model the entire system (Steefel et al. 2005). 
 
-!Figure 7: [Governing equations for a reactive transport system (Steefel et al., 2005)](link)
+![Figure 7: Governing equations for a reactive transport system (Steefel et al., 2005)](link)
 
 
 For all these approaches there are many challenges to scaling. When a model scales from pore to ESM there is many associated uncertainties. The on the ground data used to validate the model may not represent the true values within the system and the data could upscale or downscale the model result.  Also there may be that the model data is not abundant enough and extrapolating it to cover an ecosystem or entire planet is not representative of the randomness within the system. 
@@ -71,5 +67,5 @@ Nonetheless, changing from a linear model to a multi continua model is the new f
 
 Efforts are being made to quantify global carbon stocks using empirical relationships that have been determined from existing datasets. The International Soil Carbon Network (ICSN) is a “large-scale synthesis of soil carbon science” [ISCN](http://iscn.fluxdata.org/). This network synthesizes data about soil carbon into a single platform that then can be used to understand some of the still under answered questions  on soil carbon dynamics. One of the largest questions is carbon stabilization and destabilization and under what conditions do either exist, which is critical in the face of climate change. Mostly soil carbon experiments focus solely on the top 30 cm of soil, the relationship of climate change to deep soil carbon is still widely unexplored. The is what created the call for the International Soil Experimental Network (ISEN). ISEN is a global database of manipulative soil warming experiments that focus specifically on the effects of warming deep (at least to 1m) soil profiles (Torn et al. 2015) [DOI]((https://doi.org/10.5194/soil-1-575-2015). Networks like the ISCN and ISEN provide the framework for the addition of data into a global soil carbon database. This data can then be used to extrapolate global soil carbon stocks and how they may change in the future due to climate change. This kind of data is an important step in reducing uncertainty in ESMs. 
 
-!Figure 8: [Existing and planned sites for the ISEN at the time of the paper publication. The global temperature map shows the predicted increase in mean temperature for 2080-2100 at 0.01 m soil depth  (Torn et al. 2015)]
+![Figure 8: Existing and planned sites for the ISEN at the time of the paper publication. The global temperature map shows the predicted increase in mean temperature for 2080-2100 at 0.01 m soil depth  (Torn et al. 2015)](link)
 
