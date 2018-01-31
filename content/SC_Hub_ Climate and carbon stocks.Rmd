@@ -44,7 +44,7 @@ Movements are already being made to help sequester carbon through better land ma
 
 The original models in the global climate cycle looked at soil carbon stocks within an area as a relationship between precipitation, evapotranspiration, carbon minerals and the Holdridge world life zones (more commonly referred to as biomes). These early models of global terrestrial carbon failed to account for the effects of climate change that would be brought into fruition many years after the original models were established. 
 
-[Figure 5: Contours of soil carbon density overlaid on the Holdridge world life zones, displaying the old view of how carbon stocks are distributed globally (Post et al. 1982) [DOI](https://doi.org/10.1038/298156a0).](link)
+[Figure 5: Contours of soil carbon density overlaid on the Holdridge world life zones, displaying the old view of how carbon stocks are distributed globally (Post et al. 1982)[DOI](https://doi.org/10.1038/298156a0).](link)
 
 Looking at Figure 6 from Scharlemann et al. (2014) [DOI](https://doi.org/10.4155/cmt.13.77)) it is shown that the total global estimates in carbon density have evolved overtime. Some estimates have been over the current level (#28) and others have been underestimated.  As we enter this new period of climate change and all the heavy uncertainty around the relationship of terrestrial carbon and the atmosphere, we need to evolve the ESM models to encompass this change. Protocols like those in CMIP5 are helping to address this uncertainty but are only scratching the surface of what is to come. 
 
