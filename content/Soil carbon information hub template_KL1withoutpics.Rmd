@@ -172,28 +172,5 @@ Doi: [10.2136/sssaj2013.02.0081](https://www.soils.org/publications/sssaj/abstra
 #above is the first example of inserting an image into your Rmarkdown file.  the '![]()' syntax is used.  You start with an '!'.  Then Within the brakets [] you include the text that you want included as the figure caption.  Then Within the parentheses () you include the link to where the image can be found; the image is from the web in the above example.  I have also nested the link to Schmidts paper's DOI within the figure text which is why it appears complicated.  Below is a similar example with a different image.  Remember you will be copying this template and, though trial and error, it will begin to make sense... and if it doesnt, we'll help you in class. 
 ```
 
-Discuss the emerging understandings in stabilization mechanisms. 
 
-![Figure 2. An emerging understanding of stabilization/destabilization processes has replaced humification theory. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg)
 
-List of important publications:
-
-Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)
-
-#Rethinking the Conceptual Theory of SOM Sequestration
-
-As paradigms have shifted, its important to get away from humification terminology and embrace mechanistic theories and conceptualizations of soil carbon stabilization.
-
-![Figure 3. The soil continum model (SCM) is an attempt to bring together disparate conceptualizations of soil carbon storage, which is an important step forward in soil science as we try to determine the best measurement and modeling techniques to predict SOC changes. For full figure text see Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)](https://media.springernature.com/m685/nature-assets/nature/journal/v528/n7580/images/nature16069-f2.jpg)
-
-List of important publications:
-
-Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)
-
-#Moving forward: bringing together theory, measurement, and modeling
-
-Theory, measurement, and modeling need to be thought of as a single process to close the loop of the scientific method and create usable products to not just inform further science, but also provide farmers, land managers, policy makers, and the general public a tool to understand soil carbon. 
-
-List of important publications:
-
-Triangle paper
