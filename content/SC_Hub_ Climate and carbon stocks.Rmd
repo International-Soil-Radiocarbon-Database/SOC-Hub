@@ -10,7 +10,6 @@ category: "Climate and carbon stocks"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 #The State of Science: Earth System Modeling 
 
 The state of climate science has been ever evolving in the face of global climate change. Global climate change is the overall increase of the Earth's temperature by the input of greenhouse gases into the Earth's atmosphere. This increase in temperature not only affects the planet's atmosphere, but also the terrestrial (land-based) processes involved in the Earth's crust, both above ground and below ground. One of the most important processes being effected in terrestrial ecosystems is the soil carbon cycle. See the previous blog post titled the "Dynamic role of soil and terrestrial ecosystems in the global C cycle" to learn the essentials on the soil carbon cycle.
@@ -18,29 +17,30 @@ The state of climate science has been ever evolving in the face of global climat
 Earth system models (ESM) work to integrate the interactions between the atmosphere, plants, soil and water to predict responses to certain conditions. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest there is significant potential soil to uptake a large amount of carbon from the atmosphere within this century, given the use of best land management practices. As with all models there are uncertainties within these relationships nonetheless. Findings from Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is actually a series of nested systems of positive feedback loops. Accurately accounting for the nested systems within the larger system creates major challenges in accurate ESMs (Figure 1).
 
 ![Figure 1: Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of soil organic carbon (SOC) stocks. (Heimann and Reichmann, 2008).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure1.png)
-*Resources*
-Todd-Brown et al. 2014 [DOI](https://doi.org/10.5194/bg-11-2341-2014)
-Heimann and Reichstein (2008) [DOI](https://doi.org/10.1038/nature06591) 
 
+**Further Resources** 
+
+Todd-Brown et al. 2014 [DOI](https://doi.org/10.5194/bg-11-2341-2014)  
+Heimann and Reichstein (2008) [DOI](https://doi.org/10.1038/nature06591)   
 
 #Changing climate and it's complicated relationship with soil carbon
 
 Different climates present different challenges to ESM. Dependent on the latitude a soil falls upon the soil carbon will have different vulnerabilities to global climate change. Table 1 shows the amount of carbon in each soil by biome. Permafrost and peatlands have some of the highest amounts of soil organic carbon (SOC) trapped within their soils. As the Earth's temperature increases the carbon stored in these soils is threatened by the melting of these partially frozen soils and therefore reigniting the metabolisms of the microbes in the soil, which then respire CO2 back into the atmosphere. This melting permafrost is a key example of the uncertainties that effect ESMs. The main sources of uncertainty in ESMs are climate control on net primary productivity (NPP), soil respiration, tropical forest to savannah conversion, and the turnover time of live carbon or live plant biomass. More about these sources of uncertainty can be found in this sections resources.  
 
-![Table 1: SOC by biome given by Jackson et al. 2017 [DOI](https://doi.org/10.1146/annurev-ecolsys-112414-054234)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Table1.png)
+![Table 1: SOC by biome given by Jackson et al. 2017](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Table1.png)
 
 One ESM that is trying to reduce this uncertainty, specifically in the turnover time of live carbon, is the Coupled Model Intercomparison Project Phase 5 (CMIP5). This model is looking at the two main pools of carbon live (vegetation) and dead (decomposing organic matter) in order to address how carbon may be changing with climate change. By separating the carbon into two separate pools the variables on carbon feedbacks can be better controlled and manipulated within the model. Figure 2 shows the results from the CMIP5 model.  
 
 ![Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al., 2015).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure2.png) 
 
-*Resources*
-Olson et al. (2011), [DOI](https://doi.org/10.1641/00063568(2001)051[0933:TEOTWA]2.0.CO;2) 
-Fung et al.,  (2005) [DOI](https://doi.org/10.1073/pnas.0504949102) 
-Jones et al., 2003 [DOI](https://doi.org/10.1029/2005JD006548) 
-Friedlingstein et al., (2006) [DOI](https://doi.org/10.1175/JCLI3800.1) 
-Friend et al., (2014) [DOI](https://doi.org/10.1073/pnas.1222477110) 
-Koven et al. (2015) [DOI](https://doi.org/10.5194/bg-12-5211-2015)  
+** Further Resources**   
 
+Olson et al. (2011), [DOI](https://doi.org/10.1641/00063568(2001)051[0933:TEOTWA]2.0.CO;2)  
+Fung et al.,  (2005) [DOI](https://doi.org/10.1073/pnas.0504949102)     
+Jones et al., 2003 [DOI](https://doi.org/10.1029/2005JD006548)   
+Friedlingstein et al., (2006) [DOI](https://doi.org/10.1175/JCLI3800.1)   
+Friend et al., (2014) [DOI](https://doi.org/10.1073/pnas.1222477110)   
+Koven et al. (2015) [DOI](https://doi.org/10.5194/bg-12-5211-2015)    
 
 #Models for Management: How ESMs help make informed decisions 
 
@@ -52,9 +52,10 @@ Movements are already being made to help sequester carbon through better land ma
 
 ![Figure 4: Cross discipline cooperation in model creation and implementation of practice and policies to transition into "climate smart" agriculture. (Paustian et al., 2016).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure4.png)
 
-*Resources* 
-(Tubiello et al., 2015) [DOI](https://doi.org/10.1111/gcb.12865) 
-(Paustian et al.2016)[DOI](https://doi.org/10.1038/nature17174)
+**Further Resources**   
+
+Tubiello et al., (2015) [DOI](https://doi.org/10.1111/gcb.12865)     
+Paustian et al.(2016) [DOI](https://doi.org/10.1038/nature17174)    
 
 #Where have we come from?: The first global SOC models 
 
@@ -66,9 +67,10 @@ Figure 6 shows how the total global estimates in carbon density have evolved ove
 
 ![Figure 6: The estimates of the global distribution of carbon density (tons of C ha-1) extracted from literature of that time (Scharlemann et al. 2014).)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure6.png)
 
-*Resources*
-Post et al., (1982)[DOI](https://doi.org/10.1038/298156a0).
-Scharlemann et al. (2014) [DOI](https://doi.org/10.4155/cmt.13.77) 
+**Further Resources**     
+
+Post et al., (1982) [DOI](https://doi.org/10.1038/298156a0).  
+Scharlemann et al., (2014) [DOI](https://doi.org/10.4155/cmt.13.77)   
 
 #Where are we going?: The future of ESMs 
 
@@ -78,13 +80,13 @@ There are three types of reactive transport modeling, continuum models, pore sca
 
 ![Figure 7: Governing equations for a reactive transport system (Steefel et al., 2005)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure7.png)
 
-
 For all these approaches there are many challenges to scaling. When a model scales from a soil pore to ESM there is many associated uncertainties. The on the ground data used to validate the model may not represent the true values within the system and the data could upscale or downscale the model predictions. Also there may there is not enough data for the model and extrapolating it to cover an ecosystem or entire planet is not representative of the randomness within the system.
 Nonetheless, changing from a linear model to a multi continua model is the new focus of ESMs in order to create accurate forecasts for how climate change may affect carbon stocks across different ecosystems. The mechanisms of carbon sequestration and decomposition are so complex and variant by climate that they require a modeling approach that reflects the complexities and nonlinearity of the environment. Bradford et al. (2016) suggest "model-knowledge integration" where models can be accurately represented by adding our advanced knowledge of carbon stabilization to improve feedback projections. Moving forward we need to bring together theory, measurement and modeling in order to predict accurate relationships and create sustainable management decisions *(link to Jon's paper)*.
 
-*Resources*
-Steefel et al., (2005) [DOI](https://doi.org/10.1016/j.epsl.2005.09.017) 
-Bradford et al., (2016) [DOI](https://doi.org/10.1038/nclimate3071) 
+**Further Resources**  
+
+Steefel et al., (2005) [DOI](https://doi.org/10.1016/j.epsl.2005.09.017)     
+Bradford et al., (2016) [DOI](https://doi.org/10.1038/nclimate3071)   
 
 #Improving empirical relationships to strength ESM: Enter ISCN and ISEN 
 
@@ -92,7 +94,8 @@ Efforts are being made to quantify global carbon stocks using empirical relation
 
 ![Figure 8: Existing and planned sites for the ISEN at the time of the paper publication. The global temperature map shows the predicted increase in mean temperature for 2080-2100 at 0.01 m soil depth (Torn et al. 2015)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure8.png)
 
-*Resources*
+**Further Resources**   
+
 Torn et al., (2015) [DOI](https://doi.org/10.5194/soil-1-575-2015)  
 
 
