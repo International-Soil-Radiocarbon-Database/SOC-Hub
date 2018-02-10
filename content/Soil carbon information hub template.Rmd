@@ -47,7 +47,7 @@ SOM includes a variety of different forms of carbon that are produced from heter
 
 #Thermal/Spectroscopic Methods
 
-A. Infrared (IR) Spectroscopy
+##A. Infrared (IR) Spectroscopy
 
 
 
