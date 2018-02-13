@@ -1,0 +1,44 @@
+---
+title: "Mineral methods"
+author: "Jon M. Wells"
+layout: post
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+tags: stabilization mechanisms conceptual theory
+level1: "3. secondary controls"
+level2: "a. stabilization mechanisms"
+level3: "i. conceptual theory"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Selective dissolutions to measure soil minerals
+
+
+
+\newline
+
+**List of important publications**:
+
+Wagai et al. (2014)
+
+Pansu et al. (2006)
+
+#Common soil minerals and their structures
+
+\newline
+
+**List of important publications**:
+
+
+#Mineral surface reactivity as a SOM storage control
+
+\newline
+
+**List of important publications**:
+
+Sposito et al. (2008)
