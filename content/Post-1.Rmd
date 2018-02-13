@@ -1,0 +1,119 @@
+---
+title: "Big Data in Science & Problem Solving"
+author: "Hunter Heaivilin"
+output:
+  html_notebook: default
+  word_document: default
+layout: post
+---
+
+## What is big data?
+
+!["Static tag cloud visualization (word cloud) of key terms appearing in abstracts of Big Data-related papers." via [De Mauro, Greco, & Grimaldi, 2015](https://doi.org/10.1063/1.4907823)
+](abstract_scrape_no_title.png){ width=75% }
+
+As with [many emerging concepts](got another example?) there is no uniform definition of big data, there are however a conceptual overlaps among them. In 2001, [Laney](link to ref section or doi?) identified Volume, Velocity and Variety as important factors of large format (originally termed 3D) data management. The 3 V's, as they became known, have since been extended them. 
+
+"Big data is a term describing the storage and analysis of large and or complex data sets using a series of techniques""
+
+> “Big Data represents the Information assets characterized by such a High Volume, Velocity and Variety to require specific Technology and Analytical Methods for its transformation into Value.”
+
+in [De Mauro et al., 2015](https://doi.org/10.1063/1.4907823)
+
+
+
+However, most definitions like to use some set of V's [3,4]. Most often:
+
+* Volume: the size of data generated
+
+* Velocity: the speed of data creation
+
+* Variety: the spread of types of data
+
+* Veracity: the uncertainty, error, or other issues the data
+
+![IBM's Take](http://www.ibmbigdatahub.com/sites/default/files/styles/xlarge-scaled/public/infographic_image/4-Vs-of-big-data.jpg?itok=4syrvSLX)
+
+#### So, is the [SOC-HUB](outlink) a "big data" prjoect?
+
+The **volume** of data is XXX.
+
+The **velocity** of the data is limited by the speed at which graduate students will be entering templated data into the hub. As the userbase isn't likely to reach that of a social media platform, SOC-HUB data velocity will be low. 
+
+The **variety** 
+
+### Why big data now?
+Machines generate data at this point, more than people
+
+How is it different from small data?
+
+
+#### References
+- De Mauro, Andrea, Marco Greco, and Michele Grimaldi. “What Is Big Data? A Consensual Definition and a Review of Key Research Topics.” AIP Conference Proceedings 1644, no. 1 (February 9, 2015): 97–104. https://doi.org/10.1063/1.4907823.
+
+- Laney, Doug. “3D Data Management: Controlling Data Volume, Velocity and Variety.” META Group Research Note 6, no. 70 (2001).
+
+- Ward, Jonathan Stuart, and Adam Barker. “Undefined By Data: A Survey of Big Data Definitions.” ArXiv:1309.5821 [Cs], September 20, 2013. http://arxiv.org/abs/1309.5821.
+
+
+
+
+
+***
+
+## Big data and problem solving
+
+> "All models are wrong, but some are useful"   
+>  -George Box,  in [Science and Statistics (1976)](https://doi.org/10.2307/2286841) 
+
+
+A decade ago big data was heralded by some as the [end of theory](https://www.wired.com/2008/06/pb-theory/) and [displacing the scientific method](find a link about this). Needless to say this was [not recieved well](find a paper about the/a response to Anderson ) by all. 
+
+### Inductive vs deductive approaches
+
+![Different Strokes](https://image.slidesharecdn.com/bigdatamay2012-130219160123-phpapp02/95/big-data-may-2012-19-638.jpg?cb=1361289722)
+
+![different methods](maxresdefault.jpg)
+
+
+**possibly connect to SOM issues in the past?**
+
+*	The Problem of Induction - Hume
+
+The [SOC-Hub](link to mainpage) aims to use mass data entry and points to ...
+
+### Machine Learning
+The volume of data and the technological requirements to process it have led to novel approaches to analysis like [Map Reduce]() and [Machine Learning](). Machine learning can ...
+
+### Data-Driven Investigation
+For a long time the scientific method has dictated that study should follow a distinct process to be valid. This has extended even to questioning of the human genome mapping project as being valid science since it was not hypothesis fueled but more so an exploratory data generating process. 
+
+Now however data-driven investigation has begun to lose its stigma; both in the sense of research that generates data of potential use (see 'omics' research review) as well as using data exploration to drive further exploration (as in the case of Xx?)
+***
+
+## Problems in Big Data solutions
+####Bias
+There is not uniform access to the systems that generate big data, and thus there will almost inevitably be a slant in any analysis performed on the data. This is in part addressed by good understanding of how the data is generated and the steps involved in processing. 
+
+####Privacy
+
+####Correlation over causation?
+[Google's Flu rate prediction bungle](http://science.sciencemag.org/content/343/6176/1203) provides an interesting case of how bias, sampling, and other errors come easily into play when generally accepted scientific practice is left by the wayside in preference of the power of correlation. 
+
+
+***
+
+## References/Figures
+
+
+1. De Mauro, Andrea, Marco Greco, and Michele Grimaldi. “What Is Big Data? A Consensual Definition and a Review of Key Research Topics.” AIP Conference Proceedings 1644, no. 1 (February 9, 2015): 97–104. https://doi.org/10.1063/1.4907823. 
+
+2. Ward, Jonathan Stuart, and Adam Barker. “Undefined By Data: A Survey of Big Data Definitions.” ArXiv:1309.5821 [Cs], September 20, 2013. http://arxiv.org/abs/1309.5821.
+
+“The Four V’s of Big Data.” IBM Big Data & Analytics Hub. Accessed February 6, 2018. http://www.ibmbigdatahub.com/infographic/four-vs-big-data.
+3. Laney, Doug. “3D Data Management: Controlling Data Volume, Velocity and Variety.” META Group Research Note 6, no. 70 (2001).
+
+
+***
+
+
