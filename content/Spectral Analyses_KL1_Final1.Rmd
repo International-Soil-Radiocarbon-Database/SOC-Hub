@@ -60,7 +60,7 @@ This method measures overtones, harmonics and muted combination bands; dominated
 Source:    
 [EAG Laboratory](https://www.eag.com/)
 
-![From [Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/spectroscopy-elemental-isotope-analysis-learning-center/molecular-spectroscopy-information/nir-technology.html)](NIR_ThermoFisher(1).jpg)
+![From [Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/spectroscopy-elemental-isotope-analysis-learning-center/molecular-spectroscopy-information/nir-technology.html)](NIR_ThermoFisher(1).jpg)   
 
 
 ###3. Mid-infrared (MIR) - 2500-25,000nm
@@ -130,7 +130,7 @@ Sedlmair et al. (2012) DOI: [10.1016/j.chemgeo.2011.08.009](http://www.sciencedi
 This non-destructive technique is used to quantify the elemental compositions of SOM and measure film thickness and composition. The soil sample is irradiated with X-rays that interact with the innermost electrons of the atom (K- and L-shells), causing the emission of X-rays with energies characteristic of the elements present. This method can analyze a few micrometers to several millimeters depending on the material. (EAG Lab)
 
 
-![From [Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/spectroscopy-elemental-isotope-analysis-learning-center/elemental-analysis-information/xrf-technology.html)](XRF(1).jpg)
+![From [Bruker](https://www.bruker.com/products/x-ray-diffraction-and-elemental-analysis/handheld-xrf/how-xrf-works.html)](XRF(2).jpg)
 
 Sources:   
 EAG Laboratory (https://www.eag.com/)
@@ -151,7 +151,7 @@ Another study done by Gillespie et al. (2014) characterized and developed relati
 DOI: [10.1016/j.soilbio.2013.09.021](http://www.sciencedirect.com/science/article/pii/S0038071713003222)   
 
 
-**Modelling soil carbon fractions***
+**Modelling soil carbon fractions**
 
 In Florida, Knox et al. (2015) sampled 1014 sites for individual pools of soil carbon to better understand processes such as decomposition and accretion of soil C. VNIR, MIR, and a combination of the VNIR-MIR spectral region were used to estimate four different soil C fractions - total carbon, soil organic carbon, recalcitrant carbon, and hydrolysable carbon. Partial least squares regression (PLSR) and random forest (RF) was successful in modelling the four fractions, although, the latter is recommended for future studies planning to conduct chemometric analysis of C fractions. 
 DOI: [10.1016/j.geoderma.2014.10.019](http://linkinghub.elsevier.com/retrieve/pii/S0016706114003863)
