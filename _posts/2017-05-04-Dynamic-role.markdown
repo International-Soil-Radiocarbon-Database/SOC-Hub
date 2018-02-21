@@ -21,10 +21,10 @@ Soil organic carbon is distributed globally on land surfaces and total carbon st
 * References Carbon Stocks
   * (Köchy et al. 2015) [doi: 10.5194/soil-1-351-2015](http://www.soil-journal.net/1/351/2015/)
 * Equivalent Soil Mass method
-  * (Davidson and Ackerman 1993) doi: 10.1007/BF00000786
-  * (Ellert and Bettany 1995) doi: 10.4141/cjss95-075
-  * (Gifford and Roderick 2003) doi: 10.1046/j.1365-2486.2003.00677.x
-  * (Wendt and Hauser 2013) doi: 10.1111/ejss.12002
+  * (Davidson and Ackerman 1993) [doi: 10.1007/BF00000786](https://link.springer.com/article/10.1007%2FBF00000786)
+  * (Ellert and Bettany 1995) [doi: 10.4141/cjss95-075](http://www.nrcresearchpress.com/doi/10.4141/cjss95-075)
+  * (Gifford and Roderick 2003) [doi: 10.1046/j.1365-2486.2003.00677.x](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2486.2003.00677.x/abstract;jsessionid=E872AE73409698CE91116C9045A97225.f02t02)
+  * (Wendt and Hauser 2013) [doi: 10.1111/ejss.12002](http://onlinelibrary.wiley.com/doi/10.1111/ejss.12002/abstract)
   * (Crow et al. 2016) [doi: 10.1080/17583004.2016.1213140](https://www.researchgate.net/publication/306433614_Carbon_balance_implications_of_land_use_change_from_pasture_to_managed_eucalyptus_forest_in_Hawaii)
 
 # Soil horizons and soil carbon in profiles
@@ -36,7 +36,7 @@ Soil carbon persists throughout the soil profile, typically in higher concentrat
 # Transport of organic C into and through soils
 Multiple soil processes act to transform and transport organic matter in soil resulting in additions and losses throughout the profile.
 
- ![Processes]({{site.baseurl}}/img/FAO Year of Soils_soil processes.pdf)
+ ![Processes]({{site.baseurl}}/img/FAOYearSoils.jpg)
 [From FOA International Year of Soils 2015](http://www.fao.org/global-soil-partnership/overview/why-the-partnership/en/)
 
 # Soil as an ecosystem
@@ -50,12 +50,12 @@ Multiple soil processes act to transform and transport organic matter in soil re
 * *Stability* – the ability of soils to continue to perform functions of nutrient cycling, use of organic wastes, maintenance of soil structure
 * *Resilience* – ability to recover following severe disturbance
 
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides1.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides2.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides3.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides4.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides5.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides6.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides7.pdf)
-![Soil organisms]({{site.baseurl}}/img/Soil organisms_lecture slides8.pdf)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_1.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_2.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_3.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_4.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_5.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_6.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_7.jpg)
+![Soil organisms]({{site.baseurl}}/img/Soilorganisms_8.jpg)
 From [NREM](https://www.ctahr.hawaii.edu/nrem/) 304 Fundamentals of Soil Science, University of Hawaii Manoa
