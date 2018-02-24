@@ -2,12 +2,15 @@
 title: "Thermal Fractionation"
 author: "Kristy Lam"
 layout: post
-output: word_document
-tags: ["thermal fractionation"]
-category: "Secondary controls on carbon turnover"
-level1: "Quantitative Methods"
-level2: "Fractionation of SOM"
-level3: "Thermal Fractionation"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+level2: Fractionation of SOM
+level3: Thermal Fractionation
+level1: Quantitative Methods
+tags: thermal fractionation
+category: Secondary controls on carbon turnover
 ---
 
 ```{r setup, include=FALSE}
@@ -48,7 +51,20 @@ This method involves two parts: thermogravimetry (TG) and differential scanning 
 Sources:   
 EAG Laboratory (https://www.eag.com/)
 
+##B. Pyrolysis Gas Chromatography-Mass Spectrometry (Py GC-MS)
 
+This technique studies the chemical composition of plant material and polymers at the molecular scale. First, the sample is thermally fragmented through pyrolysis, then separated by gas chromatography. According to the mass-charge ratio and relative abundance, the sample is ionized and characterized. This method often provides useful information and insight on the origin of SOC/SOM. In a study conducted by Lara-Gonzalo et al. (2015), they were able to utilize Py GC-MS to quickly identify the majority of the contaminants present at the site, thus found it very useful as a screening system to obtain qualitative results in soil pollution studies. Although this technique only requires minimal sample preparation, Py GC-MS is a destructive technique and non-homogenous samples may lead to variable results. Common types of Py GC-MS analyses include: single shot, double shot, evolved gas anlysis, and much more. (click [here](https://www.eag.com/pyrolysis-gc-ms/) for a more comprehensive list)    
+
+
+Sources:      
+Jimenez-Gonzales et al. (2017) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)      
+Lara-Gonzalo et al., (2015) DOI: [10.1016/j.orggeochem.2015.06.012](https://www.sciencedirect.com/science/article/pii/S0146638015001321)    
+EAG Laboratory (https://www.eag.com/)     
+
+
+![From [Frontier Lab](http://www.frontier-lab.com/english/multi-functional-pyrolysis-system/)](PyGCMS_Frontier.jpg)
+
+![From Jimenez-Gonzales et al. (2007) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)](Py-GMCS-Jimenez-Gonzales_2017.png)      
 
 #Applications
 

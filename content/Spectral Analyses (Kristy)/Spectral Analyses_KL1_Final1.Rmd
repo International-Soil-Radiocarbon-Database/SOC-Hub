@@ -80,18 +80,7 @@ Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/co
 
 ![From [Thermo Fisher](http://www.avantec.fr/content/tfs/fr_fr/about-us/general-landing-page/ftir-technology.html)](FTIR_ThermoFisher.jpg) 
 
-##B. Pyrolysis Gas Chromatography-Mass Spectrometry (Py GC-MS)
-
-This technique studies the chemical composition of plant material and polymers at the molecular scale. First, the sample is thermally fragmented through pyrolysis, then separated by gas chromatography. According to the mass-charge ratio and relative abundance, the sample is ionized and characterized. This method often provides useful information and insight on the origin of SOC/SOM. In a study conducted by Lara-Gonzalo et al. (2015), they were able to utilize Py GC-MS to quickly identify the majority of the contaminants present at the site, thus found it very useful as a screening system to obtain qualitative results in soil pollution studies. Although this technique only requires minimal sample preparation, Py GC-MS is a destructive technique and non-homogenous samples may lead to variable results. Common types of Py GC-MS analyses include: single shot, double shot, evolved gas anlysis, and much more. (click [here](https://www.eag.com/pyrolysis-gc-ms/) for a more comprehensive list) 
-
-![From [Frontier Lab](http://www.frontier-lab.com/english/multi-functional-pyrolysis-system/)](PyGCMS_Frontier.jpg)
-
-Sources:    
-Jimenez-Gonzales et al. (2017) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)   
-Lara-Gonzalo et al., (2015) DOI: [10.1016/j.orggeochem.2015.06.012](https://www.sciencedirect.com/science/article/pii/S0146638015001321)   
-EAG Laboratory (https://www.eag.com/)
-
-##C. Nuclear Magnetic Resonance (NMR) Spectroscopy 
+##B. Nuclear Magnetic Resonance (NMR) Spectroscopy 
 
 This method involves aligning magnetic nuclei of a specific isotope (i.e. ^13^C) by a strong external magnet, then perturbing it with a radio wave. Once the molecule absorbs the external energy, the nucleus is in resonance. This resonance frequency tells us about the identity, quantity, position, and intra-molecular relationships occurring within the analyzed substance. Check out this [video from Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/nuclear-magnetic-resonance-nmr.html).
 
@@ -105,7 +94,7 @@ Reeves III et al. (2012) DOI: [10.1016/B978-0-12-386897-8.00020-6](https://www.s
 Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/core/books/soil-carbon-dynamics/6E3BE5527BCBE2147B09CDB5F76D8788)   
 EAG Laboratory (https://www.eag.com/)
 
-##D. Raman Spectroscopy
+##C. Raman Spectroscopy
 
 This method is used to determine and identify the chemical structure of compounds through vibrational spectroscopy. It provides better resolution than FTIR as well as qualitative analysis of SOC/SOM. Additionally, this technique can analyze at a small scale (i.e. 1um). Taquet et al. (2012) found that one of the advantages of Raman is that it is portable and robust, thus allowing quantitative analyses of absolute gas concentrations.
 
@@ -115,7 +104,7 @@ EAG Laboratory (https://www.eag.com/)
 
 ![From [University of Maryland](http://www.chem.umd.edu/wp-content/uploads/2014/01/)](Raman(1).jpg) 
 
-##E. X-ray 
+##D. X-ray 
 
 ###1. X-ray Absorption Near-Edge Structure (XANES) or Near edge X-ray Absorption Fine Structure (NEXAFS)
 
