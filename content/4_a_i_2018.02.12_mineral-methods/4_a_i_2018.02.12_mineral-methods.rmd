@@ -16,21 +16,28 @@ level3: "i. conceptual theory"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Common soil minerals and their structures
+#Soil minerals, their formation, and their structures
 
-Soils are largely made up of minerals formed by the weathering of rocks and in terms of geological time are in a constant state of flux.  Different types of rocks are constantly being weathered to different extents, which creates complex and variable soils.  Differences in rock and weathering pathways have subsequently been linked to differences in soil behavior.  Looking at different minerals and mineral fractions allows comparison of the abilities of soil minerals to interact with things like water, nutrients, and organic matter.
+Soils are largely made up of minerals formed by the weathering of rocks geological time and are in a constant state of flux.  Different types of rocks are constantly being weathered to different extents, which creates complex and variable soils.  Rocks and their weathering pathways have subsequently been linked to differences in soil behavior.  Looking at different minerals and mineral fractions lets us evaluate how soils interact with many substances like water, nutrients, and organic matter.  
 
 
-![](rock weathering.jpg)
+![From Brady & Weil (2015) describing how rock substrate can we weathered into mineral soils](rock weathering.jpg)
+
+\newline 
+
+Rocks are made up of varying amounts of primary minerals and weather to secondary minerals.  These minerals then have differing activities in the soil, and can change soil processes and properties.
+
+![Selected primary and secondary minerals in soils from Brady and Weil (2015)](http://images.slideplayer.com/26/8441966/slides/slide_6.jpg)
 
 \newline
 
 **List of important publications**:
 
-Brady & Weil ()
+Brady & Weil (2015) DOI: []()
 
 #Selective dissolutions to measure soil minerals
 
+Selective mineral dissolution is used to estimate the abundance of different mineral in a soil.  Different fractions, like organo-metal complexes, can be extracted
 
 \newline
 
