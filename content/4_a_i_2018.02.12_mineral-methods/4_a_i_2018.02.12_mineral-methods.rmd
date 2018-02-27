@@ -3,9 +3,9 @@ title: "Mineral methods"
 author: "Jon M. Wells"
 layout: post
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
 tags: stabilization mechanisms conceptual theory
 level1: "3. secondary controls"
 level2: "a. stabilization mechanisms"
@@ -16,8 +16,20 @@ level3: "i. conceptual theory"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Selective dissolutions to measure soil minerals
+#Common soil minerals and their structures
 
+Soils are largely made up of minerals formed by the weathering of rocks and in terms of geological time are in a constant state of flux.  Different types of rocks are constantly being weathered to different extents, which creates complex and variable soils.  Differences in rock and weathering pathways have subsequently been linked to differences in soil behavior.  Looking at different minerals and mineral fractions allows comparison of the abilities of soil minerals to interact with things like water, nutrients, and organic matter.
+
+
+![](rock weathering.jpg)
+
+\newline
+
+**List of important publications**:
+
+Brady & Weil ()
+
+#Selective dissolutions to measure soil minerals
 
 
 \newline
@@ -27,12 +39,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Wagai et al. (2014)
 
 Pansu et al. (2006)
-
-#Common soil minerals and their structures
-
-\newline
-
-**List of important publications**:
 
 
 #Mineral surface reactivity as a SOM storage control
