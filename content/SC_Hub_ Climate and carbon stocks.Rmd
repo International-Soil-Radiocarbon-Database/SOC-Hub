@@ -1,101 +1,91 @@
 ---
-title: "SC Hub:Climate and Carbon Stocks: Earth Systems Modeling"
+title: "SC Hub:Linkages between soil order, ecosystems and climate"
 author: "Casey McGrath"
 layout: post
 output: word_document
-tags: "climate change, carbon stocks, ESM"
+tags: "climate change, carbon stocks, ecosystem services"
 category: "Climate and carbon stocks"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-#The State of Science: Earth System Modeling 
+#Classifying the World's Soils 
 
-The state of climate science has been ever evolving in the face of global climate change. Global climate change is the overall increase of the Earth's temperature by the input of greenhouse gases into the Earth's atmosphere. This increase in temperature not only affects the planet's atmosphere, but also the terrestrial (land-based) processes involved in the Earth's crust, both above ground and below ground. One of the most important processes being effected in terrestrial ecosystems is the soil carbon cycle. See the previous blog post titled the "Dynamic role of soil and terrestrial ecosystems in the global C cycle" to learn the essentials on the soil carbon cycle.
+Across the planet there are a wide variety of ecosystems all hosted by a unique soil. Each soil is defined by different factors of soil pedogensis all that give a soil its distinct capabilities to hold nutrients, water and organisms for that area of the world. Different soil types are important to the biodiversity of ecosystems and the organisms they hold. Just as biodiversity of plants and animals  is important to overall ecosystem health, the biodiversity of the worlds soils are what provide the skin of the Earth’s crust that make it possible to sustain life. 
 
-Earth system models (ESM) work to integrate the interactions between the atmosphere, plants, soil and water to predict responses to certain conditions. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest there is significant potential soil to uptake a large amount of carbon from the atmosphere within this century, given the use of best land management practices. As with all models there are uncertainties within these relationships nonetheless. Findings from Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is actually a series of nested systems of positive feedback loops. Accurately accounting for the nested systems within the larger system creates major challenges in accurate ESMs (Figure 1).
+Like the five kingdom classification system, soil scientists have worked to group together soils with similar characteristics into groups called orders. The are two widely recognized ways for classifying soil orders are the International Union of Soil Sciences and the U.S. Department of Agriculture soil orders. The International Union of Soil Sciences created the World Reference Base which delineated global soils into 30 different soil orders and is the International soil classification system. The USDA Soil Taxonomy has 12 soil orders and is the American soil classification system. Each order is differentiated by  one or two dominant physical, chemical, or biological properties. In the anthropogenic sense, these properties make each soil order have specific land use.
 
-![Figure 1: Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of soil organic carbon (SOC) stocks. (Heimann and Reichmann, 2008).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure1.png)
+
+![Figure 1: The Global Soil Regions map using the USDA 12 order soil taxonomy system. (NRCS)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure2.jpg)
 
 **Further Resources** 
 
-Todd-Brown et al. 2014 [DOI](https://doi.org/10.5194/bg-11-2341-2014)  
-Heimann and Reichstein (2008) [DOI](https://doi.org/10.1038/nature06591)   
+Check out this [link] (https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_053588)  to explore the USDA 12 soil orders of Soil Taxonomy 
 
-#Changing climate and it's complicated relationship with soil carbon
+To explore the 30 orders of the World Reference Base classification system, click [here] (http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
 
-Different climates present different challenges to ESM. Dependent on the latitude a soil falls upon the soil carbon will have different vulnerabilities to global climate change. Table 1 shows the amount of carbon in each soil by biome. Permafrost and peatlands have some of the highest amounts of soil organic carbon (SOC) trapped within their soils. As the Earth's temperature increases the carbon stored in these soils is threatened by the melting of these partially frozen soils and therefore reigniting the metabolisms of the microbes in the soil, which then respire CO2 back into the atmosphere. This melting permafrost is a key example of the uncertainties that effect ESMs. The main sources of uncertainty in ESMs are climate control on net primary productivity (NPP), soil respiration, tropical forest to savannah conversion, and the turnover time of live carbon or live plant biomass. More about these sources of uncertainty can be found in this sections resources.  
+![Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by the 30 soil orders of the World Reference Base.](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure6.jpg)
+   
 
-![Table 1: SOC by biome given by Jackson et al. 2017](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Table1.png)
+#Soils formation to biome creation 
 
-One ESM that is trying to reduce this uncertainty, specifically in the turnover time of live carbon, is the Coupled Model Intercomparison Project Phase 5 (CMIP5). This model is looking at the two main pools of carbon live (vegetation) and dead (decomposing organic matter) in order to address how carbon may be changing with climate change. By separating the carbon into two separate pools the variables on carbon feedbacks can be better controlled and manipulated within the model. Figure 2 shows the results from the CMIP5 model.  
+Soil pedogensis is the process of soil formation from a series of environmental factors. 
+The five main factors of soil pedogensis are, climate, organisms (including humans), relief, parent material, and time. Commonly referred to as CLORPT, these factors along with their processes of additions, removals, transfers and transformations create each pedon of attributes, soil type (classification), qualities and suitability.   
 
-![Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al., 2015).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure2.png) 
+                                          #FACTORS + PROCESSES = PEDON 
 
-** Further Resources**   
+Why do we care about a diversity of soil types? Soils are the second most important influence on vegetation after climate. To understand the link between climate and vegetation see the previous blog post titled “Climate and Plant Distribution” (Link to GW and PL blog post). The fertility of the soil along with the climate determine the type and density of aboveground biomass for a region. In Figure 2 below the vegetation type, temperature and precipitation regime are categorized along a gradient below. 
 
-Olson et al. (2011), [DOI](https://doi.org/10.1641/00063568(2001)051[0933:TEOTWA]2.0.CO;2)  
-Fung et al.,  (2005) [DOI](https://doi.org/10.1073/pnas.0504949102)     
-Jones et al., 2003 [DOI](https://doi.org/10.1029/2005JD006548)   
-Friedlingstein et al., (2006) [DOI](https://doi.org/10.1175/JCLI3800.1)   
-Friend et al., (2014) [DOI](https://doi.org/10.1073/pnas.1222477110)   
-Koven et al. (2015) [DOI](https://doi.org/10.5194/bg-12-5211-2015)    
+![Figure 3: The effects of climate on soil formation and dominant vegetation type. 
+Soils are he second most important influence on vegetation after climate (Thomson Higher Education (2007)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure7.jpg) 
 
-#Models for Management: How ESMs help make informed decisions 
+The density of  vegetation for an area influences the belowground biomass in both roots and decomposing organic matter. Looking back at Figure 2 we can see that tropical and temperate regions hosted more organic matter than desert and arctic regions. This phenomenon is due to the density of vegetation in these regions that is vulnerable to quicker rates of decomposition. It is the factors of soil properties and the vegetation growing on it that it holds that influence an important anthropocentric concept called ecosystem services.
 
-It is important to understand the amount of soil carbon across the globe as well as how it may change over time in order to managed it correctly. By understanding how soil carbon react under different management practices we can help manage the land for it's best use and for the health of the overall environment. Land use emits 25% of the total anthropogenically influenced greenhouse gases (GHG) into the atmosphere. Of this 25%, the biggest contributors to GHG are agriculture and deforestation, making them the two main focuses of many ESMs. 
+#Importance of unique soils to  ecosystem services
 
-![Figure 3: Figure 3:  The total yearly contribution of CO2 from agriculture, forestry and other land uses (FOLU) and the combined agriculture forestry and other land uses (AFOLU) (Tubiello et al., 2015) . .](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure3.png) 
+Soils are critical in providing ecosystem services. Ecosystem services are the benefits that humans gain from functional natural systems. There are four main categories to ecosystem services, supporting, provisioning, regulating and cultural services.  Supporting services are necessary for the functioning of all other ecosystem services. Provisioning services provide food, water and raw material to humans. Regulating systems control the quality of air, water, climate, pests and disease.  Cultural services provide spiritual, recreational, aesthetic enrichment. 
 
-Movements are already being made to help sequester carbon through better land management, specifically in agriculture. The "4 per mil initiative" in France is looking to secure food and climate security by increasing the quantity of organic matter in the top 30-40cm of soils by 4% each year on over 570 million farms across the world 4permil. These movements however are only possible with an integrated implementation approach across scientists, land managers, farmers and policy makers. This discussion starts with ESM models of what SOC stocks look like across the globe and then predicting the positive effects that proper land management can have on increasing the SOC in vulnerable areas like those under agriculture.
+![Figure 4: The proponents to ecosystem services from soil and how they provide to human populations. Millenium Ecosystem Assessment (2005)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure11.jpg)
+Some of the ecosystem services provided by soil (or that involve soil) are listed from the IPCC 2002 report: 
 
-![Figure 4: Cross discipline cooperation in model creation and implementation of practice and policies to transition into "climate smart" agriculture. (Paustian et al., 2016).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure4.png)
+*Clean air & water
+*Cultural, spiritual & recreational values
+*Decomposition and cycling of organic matter
+*Gas exchange and carbon sequestration
+*Maintenance of soil structure
+*Medicines
+*Plant growth control
+*Pollination
+*Production of food, fuel & energy
+*Regulation of nutrients and uptake
+*Seed dispersal
+*Soil detoxification
+*Soil formation & prevention of soil erosion
+*Suppression of pests and diseases
 
-**Further Resources**   
+Clearly this a lengthy list and all of these services are important for sustaining life. In short soils are critical for human life for two main reasons, producing food and regulating climate. Each unique soil type provides a unique ecosystem services to the biome it is a part of. For example soils in tropical climates that have volcanic parent material hold special physical and chemical properties that make it able to sequester carbon better than other soils because in create aggregates that make the carbon inaccessible to microbes. If the microbes cannot access the carbon in the soil then they cannot respire it and it stays in the ground rather than going into the atmosphere. 
 
-Tubiello et al., (2015) [DOI](https://doi.org/10.1111/gcb.12865)     
-Paustian et al.(2016) [DOI](https://doi.org/10.1038/nature17174)    
+![Figure 5: The main ecosystem services provided by soils. ](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure10.jpg)
+              
+              “The nation that destroys its soil, destroys itself.” —Franklin Delano Roosevelt 
 
-#Where have we come from?: The first global SOC models 
+According to the Millennium Ecosystem Assessment 60% of ecosystem services are being degraded or used unsustainably. Nonlinear changes in ecosystem services include accelerating, abrupt and potentially irreversible changes to ecosystems. These nonlinear changes are becoming more and more common as climate change comes to the forefront as one of our greatest global issues. Due to the undetectable nature of these changes it is near to impossible to predict these events through modeling therefore the human capabilities to adapt are inhibited. One of these nonlinear responses to increased fossil fuel emissions is the atmospheres capacity to cleanse itself from potent greenhouse gases. The overwhelming amount of greenhouse gases in the atmosphere is inhibiting the Earth’s capability to regulate its global air temperature. Scientists have been heavily focused on this nonlinear change since the 1980s. Soils may hold some of the keys in helping to regulate the carbon within the atmosphere. Without managing these soils properly we could have more issues in the future with balancing the ecosystem cycles. 
 
-The original models in the global climate cycle looked at soil carbon stocks within an area as a relationship between precipitation, evapotranspiration, carbon minerals and the Holdridge world life zones (more commonly referred to as biomes). These early models of global terrestrial carbon failed to account for the effects of climate change that would be brought into fruition many years after the original models were established.
+Further References:
 
-![Figure 5: Contours of soil carbon density overlaid on the Holdridge world life zones, displaying the old view of how carbon stocks were distributed globally (Post et al.1982).](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure5.png)
+Millenium Ecosystem Assessment [link](https://www.millenniumassessment.org/documents/document.356.aspx.pdf) 
+Clothier et al. 2011 [doi](https://doi.org/10.1002/9780470960257.ch9)    
+Baveye et al. 2016 [doi](https://doi.org/10.3389/fenvs.2016.00041)
 
-Figure 6 shows how the total global estimates in carbon density have evolved overtime. Some estimates have been over the current level (#28) and others have been underestimated. As we enter this new period of climate change and all the heavy uncertainty around the relationship of terrestrial carbon and the atmosphere, we need to evolve the ESM models to encompass this change. Protocols like those in CMIP5 are helping to address this uncertainty but are only scratching the surface of what is to come.
+#Soils and carbon sequestration: Locking up greenhouse gases underground
 
-![Figure 6: The estimates of the global distribution of carbon density (tons of C ha-1) extracted from literature of that time (Scharlemann et al. 2014).)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure6.png)
+Sequestration of C one of biggest ecosystem services. While there is carbon above ground that you can see in the form of vegetation, there is also so much carbon below ground. Soils hold ⅔ of the worlds carbon for terrestrial ecosystems.   The climate affects the amount of carbon in each ecosystem. See Figure 6 below from Jackson et al. (2017) to understand how much carbon is above and below ground for each ecosystem.  
 
-**Further Resources**     
+![Figure 3: Figure 3: The amount of carbon above (green) and below ground biomass (topsoil = orange, subsoil = brown) for each biome. (Jackson et al., 2017)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure5.jpg)
+From this figure we can see that warmer wetter climates hold more organic carbon in their above ground biomass, while colder, wetter climates hold more carbon in their below ground biomass. This large amount of below ground biomass in the colder, wetter region of boreal moist biomes can be attributed to permafrost. Permafrost is soil that is frozen for more than two consecutive years. With rising global temperatures the permafrost thaws and activates the microbes within the soil. These now mobilized microbes start to decompose the carbon within the soil and the carbon is respired as the greenhouse gas of CO2. This creates a negative feedback loop that accelerates the consequences of climate change.
 
-Post et al., (1982) [DOI](https://doi.org/10.1038/298156a0).  
-Scharlemann et al., (2014) [DOI](https://doi.org/10.4155/cmt.13.77)   
 
-#Where are we going?: The future of ESMs 
-
-There are several different types of models that have been developed in ESM. Most often the type of model developed depends on the accessibility to the data you have. Models based on empirical relationships (real data) can be stronger since they are validated with on the ground measurements. However, when this type of data is unavailable models can be based on known mechanisms, physics and first principles. Steefel et al. (2005) argues taking a more integrated systems approach to ESM development. They describe this scientific integrated system as a model "where individual time and space-dependent processes are linked and where the relative importance of individual sub-processes cannot be fully assessed without considering them in the context of the other dynamic processes". This means linking all processes of carbon sequestration, organic matter decomposition, and carbon transport across spatial and temporal timescales into a continuum, rather than a separate, linear model. This can also be referred to as reactive transport modeling.
-
-There are three types of reactive transport modeling, continuum models, pore scale models, and hybrid models. Continuum models averaging the systems properties across a control volume or representative elementary volume (REV). This is the most common and efficient method of modelling since it averages nested systems to address the larger global  scale. Pore scale models "aim to capture pore scale behavior through a set of rules governing mass transport and chemical/biological reactions within and between individual pores" (Steefel et al. 2005). These models are efficient for use on computational power. Hybrid models use a hierarchical system to link different continuum models representing a characteristic length scale to the next continuum to model the entire system. 
-
-![Figure 7: Governing equations for a reactive transport system (Steefel et al., 2005)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure7.png)
-
-For all these approaches there are many challenges to scaling. When a model scales from a soil pore to ESM there is many associated uncertainties. The on the ground data used to validate the model may not represent the true values within the system and the data could upscale or downscale the model predictions. Also there may there is not enough data for the model and extrapolating it to cover an ecosystem or entire planet is not representative of the randomness within the system.
-Nonetheless, changing from a linear model to a multi continua model is the new focus of ESMs in order to create accurate forecasts for how climate change may affect carbon stocks across different ecosystems. The mechanisms of carbon sequestration and decomposition are so complex and variant by climate that they require a modeling approach that reflects the complexities and nonlinearity of the environment. Bradford et al. (2016) suggest "model-knowledge integration" where models can be accurately represented by adding our advanced knowledge of carbon stabilization to improve feedback projections. Moving forward we need to bring together theory, measurement and modeling in order to predict accurate relationships and create sustainable management decisions *(link to Jon's paper)*.
-
-**Further Resources**  
-
-Steefel et al., (2005) [DOI](https://doi.org/10.1016/j.epsl.2005.09.017)     
-Bradford et al., (2016) [DOI](https://doi.org/10.1038/nclimate3071)   
-
-#Improving empirical relationships to strength ESM: Enter ISCN and ISEN 
-
-Efforts are being made to quantify global carbon stocks using empirical relationships that have been determined from existing datasets. The International Soil Carbon Network (ICSN) is a "large-scale synthesis of soil carbon science" ISCN. This network synthesizes data about soil carbon into a single platform that then can be used to understand some of the still under answered questions on soil carbon dynamics. One of the largest questions is carbon stabilization and destabilization and under what conditions do either exist, which is critical in the face of climate change. Mostly soil carbon experiments focus solely on the top 30 cm of soil and the relationship of climate change to deep soil carbon is still widely unexplored. The is what created the call for the International Soil Experimental Network (ISEN). ISEN is a global database of manipulative soil warming experiments that focus specifically on the effects of warming deep (at least to 1m) soil profiles (Torn et al. 2015). Networks like the ISCN and ISEN provide the framework for the addition of data into a global soil carbon database. This data can then be used to extrapolate global soil carbon stocks and how they may change in the future due to climate change. This kind of data is an important step in reducing uncertainty in ESMs. 
-
-![Figure 8: Existing and planned sites for the ISEN at the time of the paper publication. The global temperature map shows the predicted increase in mean temperature for 2080-2100 at 0.01 m soil depth (Torn et al. 2015)](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_1\Figure8.png)
-
-**Further Resources**   
-
-Torn et al., (2015) [DOI](https://doi.org/10.5194/soil-1-575-2015)  
+ 
 
 
