@@ -1,0 +1,112 @@
+---
+title: "Physical protection of organic matter- Aggregates"
+author: "Hannah Hubanks"
+date: "February 12, 2018"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+level1: '3'
+level2: a
+level3: ii
+layout: post
+tags: aggregate carbon microbes 
+category: Physical protection of organic matter- Aggregates
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#What is an aggregate?
+
+The noun “aggregate” refers to a whole, formed by joining several components. In the sense of soil, it means combining various soil particles along with plant material, exudates, and microorganisms. Aggregating particles in the soil environment also creates pore space for air and water to exist, a balance of each which is essential for plant and organism life. Soil aggregates are often categorized into micro and macroaggregates, 53-250μm and >250μm diameter, respectively. 
+
+Soil aggregates may also be further classified as water-stable or non water-stable. While this can be a vague term depending on time of exposure to water and to what degree “intact”, it generally refers to the ability of an aggregate to uphold its structure in the presence of water. This characteristic is important for preventing erosion and allowing percolation of water. If you’ve been to the beach, you know how quickly water can filter down through a sandy profile (where there is a lot of pore space) and in areas with high clay content, you may have noticed how water runs across the surface, a source of erosion rather than soil profile hydration. If a particle is not a grain of sand, but rather strongly aggregated particles, it can have similar properties depending on how water-stable it is. Hence, an obvious benefit to soil aggregates are their role in upholding soil structure during rain or irrigation. 
+
+
+
+![Figure 1. Inside a soil aggregate- an ecosystem for plant roots, bacteria, fungi, and organisms. View this image [here.](https://www.nature.com/scitable/knowledge/library/the-soil-biota-84078125)](aggregate.jpg)
+
+References: 
+
+Six, J., Bossuyt, H., Degryze, S., Denef, K., 2004. A history of research on the link between (micro)aggregates, soil biota, and soil organic matter dynamics. Soil and Tillage Research 79, 7–31. DOI: [10.1016/j.still.2004.03.008](https://doi.org/10.1016/j.still.2004.03.008)
+
+
+#Aggregates and carbon, a match made in heaven
+
+We’ve learned so far that soil organic matter (SOM) is nearly 50% carbon, and not only does it affect the global climate, the soil organic carbon (SOC) is responsible for a whole host of soil health functions. Increased SOM has been linked to higher resistance to disease, erosion, nutrient retention, and supporting crucial microbial life. In order for the SOC to be stored long term, or sequestered, various supporting processes must break down SOM (link to Hannah blog 1). We also know that SOC is the irresistibly yummy metabolic currency for soil microbes, which can be consumed and respired as CO2 back to the atmosphere if it is not protected. So alas, it is the delicate balance of both protection and availability that is needed to support soil health and the carbon cycle.
+
+A soil aggregate can provide physical protection of organic matter in the soil system, by creating a barrier between the yummy stuff within the aggregate and microbes in the soil ecosystem. Carbon can also be protected chemically (link to Jackie) as well as energetically unavailable, by being too costly for a microbe to attempt to remove from the surface it’s bonded to. 
+
+![Figure 2. Mechanisms that stabilize organic matter, note: use of the term 'biochemical recalcitrance' has been updated, see Jackson et al., 2017 for discussion. View this image [here](https://www.osti.gov/servlets/purl/464188)](jastrowfig1 1997.png)
+ 
+![Figure 3. Dynamics of soil organic matter and soil processes of aggregate formation and degradation. Six et al., 2002](sixfig 3 2002.png)
+
+References: 
+
+Blankinship, J.C., Fonte, S.J., Six, J., Schimel, J.P., 2016. Plant versus microbial controls on soil aggregate stability in a seasonally dry ecosystem. Geoderma 272, 39–50. https://doi.org/10.1016/j.geoderma.2016.03.008
+
+Jastrow, J. D., and R. M. Miller. "Soil aggregate stabilization and carbon sequestration: feedbacks through organomineral associations." Soil processes and the carbon cycle (1997): 207-223.
+
+#How It's Made: Soil aggregates
+
+The construction and maintenance of soil aggregates is currently a hot topic, because there are many complex factors that contribute to their formation as well as their destruction. Studies by Blankinship et al. (2016) have suggested that the formation of macroaggregates is engineered mostly by live microbes, and that the presence of plant material assists in their longer term preservation. This physical entanglement of the roots and fungal hyphae provides crucial binding structure to the aggregate and such organic matter contributes carbon to the aggregate which become associated with the mineral matter, further slowing decomposition (Jastrow, 1996). 
+
+Organic materials that bind aggregates (or to put simply, a ‘soil glue’) are often grouped to be either transient (like polysaccharides from plant roots and microbial byproducts like glomalin), temporary (like plant roots and fungal hyphae), or persistant (aromatic components). Transient agents have received a lot of attention in recent literature, as biological aspects of soil are becoming more widely recognized as crucial to soil health and function. 
+
+Oxide cementation is another powerful aggregate to protect soil carbon. Soils with this property can create pseudo-sands, which are aggregates of small particles so strongly cemented together that they hold similar textural characteristics to sand and nearly impossible to naturally disperse. Soils high in hydrous oxides of aluminum and iron are a common example of conditions for oxide cementation, typical in some highly weathered soils and tropical areas. 
+
+
+![Figure 4. The types of organic materials binding aggregates and their relative contributions to aggregation based on carbon content. Tisdall and Oades, 1982.](tisdalloadesfig8.png)
+
+![Figure 5. Electron microscope images comparing water-stable macroaggregates with plants present versus absent, noticing how plants contribute to larger pore spaces. View this image [here.](https://doi.org/10.1016/j.geoderma.2016.03.008)](blankinship fig4.png) 
+
+
+
+![Figure 6. Six et al., 2002. View this image [here](https://www.researchgate.net/figure/Biological-mechanisms-of-soil-aggregate-formation-and-turnover-modified-from-Six-et-a_fig5_234088736)](aggregate formation.six.png)
+
+
+
+References: 
+
+Blankinship, J.C., Fonte, S.J., Six, J., Schimel, J.P., 2016. Plant versus microbial controls on soil aggregate stability in a seasonally dry ecosystem. Geoderma 272, 39–50. https://doi.org/10.1016/j.geoderma.2016.03.008
+
+Jastrow, J.D., 1996. Soil aggregate formation and the accrual of particulate and mineral-associated organic matter. Soil Biology and Biochemistry 28, 665–676. https://doi.org/10.1016/0038-0717(95)00159-X
+
+Six, J., Conant, R.T., Paul, E.A., Paustian, K., 2002. Review: Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils. Plant and Soil 241, 155–176.
+
+
+Tisdall, J.M., Oades, J.M., 1982. Organic matter and water-stable aggregates in soils. Journal of Soil Science 33, 141–163. https://doi.org/10.1111/j.1365-2389.1982.tb01755.x
+
+
+
+#Aggregate hierarchy
+
+Aggregate hierarchy is a widely accepted theory that explains the physical and biogeochemical processes which develop aggregates as a soil feature, proposing that larger aggregates are joined weakly by fine roots and fungal hypae (ephemeral binding agents), and smaller aggregates are strongly bound by microbial detritus, disorderd silicate clays, and hydrous iron oxides (organic and inorganic binding agents). However this theory can differ among soil variety and the binding agents available in the soil. In mostly crystalline soils, this hierarchy has been well studied, and while there has been less evidence of such a hierarchy in soils rich in short range order (SRO) minerals, it has been suggested to exist in such soils as well. 
+
+
+![Figure 7. Jastrow and Miller. View this image [here.](https://www.nature.com/scitable/knowledge/library/the-soil-biota-84078125)](soil aggregate.jastrowmiller.jpg)
+
+![Figure 8. Asano and Wagai. View this image [here.](https://doi.org/10.1016/j.geoderma.2013.10.005)](asano.wagai.fig6.png) 
+
+References:
+
+Asano, M., Wagai, R., 2014. Evidence of aggregate hierarchy at micro- to submicron scales in an allophanic Andisol. Geoderma 216, 62–74. https://doi.org/10.1016/j.geoderma.2013.10.005
+
+
+
+Oades, J., Waters, A., 1991. Aggregate hierarchy in soils. Australian Journal of Soil Research 29, 815. https://doi.org/10.1071/SR9910815
+
+
+
+#Tiny things in big pictures
+
+Like trying to find Waldo in a distracting scene, aggregates often get lost in the big picture, but they are one of the biggest players in the mechanics of soil carbon storage. Aggregate stability is typically a strong indicator of soil health and important to maintain for any type of land use as it affects soil structure and hence dictates the capacity of the soil to support life. Regarding it’s match made it heaven, carbon, aggregates are essential to the protection of carbon against decomposition. Focusing on aggregates alone isn’t sufficient to understand the health of soil or carbon sequestration, but their contribution to the functions of a soil ecosystem cannot be overlooked. As we gain a better understanding of the processes that form stable aggregates, and those that break them down, we can focus on land management to better support carbon sequestration and aggregate formation. 
+
+
+
+
+
+
