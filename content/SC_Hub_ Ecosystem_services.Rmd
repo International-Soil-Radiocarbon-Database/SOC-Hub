@@ -3,9 +3,9 @@ title: "SC Hub:Linkages between soil order, ecosystems and climate"
 author: "Casey McGrath"
 layout: post
 output:
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
 tags: climate change, carbon stocks, ecosystem services
 category: Climate and carbon stocks
 ---
@@ -24,9 +24,9 @@ Like the five kingdom classification system, soil scientists have worked to grou
 
 **Further Resources** 
 
-Check out this [link] (https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_053588)  to explore the USDA 12 soil orders of Soil Taxonomy 
+Check out this [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_053588)  to explore the USDA 12 soil orders of Soil Taxonomy 
 
-To explore the 30 orders of the World Reference Base classification system, click [here] (http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
+To explore the 30 orders of the World Reference Base classification system, click [here](http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
 
 ![Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by the 30 soil orders of the World Reference Base.](C:\Users\Casey\Desktop\NREM 691\SOC-Hub\content\images_blog_2\Figure6.jpg)
    
