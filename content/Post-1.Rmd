@@ -2,8 +2,8 @@
 title: "Big Data in Science & Problem Solving"
 author: "Hunter Heaivilin"
 output:
-  html_notebook: default
   word_document: default
+  html_notebook: default
 layout: post
 tags: ["big data"]
 level1: "1312 "
