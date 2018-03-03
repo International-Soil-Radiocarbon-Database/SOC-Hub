@@ -1,5 +1,5 @@
 ---
-title: "Big Data in Science & Problem Solving"
+title: "Big Data in Soils and Agriculture"
 author: "Hunter Heaivilin"
 output:
   html_notebook: default
@@ -9,12 +9,12 @@ tags: ["big data"]
 level1: "1312 "
 ---
 
-## What is big data?
-![](BigData_2267x1146_white.png){width=50%}
+## Whats shaking with big data for agriculture?
 
 
-<!-- !["Static tag cloud visualization (word cloud) of key terms appearing in abstracts of Big Data-related papers." via [De Mauro, Greco, & Grimaldi, 2015](https://doi.org/10.1063/1.4907823) -->
-<!-- ](abstract_scrape_no_title.png){ width=75%, angle=90} -->
+![http://www.cgiar.org/wp-content/uploads/2017/05/BIG-DATA.png](BIG-DATA.png){width=50%}
+
+
 
 The number of people and ways they interface with technology have dramatically increased the amount of human-generated data produced. Machine-generated data is produced more and more as machines increasingly are able to operate indepdent of human intvention. These factors have dramatically increased the amount, speed and kinds of data created, while also requiring advances in how this data is processed. Together, the data and and the processing now compose the core of the concept of 'big data'. 
 
