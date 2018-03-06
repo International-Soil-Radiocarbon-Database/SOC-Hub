@@ -2,8 +2,8 @@
 title: "Big Data in Soils and Agriculture"
 author: "Hunter Heaivilin"
 output:
-  html_notebook: default
   word_document: default
+  html_notebook: default
 layout: post
 tags: ["big data"]
 level1: "1312 "
@@ -31,9 +31,9 @@ Various organizations are now focused on addressing some
 
 
 #### References
-- Shekhar, S., Schnable, P., LeBauer, D., Baylis, K., & VanderWaal, K. Agriculture Big Data (AgBD) Challenges and Opportunities From Farm To Table: A Midwest Big Data Hub Community Whitepaper. Retrieved from https://pdfs.semanticscholar.org/c815/75e059a826f39b47367fceaac67a8f55fb07.pdf
+- Shekhar, S., Schnable, P., LeBauer, D., Baylis, K., & VanderWaal, K. Agriculture Big Data (AgBD) Challenges and Opportunities From Farm To Table: A Midwest Big Data Hub Community Whitepaper. https://pdfs.semanticscholar.org/c815/75e059a826f39b47367fceaac67a8f55fb07.pdf
 
-- Verdouw, C. N., Wolfert, S., & Tekinerdogan, B. (2016). Internet of Things in agriculture. CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources, 11. Retreived from https://www.researchgate.net/publication/312164156_Internet_of_Things_in_agriculture
+- Verdouw, C. N., Wolfert, S., & Tekinerdogan, B. (2016). Internet of Things in agriculture. CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources, 11. https://www.researchgate.net/publication/312164156_Internet_of_Things_in_agriculture
 
 *** 
 ## Soil Carbon and Big Data
