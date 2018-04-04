@@ -8,9 +8,7 @@ category: "Climate and carbon stocks"
 level: "2,a,iv."
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 #Classifying the World's Soils 
 
 Across the planet there are a wide variety of ecosystems all hosted by a unique soil. Each soil is defined by different factors of soil pedogensis all that give a soil its distinct capabilities to hold nutrients, water and organisms for that area of the world. Different soil types are important to the biodiversity of ecosystems and the organisms they hold. Just as biodiversity of plants and animals  is important to overall ecosystem health, the biodiversity of the worlds soils are what provide the skin of the Earth's crust that make it possible to sustain life. 
