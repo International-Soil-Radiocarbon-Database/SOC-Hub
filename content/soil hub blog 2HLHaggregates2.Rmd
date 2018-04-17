@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #What is an aggregate?
 
-The noun “aggregate” refers to a whole, formed by joining several components. In the sense of soil, it means combining various soil paPrticles along with plant material, exudates, and microorganisms. Aggregating particles in the soil environment also creates pore space for air and water to exist, a balance of each which is essential for plant and organism life. Soil aggregates are often categorized into micro and macroaggregates, 53-250μm and >250μm diameter, respectively. A new term, coined "megaaggregate," refers to aggregates above 4mm which are typically either considered as large macroaggregates or left out of aggregate research. 
+The noun “aggregate” refers to a whole, formed by joining several components. In the sense of soil, it means combining various soil particles along with plant material, exudates, and microorganisms. Aggregating particles in the soil environment also creates pore space for air and water to exist, a balance of each which is essential for plant and organism life. Soil aggregates are often categorized into micro and macroaggregates, 53-250μm and >250μm diameter, respectively. A new term, coined "megaaggregate," refers to aggregates above 4mm which are typically either considered as large macroaggregates or left out of aggregate research. 
 
 ![Figure 1. Inside a soil aggregate- an ecosystem for plant roots, bacteria, fungi, and organisms. View this image [here.](https://www.nature.com/scitable/knowledge/library/the-soil-biota-84078125)](aggregate.jpg)
 
@@ -42,9 +42,9 @@ Six, J., Bossuyt, H., Degryze, S., Denef, K., 2004. A history of research on the
 
 #Aggregates and carbon, a match made in heaven
 
-We’ve learned so far that soil organic matter (SOM) is nearly 50% carbon, and not only does it affect the global climate, the soil organic carbon (SOC) is responsible for a whole host of soil health functions. Increased SOM has been linked to higher resistance to disease, erosion, nutrient retention, and supporting crucial microbial life. In order for the SOC to be stored long term, or sequestered, various supporting processes must break down SOM (link to Hannah blog 1). We also know that SOC is the irresistibly yummy metabolic currency for soil microbes, which can be consumed and respired as CO2 back to the atmosphere if it is not protected. So alas, it is the delicate balance of both protection and availability that is needed to support soil health and the carbon cycle.
+We’ve learned so far that soil organic matter (SOM) is nearly 50% carbon, and not only does it affect the global climate, the soil organic carbon (SOC) is responsible for a whole host of soil health functions. Increased SOM has been linked to higher resistance to disease, erosion, nutrient retention, and supporting crucial microbial life. In order for the SOC to be stored long term, or sequestered, various supporting processes must break down SOM. We also know that SOC is the irresistibly yummy metabolic currency for soil microbes, which can be consumed and respired as CO2 back to the atmosphere if it is not protected. So alas, it is the delicate balance of both carbon protection and availability that is needed to support soil health and the carbon cycle.
 
-A soil aggregate can provide physical protection of organic matter in the soil system, by creating a barrier between the yummy stuff within the aggregate and microbes in the soil ecosystem. Carbon can also be protected chemically (link to Jackie) as well as energetically unavailable, by being too costly for a microbe to attempt to remove from the surface it’s bonded to. 
+A soil aggregate can provide physical protection of organic matter in the soil system, by creating a barrier between the yummy stuff within the aggregate and the microbes in the soil ecosystem. Carbon can also be protected chemically as well as energetically unavailable, by being too costly for a microbe to attempt to remove from the surface it’s bonded to. 
 
 ![Figure 4. Mechanisms that stabilize organic matter and microbial access. Jastrow and Miller, 1997. View this image [here.](https://www.osti.gov/servlets/purl/464188)](jastrowfig1 1997.png)
  
@@ -54,12 +54,11 @@ References:
 
 Berhe, A.A., Harden, J.W., Torn, M.S., Kleber, M., Burton, S.D., Harte, J., 2012. Persistence of soil organic matter in eroding versus depositional landform positions: EROSION AND SOIL ORGANIC MATTER DYNAMICS. Journal of Geophysical Research: Biogeosciences 117, n/a-n/a. DOI: [10.1029/2011JG001790](https://doi.org/10.1029/2011JG001790)
 
-
 Blankinship, J.C., Fonte, S.J., Six, J., Schimel, J.P., 2016. Plant versus microbial controls on soil aggregate stability in a seasonally dry ecosystem. Geoderma 272, 39–50. DOI: [10.1016/j.geoderma.2016.03.008](https://doi.org/10.1016/j.geoderma.2016.03.008)
 
 Jastrow, J. D., and R. M. Miller. "Soil aggregate stabilization and carbon sequestration: feedbacks through organomineral associations." Soil processes and the carbon cycle (1997): 207-223. [DOI](https://www.osti.gov/servlets/purl/464188)
 
-Six, J., Conant, R.T., Paul, E.A., Paustian, K., 2002. Review: Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils. Plant and Soil 241, 155–176. [DOI](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.591.896&rep=rep1&type=pdf)
+Six, J., Conant, R.T., Paul, E.A., Paustian, K., 2002. Review: Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils. Plant and Soil 241, 155–176. DOI: [10.1.1.591.896](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.591.896&rep=rep1&type=pdf)
 
 
 #How It's Made: Soil aggregates

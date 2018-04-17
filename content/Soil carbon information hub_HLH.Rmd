@@ -3,9 +3,9 @@ title: "Carbon fixation and belowground allocation"
 author: "Hannah L. Hubanks"
 date: "2018-1-30"
 output:
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
 level1: '2'
 level2: b
 level3: i
