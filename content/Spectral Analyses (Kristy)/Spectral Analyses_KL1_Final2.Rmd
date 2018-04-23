@@ -2,12 +2,18 @@
 title: "Spectral Analyses"
 author: "Kristy Lam"
 layout: post
-output: word_document
-tags: ["spectral analysis", "spectometry", "spectroscopy"]
-category: "Secondary controls on carbon turnover"
-level1: "Quantitative Methods"
-level2: "Chemical Characterization of SOM"
-level3: "Spectral Analyses"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+level2: Chemical Characterization of SOM
+level3: Spectral Analyses
+level1: Quantitative Methods
+tags:
+- spectral analysis
+- spectometry
+- spectroscopy
+category: Secondary controls on carbon turnover
 ---
 
 ```{r setup, include=FALSE}

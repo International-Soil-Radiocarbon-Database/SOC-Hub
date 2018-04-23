@@ -3,9 +3,9 @@ title: "Drivers of Change in Soil Organic Matter Stocks - Loss & Gains"
 author: "Kristy Lam"
 layout: post
 output:
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
 level2: Change
 level3: Drivers of Change in Soil Organic Matter - Loss & Gains
 level1: Problem-based Questions - Case Studies
