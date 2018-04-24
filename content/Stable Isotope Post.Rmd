@@ -1,0 +1,23 @@
+---
+title: "Stable Isotopes"
+author: "Kaelin Sylva"
+layout: post
+tags: ["Physical Fractionation", "Soil Fractionation", "Soil Texture"]
+output: html_document
+---
+###What is it?
+
+Isotopes are elements that have different numbers of neutrons present in their nuclei thus changing their mass. Depending on if a neutron is added or taken away, the element will either get heavier or lighter. With the change of neutrons, isotopes will be qualified as either stable or unstable. For example, the most common form of carbon is 12C, or just C, consists of 6 protons and 6 neutrons. This form of carbon along with 13C are stable, although 13C  will be heavier of the two. However, if you gain two neutrons it will become 14C, this new isotope becomes unstable (radioactive) and eventually will decay into another elements. For today’s sake, we will primarily focus on stable isotopes as they are essential for providing a diagnostic tool to analyze ecological processes.
+The term ‘stable isotopes’ is used to describe elements that do not show signs that they decay/breakdown or have a long halftime. Amongst different compounds, they are not evenly distributed thus can supply information regarding how that particular element is cycled through the ecosystem. Of all the elements, carbon and nitrogen are the most useful as a result of their existence in practically everything. For more information about stable isotopes, that may not be covered here, the [University of Wyoming](http://www.uwyo.edu/sif/stable-isotopes/index.html) is another resource you can utilize.
+
+**Links:**  
+Coleman, D. C. (Ed.). (2012). Carbon isotope techniques. Academic Press.
+Farquhar, G. D., Ehleringer, J. R., & Hubick, K. T. (1989). Carbon isotope discrimination and photosynthesis. Annual review of plant biology, 40(1), 503-537. DOI: 1040-2519/89/0601-503502.00
+
+***  
+###How Will We Use These Measurements?
+
+Additionally, stable isotopes can be utilized as climate tracers to determine soil-forming processes along with providing information on both matter and energy flow. For instance, according to Dawson et al., C and O isotopes can be used to follow the path that CO2 takes between plants, soil, and the atmosphere (2002). Tracing (insert link to Kat’s section) is an effective tool that can string missing pieces in our understanding of ecosystem processes.
+
+**Links:**  
+Dawson, T. E., Mambelli, S., Plamboeck, A. H., Templer, P. H., & Tu, K. P. (2002). Stable isotopes in plant ecology. Annual review of ecology and systematics, 33(1), 507-559. DOI:  10.1146/annurev.ecolsys.33.020602.095451

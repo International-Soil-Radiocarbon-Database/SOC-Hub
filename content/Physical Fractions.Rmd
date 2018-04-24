@@ -1,0 +1,95 @@
+---
+title: "Physical Fractions"
+author: "Kaelin Sylva"
+layout: post
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+tags: null
+category: null
+---
+
+Quantitative methods can be used to further study soil organic matter and its behavior. More importantly, utilizing fractionation processes can aid in our understanding of the turnover process of soil organic matter. When conducting studies or projects, there are various techniques that can be utilized to fractionate soils. Fractionation is the physical separation of different components within the soil, which can be done physically, biologically, or chemically. Within this section, physical fractions will be discussed. For more information on both the chemical and biological process, please refer to the following links: **insert links for both the chemical and biological processes**, respectively. Through physically fractionation, soils will be sorted by their size and potentially by their density (Gregorich et al, 2006). Utilizing one type of fractionation can provide a few characteristics of soil organic matter; however, utilizing multiple fractions can provide a more in depth understanding of that particular sample. More information regarding some of the tools and equipment utilized can be found at here: **insert link to Kristy's section**.
+
+***
+##Physical Fractionation
+
+To better understand soil organic matter, researchers have utilized different methods to do so. One of which is through physical fraction. This process is based on the assumption that soil components and structure will determine its behavior and interactions. Phsyical fractionation includes: utilizing soil texture, aggregate fractionation, particle size fractionation, and density fractionation. As shown below, figure 1 demonstrates a simplied flow chart of different physical fractionation methods that can be utilized.
+
+![Figure 1. Diagram utilized in order to compare different fraction methods. The acronyms are as follows: PSF = Particle size fractionation, PDF = Particle density fractionation, PSDF = Particle size density fractionation, ASF = Aggregate size fractionation, ADF = Aggregate density fractionation, and ASDF = Aggregate size density fraction. For more infromation, please refer to Moni et al., 2012.](Figure1.png)
+
+
+***
+
+###Soil Texture  
+
+Soil texture is the proportions of sand, silt, and clay within a sample of soil. Also, it can be defined as the look and feel of the soil sample, which is influenced by the type and the size of each particle. Below in Table 1, it gives a general breakdown of the size class of each. Sand, silt, and clay can be seen as the basis of soil texture and can be broken down into more specific texture classifications. For example, based on the particle content, clay can be broken down into sandy clay, silty clay, clay loam, sandy clay loam, or silty clay loam. Each type of soil texture will have a different effect. Given a soil's texture classification, information about the soil's water retention rates, productivity, and nutrient retention could be gathered.
+
+Table 1. Size Class of Each Mineral. 
+
+Mineral Particle  | Particle Diameter Size (in millimeters)
+----------------- | ---------------------------------------
+Sand              | 2.0 - 0.05
+Silt              | 0.05 - 0.002
+Clay              | less than 0.002
+  
+**Determining Soil Texture** 
+
+The best way to determine the percentages of sand, silt, and clay is primarily through labratory analysis. Within a labratory, the most common methods to determine soil texture is through particle size analysis. For more information on particle size fraction, please see refer to its respective section. However, if you do not have easy access to a labratory, you can determine the texture class by feel. The USDA has provided a modified guide from Thien on their [website](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_054311) (1979).
+  
+![Figure 2.The Soil Textural Triangle is one of many ways to classify soils. This particular classification method is dependent on the percentage of sand, silt, and clay. On the USDA's website, you can find a Soil Texture Calculator along with a downloadable excel sheet of said calculator. If you would like to utilize this tool, please refer to the [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167) provided.](Soil_Textural_Triangle.jpg)
+
+
+###Aggregate Fraction  
+
+According to Moni et al., this process is "based on the assumption that soil structure is a major control on [soil organic matter] turnover" (2012). This process will help understand more about the soil's stability based on the shape of the aggregate.  
+
+###Particle Size Fraction
+
+As the name implies, this form of physical fractionation separates indvidual particles by their size. This can be done in different ways such as applying chemical, mechanical, or ultrasonic techinques. In order to divide the particle sizes, methods such as sieving or sedimentation can be utilized. With this type of fractionation, we eliminate any unwanted material and can quantify the different types of particles, aggregates, and other material within the sample. 
+  
+**Utilizing Particle Size Fraction and Aggregate Fraction**
+
+The most commonly, researchers have utilized different techiques or devices to fit their needs. However, generally speaking, most will use sieves with different sized screens. Separation can either be done by hand or through a mechanized shaker. Along with using different tools, this method can be done either dry or wet. Through the wet process you can determine the sample's water retention.
+
+###Density Fraction  
+
+With density fraction, this method relies on the separation of individual particles based on their densities. According Swanston et al., densities are either referred to as the "heavy fraction" or the "light fraction" (2002). Through this method, we can better understand organic matter turnover and stabilization, which is associated iwth organic mineral interaction.
+  
+**Utilizing Density Fraction**
+  
+In order to perform a density fraction, inorganic or organic liquids may be used. This includes bromoform-ethanol mixtures, tetrachlromethane, sodium iodide, and sodium polytungstate (SPT). Most commonly, labs will utilize SPT as a result of its ability to isolate two or more fractions. The mixture will be centrifuged in order to separate the particles. As heavier particles will settle quickly, sand particles will be the bottom most layer followed by silt and clay.
+  
+***
+
+###Examples of Physical Fractions
+
+Method                      | Example/Case Study
+--------------------------- | ------------------------------
+Soil Texture                |
+Aggregate Fraction          | Denef et al., 2001; Six et al., 2002; 
+Particle Size Fractionation | Solomon et al., 2002; Gee et al., 2002;
+Density Fraction            | Swanston et al., 2002; Crow et al., 2007; Diochon et al., 2009
+
+***
+  
+##List of helpful resources:     
+- Brady, Niles, and Ray R. Weil. 2008. *The Nature
+and Properties of Soil, 14th edition*. Upper Saddle
+River, NJ: Prentice Hall.  
+- Christensen et al.(2001) DOI: [10.1046/j.1365-2389.2001.00417.x]  
+- Crow et al. (2007) DOI: [10.1007/s10533-007-9100-8](https://www.nrs.fs.fed.us/pubs/jrnl/2007/nrs_2007_crow_001.pdf)  
+- Denef, K., Six, J., Bossuyt, H., Frey, S. D., Elliott, E. T., Merckx, R., & Paustian, K. (2001). *Influence of dry–wet cycles on the interrelationship between aggregate, particulate organic matter, and microbial community dynamics*. Soil Biology and Biochemistry, 33(12-13), 1599-1611.  
+- Elliott, E.T., Cambardella, C.A., 1991. *Physical separation of soil organic matter*. Agriculture,
+Ecosystems & Environment 34, 407–419.  
+- Gee, G. W., & Or, D. (2002). 2.4 Particle-size analysis. *Methods of soil analysis*. Part, 4(598), 255-293.  
+- Gregorich, E. G., Beare, M. H., McKim, U. F., & Skjemstad, J. O. (2006). *Chemical and biological characteristics of physically uncomplexed organic matter*. Soil Science Society of America Journal, 70(3), 975-985.  
+- Kemper, W. D., and R. C. Rosenau. *Aggregate stability and size distribution*. (1986): 425-442.  
+- Moni et al. (2012) DOI: [10.5194/bg-9-5181-2012](https://www.biogeosciences.net/9/5181/2012/bg-9-5181-2012.pdf)   
+- Solomon, D., Fritzsche, F., Lehmann, J., Tekalign, M., and Zech, W. 2002. *Soil organic matter
+dynamics in the subhumid agroecosystems of the Ethiopian highlands: Evidence from
+natural 13C abundance and particle-size fractionation*, Soil Science Society of America Journal, 66,
+969–978.  
+- Swanston, C. W., B. A., Homann, P. S., Ganio, L., & Sollins, P. (2002). Carbon synamics during a long-term incubation of separate and recombined density fractions from seven forest soils. *Soil Biology and Biochemistry*, 34 (8), 1121-1130.  
+- Thien, S. J. (1979). A flow diagram for teaching texture-by-feel analysis. *Journal of Agronomic Education*, 8(2).
