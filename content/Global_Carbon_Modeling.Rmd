@@ -1,8 +1,9 @@
 ---
-title: 'Global Carbon Modeling'
+title: "Global Carbon Modeling"
 author: "Casey McGrath"
 layout: post
 output:
+  word_document: default
   html_document:
     df_print: paged
 level: 2,a,v.
