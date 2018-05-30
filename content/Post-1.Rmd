@@ -3,13 +3,38 @@ title: "Big Data in Science & Problem Solving"
 author: "Hunter Heaivilin"
 level1: '1312 '
 output:
-  word_document: default
   html_notebook: default
+  word_document: default
   html_document:
     df_print: paged
 tags: big data
 layout: post
 ---
+
+<!-- - Comments from Will Weider -->
+
+<!-- - Give the reader a roadmap with a brief paragraph or two about the topics you are introducing and why you're exploring them in the context of the SOC-HUB? -->
+
+<!-- - Similarly, should more example related to soil carbon be included in the big data and problem solving posts to contextualize the material you're discussing?  I'm on the fence here, it's ultimately your call?  -->
+
+<!-- - Would text relating the ideas back to SOC-HUB at the end of each overview post 
+ultimately be more useful (e.g. combining 'big data' and 'So, are we there yet?' posts, 
+pages #1 & 3)?  With something similar for the problem solving post too? -->
+
+<!-- - How does problem solving fit into the SOC-Hub effort?  How will the admittedly small 
+data be used to ask or address questions? -->
+
+<!-- - Move references to the very end, as they break up the flow of each section (unless big data and problem solving posts are on different pages of the website) -->
+
+<!-- - What are big data sets used in environmental science?  Are any of these coming on line 
+for soils related work, or does the nature of the system make it a ways off from embracing aspects of the big data revolution -->
+
+
+
+
+## Big Data from the Ground Up
+
+
 
 ## What is big data?
 > “Big Data represents the Information assets characterized by such a High Volume, Velocity and Variety to require specific Technology and Analytical Methods for its transformation into Value.”   
@@ -46,6 +71,7 @@ In the years since Laney's work many have added more V's to the list. For exampl
 
 [De Mauro et al's 2015](https://doi.org/10.1063/1.4907823) meta-analysis of big data definitions, quoted at the beginning of this post, includes 'Value' as a fourth V as well as the technology and methods focus encompassed by Ward and Baker (2013). They define value as transforming information into actionable knowledge with economic impacts. While not all big data projects have an economic outcome focus IBM has, unsurprisingly, [jumped on board](http://www.ibmbigdatahub.com/blog/why-only-one-5-vs-big-data-really-matters) with adding this V to their lists.
 
+<!-- INSERT EXAMPLES OF THE V's AS IT RELATES TO SOIL CARBON -->
 
 #### References
 - De Mauro, Andrea, Marco Greco, and Michele Grimaldi. “What Is Big Data? A Consensual Definition and a Review of Key Research Topics.” AIP Conference Proceedings 1644, no. 1 (February 9, 2015): 97–104. https://doi.org/10.1063/1.4907823.

@@ -1,0 +1,230 @@
+---
+title: "Processing Teams Soil & Landcover Data"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+  html_notebook: default
+---
+
+
+***
+## RQ 1: Land Use Change
+Team: Patricia, Kristy, Kaelin
+
+####Process/Approach
+1970’s Land Use + SSURGO C
+2010’s Land Use + SSURGO C
+Clip out -> past forest diff. (things changed)
+
+#### Data Requirements
+2 periods of SSURGO data?
+Overlapping land-use areas
+Are consistent or changing land uses needed?
+
+#### Data Processing
+Using a layer Patricia provided, Big Island points were appended with land use/cover data
+1. Open'Big_Island_LC_pedon_w_OC.xlsx' and save as a csv.
+2. Upload the Big_Island_LC_pedon_w_OC.csv as points into QGIS([how-to](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html))
+3. Download statewide soil order shapefile from [Hawaii Soil Atlas](http://gis.ctahr.hawaii.edu/SoilAtlas). Download link:  http://gis.ctahr.hawaii.edu/downloads/soilAtlas/SoilOrderSeries.zip.
+4. Download low-res NOAA C-CAP Land Cover data for each island (Niihau, Kauai, Oahu, Maui County, Hawaii) for each year (1992, 2001, and 2005) from [C-CAP FTP TOOL](https://coast.noaa.gov/ccapftp/#/). 
+5. Load Soil Orders and C-CAP data into QGIS. 
+6. Extract values from C-CAP rasters to hawaii_bc data points in QGIS using 'Add raster values to points' from SAGA additional processing toolbox. [How-to](https://tutorials.ecodiv.earth/toc/sample_raster_in_qgis.html). 
+7. Extract values from Soil Orders shapefile to output layer of previous step (with hawaii_bc/C-CAP data) in QGIS using 'Add polygon attributes to points' from SAGA additional processing toolbox.
+8. Export layer with all points as **'bi_lc.csv'** via 'Save as'.
+9. Upload csv into GoogleDocs and combine the C-CAP output columns of each island by year. I.e., make a single column from the data from each island for a single time period (1992, 2001, 2005). 
+10. If feeling kind or patient, recode the numeric values in the three columns with the appropriate text version of the land cover found in the metadata of the C-CAP files.
+11. Export GoogleDoc as csv. 
+
+
+
+***
+## RQ 2: Land Uses by Soil Type
+Team: Jon, Jackie, Kat
+
+#### Process/Approach
+C% -> land use + crop type, pasture, forest
+Delineate by soil type to isolate variability
+
+#### Data Requirements
+Using organic carbon or total carbon, lat. and long., land cover data (Hunter’s layers), and soil type 
+Clean categories to something that makes sense. Three categories: grass, forest, urban 
+Four soils types each 
+
+#### Data Processing
+1. Subset Powell Center (John's code)
+
+~~~~
+#bring in CSV data from USGS PowellCenter
+usgs <- read.csv("c:/Users/Jon Wells/OneDrive/Comps/USGSPowellCenter/USGSPowell_database.csv")
+
+#subset by lat long to bound Hawaii
+usgs <- usgs[(usgs$lat > 16 & usgs$lat < 25),]
+usgs <- usgs[(usgs$long > -165 & usgs$long < -150),]
+
+#use ddply to simplify to columns of interest
+usgs_subset <- ddply(usgs,.(X,dataset_name,lat,long,veg_note_profile,c_tot,n_tot, fe_dith, fe_ox, fe_py, 
+                            al_dith, al_ox, al_py, cat_exch, ph,ph_h2o,ph_cacl),nrow)
+usgs_subset <- usgs_subset[,-18]
+
+#you could also subset by column numbers
+usgs_subset2 <- usgs[,c(1:35)]
+
+#importantly, each metric will have to be checked for repeat values from each study
+usgs_c <- ddply(usgs,.(dataset_name,c_tot), nrow)
+(usgs_c <- usgs_c[(!is.na(usgs_c$c_tot)),])
+str(usgs_c)
+summary(usgs_c)
+
+write.csv(usgs_subset, file="C:/Users/Jon Wells/OneDrive/Comps/USGSPowellCenter/Hawaii_subset.csv")
+~~~~
+
+2. Upload the Hawaii_subset.csv as points into QGIS([how-to](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html))
+3. Select and download desired agricultural land use layers. *This code has the visualization of the ag land use layer timelines with links to the documention for each layer*
+
+~~~~
+# Install package
+library(timevis)
+
+# Direct to viz
+timevis(data = data.frame(
+  start   = c("2001-01-01","2015-01-10", "2012-01-11",
+              "1978-01-20", "1998-01-1","2010-01-01", "1976-01-10"),
+  end     = c(NA, NA, NA, NA, NA, NA, NA),
+  content = c("GAP Land Cover, <a href=https://gapanalysis.usgs.gov/>USGS</a>",
+              "Agricultural Land Use Baseline, <a href=http://hdoa.hawaii.gov/salub/ class=bar>HDOA</a>", 
+              "Food Self-Sufficiency Baseline, <a href=http://records.co.hawaii.hi.us/weblink/1/doc/73723/Electronic.aspx>Hawaii County</a>",
+              "Agricultural Land Use Maps (ALUM), <a href= http://files.hawaii.gov/dbedt/op/gis/data/alum.pdf>HDOA</a>", 
+              "Land Use on the Island of Oahu, <a href =https://pubs.er.usgs.gov/publication/wri20024301>USGS</a>", 
+              "Maui Land Use, <a href =https://water.usgs.gov/GIS/metadata/usgswrd/XML/maui_land_use_circa_2010.xml>USGS</a>", 
+              "Land Use Land Cover, <a href=http://geoportal.hawaii.gov/datasets/land-use-land-cover-lulc>GIRAS</a>"),
+  group = c(1, 1, 2, 1, 6, 3, 1)),
+  groups = data.frame(id = 1:7, content = c("Statewide", "Hawaii", "Maui", "Lanai","Molokai", "Oahu", "Kauai")))
+~~~~
+
+4. Download low-res NOAA C-CAP Land Cover data for each island (Niihau, Kauai, Oahu, Maui County, Hawaii) for each year (1992, 2001, and 2005) from [C-CAP FTP TOOL](https://coast.noaa.gov/ccapftp/#/). 
+5. Load ag land use and C-CAP data layers into QGIS. 
+6. Extract values from ag land use and C-CAP rasters to hawaii_bc data points in QGIS using 'Add raster values to points' from SAGA additional processing toolbox. [How-to](https://tutorials.ecodiv.earth/toc/sample_raster_in_qgis.html). 
+7. Export layer with all points as a csv via 'Save as' (powell_landcover.csv)
+8. Upload csv into GoogleDocs and combine the C-CAP output columns of each island by year. I.e., make a single column from the data from each island for a single time period (1992, 2001, 2005). 
+9. If feeling kind or patient, recode the numeric values in the three columns with the appropriate text version of the land cover found in the metadata of the C-CAP files.
+10. Export GoogleDoc as csv. 
+
+
+***
+## RQ 3: Hawaii vs Global**
+Team: Casey, Genelle, Hannah
+
+#### Team Process/Approach
+Compare “Beyond Clay” conceptual model, statistical model
+Global vs Hawaii specific data 
+Lat/Long
+
+#### Data Requirements
+SOC Database extraction filters
+Hawaii (via lat/long)
+Primary filter 
+Soil order
+May require search function development based on how soil input was coded
+Secondary filters
+Bulk density and total carbon
+Ph
+Iron and aluminum extracts
+Exchangeable calcium 
+
+#### Data Processing 
+The Beyond Clay Data processing took a couple of different routes. 
+The first used the "Final_Cleaned_Beyond_Clay1_Dataset.csv" file, and the second used the NCSS Database.
+
+Process A: Final_Cleaned_Beyond_Clay1_Dataset
+
+
+1. Download Final_Cleaned_Beyond_Clay1_Dataset.csv from GoogleClassroom link and process a subset of only Hawaii data points.
+
+
+~~~~
+library(dplyr)
+
+#bring in CSV data from BeyondClay
+bc <- read.csv("/Users/hh/Downloads/Final_Cleaned_Beyond_Clay1_Dataset.csv")
+
+# Check out the column names and/or view the file
+colnames(bc)
+View(bc)
+
+#Since there is a state_code column we can subset for Hawaii points using that
+bc <- filter(bc, state_code == "HI")
+
+# Alternatively you can subest by lat/long boundaries
+# bc <- bc[(bc$latitude_decimal_degrees > 16 & bc$latitude_decimal_degrees < 25),]
+# bc <- bc[(bc$longitude_decimal_degrees > -165 & bc$longitude_decimal_degrees < -150),]
+
+# The output of either is 554 points. 
+
+# create a csv of new Hawaii subset
+write.csv(bc, file="/Users/hh/Downloads/hawaii_bc.csv")
+~~~~
+
+2. Upload the new hawaii_bc.csv as points into QGIS([how-to](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html))
+3. Download statewide soil order shapefile from [Hawaii Soil Atlas](http://gis.ctahr.hawaii.edu/SoilAtlas). Download link:  http://gis.ctahr.hawaii.edu/downloads/soilAtlas/SoilOrderSeries.zip.
+4. Download low-res NOAA C-CAP Land Cover data for each island (Niihau, Kauai, Oahu, Maui County, Hawaii) for each year (1992, 2001, and 2005) from [C-CAP FTP TOOL](https://coast.noaa.gov/ccapftp/#/). 
+5. Load Soil Orders and C-CAP data into QGIS. 
+6. Extract values from C-CAP rasters to hawaii_bc data points in QGIS using 'Add raster values to points' from SAGA additional processing toolbox. [How-to](https://tutorials.ecodiv.earth/toc/sample_raster_in_qgis.html). 
+7. Extract values from Soil Orders shapefile to output layer of previous step (with hawaii_bc/C-CAP data) in QGIS using 'Add polygon attributes to points' from SAGA additional processing toolbox.
+8. Export layer with all points as a csv via 'Save as'.
+9. Upload csv into GoogleDocs and combine the C-CAP output columns of each island by year. I.e., make a single column from the data from each island for a single time period (1992, 2001, 2005). 
+10. If feeling kind or patient, recode the numeric values in the three columns with the appropriate text version of the land cover found in the metadata of the C-CAP files.
+11. Export GoogleDoc as csv. 
+
+Next is the process using the NCSS data:
+
+1. Download National Cooperative Soil Survey Microsoft Access Database. Accessible from https://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx. *Note: Website states that .zip file is 1.1 MB, it is actually 219.6 MB*.
+2. Attempt to learn to use Microsoft Access, but succeed in learning why everyone hates microsoft access. 
+3. Use "Query Wizard" to select the tables and column data that you want to compile into a new table. 
+
+Tables Used: NCSS_Site_Location, NCSS_Pedon Taxnomy, NCSS_Layer, Carbon_and_Extractions, CEC_and_Bases, Organic, pH_and_Carbonates, Bulk_Density_and_Moisture
+
+Full listing of all columns grabbed:
+"NCSS_Site_Location_site_key"          "siteiid"                              "usiteid"                             
+"site_obsdate"                         "latitude_decimal_degrees"             "longitude_decimal_degrees"           
+"state_code"                           "Organic_c_tot"                        "Organic_n_tot"                       
+"Organic_c_n_ra"                       "ph_cacl2"                             "ph_h2o"                              
+"cec_sum"                              "cec_nh4"                              "cec_nhcl"                            
+"Bulk_Density_and_Moisture_labsampnum" "result_source_key"                    "Bulk_Density_and_Moisture_prep_code" 
+"db_13b"                               "db_od"                                "COLEws"                              
+"w6clod"                               "w10cld"                               "w3cld"                               
+"w15l2"                                "w15bfm"                               "adod"                                
+"wrd_ws13"                             "aggstb"                               "cec7_cly"                            
+"w15cly"                               "c_adod"                               "fe_dith"                             
+"fe_dith_code"                         "al_dith"                              "al_dith_code"                        
+"al_fe_ox"                             "fe_ox"                                "fe_ox_code"                          
+"al_ox"                                "al_ox_code"                           "si_ox"                               
+"si_ox_code"                           "fe_pyp"                               "fe_pyp_code"                         
+"al_pyp"                               "al_pyp_code"                          "Carbon_and_Extractions_prep_code"    
+"Carbon_and_Extractions_c_tot"         "c_tot_code"                           "Carbon_and_Extractions_n_tot"        
+"n_tot_code"                           "s_tot"                                "oc"                                  
+"oc_code"                              "Carbon_and_Extractions_c_n_ra"        "texture_description"                 
+"NCSS_Layer_labsampnum"                "project_key"                          "NCSS_Layer_site_key"                 
+"pedon_key"                            "layer_sequence"                       "hzn_top"                             
+"hzn_bot"                              "state_name"                           "county_code"   
+
+
+The SQL query used to grab the colummns from the tables (generated post-facto after using Query Wizard):
+SELECT NCSS_Site_Location.site_key AS NCSS_Site_Location_site_key, NCSS_Site_Location.siteiid, NCSS_Site_Location.usiteid, NCSS_Site_Location.site_obsdate, NCSS_Site_Location.latitude_decimal_degrees, NCSS_Site_Location.longitude_decimal_degrees, NCSS_Site_Location.state_code, Organic.c_tot AS Organic_c_tot, Organic.n_tot AS Organic_n_tot, Organic.c_n_ra AS Organic_c_n_ra, pH_and_Carbonates.ph_cacl2, pH_and_Carbonates.ph_h2o, CEC_and_Bases.cec_sum, CEC_and_Bases.cec_nh4, CEC_and_Bases.cec_nhcl, Bulk_Density_and_Moisture.labsampnum AS Bulk_Density_and_Moisture_labsampnum, Bulk_Density_and_Moisture.result_source_key, Bulk_Density_and_Moisture.prep_code AS Bulk_Density_and_Moisture_prep_code, Bulk_Density_and_Moisture.db_13b, Bulk_Density_and_Moisture.db_od, Bulk_Density_and_Moisture.COLEws, Bulk_Density_and_Moisture.w6clod, Bulk_Density_and_Moisture.w10cld, Bulk_Density_and_Moisture.w3cld, Bulk_Density_and_Moisture.w15l2, Bulk_Density_and_Moisture.w15bfm, Bulk_Density_and_Moisture.adod, Bulk_Density_and_Moisture.wrd_ws13, Bulk_Density_and_Moisture.aggstb, Bulk_Density_and_Moisture.cec7_cly, Bulk_Density_and_Moisture.w15cly, Bulk_Density_and_Moisture.c_adod, Carbon_and_Extractions.fe_dith, Carbon_and_Extractions.fe_dith_code, Carbon_and_Extractions.al_dith, Carbon_and_Extractions.al_dith_code, Carbon_and_Extractions.al_fe_ox, Carbon_and_Extractions.fe_ox, Carbon_and_Extractions.fe_ox_code, Carbon_and_Extractions.al_ox, Carbon_and_Extractions.al_ox_code, Carbon_and_Extractions.si_ox, Carbon_and_Extractions.si_ox_code, Carbon_and_Extractions.fe_pyp, Carbon_and_Extractions.fe_pyp_code, Carbon_and_Extractions.al_pyp, Carbon_and_Extractions.al_pyp_code, Carbon_and_Extractions.prep_code AS Carbon_and_Extractions_prep_code, Carbon_and_Extractions.c_tot AS Carbon_and_Extractions_c_tot, Carbon_and_Extractions.c_tot_code, Carbon_and_Extractions.n_tot AS Carbon_and_Extractions_n_tot, Carbon_and_Extractions.n_tot_code, Carbon_and_Extractions.s_tot, Carbon_and_Extractions.oc, Carbon_and_Extractions.oc_code, Carbon_and_Extractions.c_n_ra AS Carbon_and_Extractions_c_n_ra, NCSS_Layer.texture_description, NCSS_Layer.labsampnum AS NCSS_Layer_labsampnum, NCSS_Layer.project_key, NCSS_Layer.site_key AS NCSS_Layer_site_key, NCSS_Layer.pedon_key, NCSS_Layer.layer_sequence, NCSS_Layer.hzn_top, NCSS_Layer.hzn_bot, NCSS_Site_Location.state_name, NCSS_Site_Location.county_code
+FROM ((NCSS_Site_Location INNER JOIN NCSS_Pedon_Taxonomy ON NCSS_Site_Location.[site_key] = NCSS_Pedon_Taxonomy.[site_key]) INNER 
+JOIN ((((NCSS_Layer INNER JOIN Carbon_and_Extractions ON NCSS_Layer.[labsampnum] = Carbon_and_Extractions.[labsampnum]) INNER JOIN CEC_and_Bases ON NCSS_Layer.[labsampnum] = CEC_and_Bases.[labsampnum]) INNER JOIN Organic ON NCSS_Layer.[labsampnum] = Organic.[labsampnum]) INNER JOIN pH_and_Carbonates ON NCSS_Layer.[labsampnum] = pH_and_Carbonates.[labsampnum]) ON NCSS_Pedon_Taxonomy.[pedon_key] = NCSS_Layer.[pedon_key]) INNER JOIN Bulk_Density_and_Moisture ON NCSS_Layer.[labsampnum] = Bulk_Density_and_Moisture.[labsampnum];
+
+4. Filter the resulting query output using the 'state_code' column and 'HI'. The **result now has 397 data points.**
+5. Export query output as csv ('Beyond_Clay_hawaii.csv')
+6. Upload the new Beyond_Clay_hawaii.csv as points into QGIS([how-to](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html))
+7. Download statewide soil order shapefile from [Hawaii Soil Atlas](http://gis.ctahr.hawaii.edu/SoilAtlas). Download link:  http://gis.ctahr.hawaii.edu/downloads/soilAtlas/SoilOrderSeries.zip.
+8. Download low-res NOAA C-CAP Land Cover data for each island (Niihau, Kauai, Oahu, Maui County, Hawaii) for each year (1992, 2001, and 2005) from [C-CAP FTP TOOL](https://coast.noaa.gov/ccapftp/#/). 
+9. Load Soil Orders and C-CAP data into QGIS. 
+10. Extract values from C-CAP rasters to hawaii_bc data points in QGIS using 'Add raster values to points' from SAGA additional processing toolbox. [How-to](https://tutorials.ecodiv.earth/toc/sample_raster_in_qgis.html). 
+11. Extract values from Soil Orders shapefile to output layer of previous step (with hawaii_bc/C-CAP data) in QGIS using 'Add polygon attributes to points' from SAGA additional processing toolbox.
+12. Export layer with all points as a csv via 'Save as'.
+13. Upload csv into GoogleDocs and combine the C-CAP output columns of each island by year. I.e., make a single column from the data from each island for a single time period (1992, 2001, 2005). 
+14. If feeling kind or patient, recode the numeric values in the three columns with the appropriate text version of the land cover found in the metadata of the C-CAP files.
+15. Export GoogleDoc as csv. 
+
