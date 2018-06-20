@@ -1,5 +1,5 @@
 ---
-title: "Can Microbes Access Carbon in Soils?"
+title: "Mineral Associations of Organic Matter"
 author: "Jacqueline E. Pitts"
 layout: post
 output:
@@ -7,10 +7,10 @@ output:
   pdf_document: default
   html_document:
     df_print: paged
-tags: ["stabilization mechanisms", "accessibility to microbes"]
+tags: ["organomineral", "mineral associations"]
 level 1: "3"
-level 2: "a"
-level 3: "iv"
+level 2: "b"
+level 3: "ii"
 category: "Secondary controls on carbon turnover"
 ---
 
@@ -22,9 +22,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r infobox1, include=FALSE}
 #I've decided to use native R to discuss the syntax and formatting of this example template.  By using include=FALSE in the R chunk definition I have effectively kept it from being included in the final product.  When using this template the template intoduction and all R chunks with "infobox" labels can be removed. 
 ```
-#Why is Microbial Access to SOM Important?
+#What are mineral associations with organic matter and why are they important?
 
-Microbial access to soil organic matter exerts a significant control on carbon cycling in soil. Ekschmitt et al (2005) note a discrepancy between the high amount of organic matter in soil and the extremely high decomposing capabilities of microbes. If SOM is accessible to microbes, they will degrade it relatively rapidly, regardless of its chemical structure (Dungait et al, 2012). However, if it is not accessible, that SOM will remain in the soil as a carbon pool. At long time scales relevant in global carbon cycle models, it isn’t the rate of growth or production of litter that happen at the seasonal or yearly frequency, but rather the production of stabilized materials in mineral soil - the “big, slow pools” - that influences the global carbon cycle most.
+Mineral-bound organic matter has been defined as organic matter that is adsorbed to minerals or entrapped in small micro-aggregates. In temperate, cultivated soils, 50-75% of the organic matter in soils exists within clay-sized organo-mineral particles (Christensen 2001). This large reservoir of SOM (and therefore also soil carbon) makes understanding the dynamics of carbon in organo-mineral particles important in understanding the overall dynamics of carbon in soils. The protection of SOM by soil mineral associations also helps to explain the persistence of SOM even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
+
+![Figure 1, from Keiluweit et al, 2015. DOI: ___________](http://www.nature.com.eres.library.manoa.hawaii.edu/articles/nclimate2580/figures/1)
 
 #Regulatory Gate Hypothesis
 
