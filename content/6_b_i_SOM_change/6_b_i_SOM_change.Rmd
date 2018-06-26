@@ -6,9 +6,9 @@ output:
   word_document: default
   html_document:
     df_print: paged
-level2: Change
-level3: Drivers of Change in Soil Organic Matter - Loss & Gains
-level1: Problem-based Questions - Case Studies
+level1: 6 Problem-based Questions - Case Studies
+level2: b Change
+level3: i Drivers of Change in Soil Organic Matter - Loss & Gains
 tags:
 - changes in soil organic matter
 - soil organic matter dynamics
