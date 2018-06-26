@@ -1,32 +1,23 @@
 ---
-title: "Soil Carbon Information Hub Template"
-author: "Jon M. Wells"
+title: "Physical Fractions"
+author: "Kaelin Sylva"
 layout: post
-output: word_document
-tags: stabilization mechanisms conceptual theory
+output:
+  html_document:
+    df_print: paged
+tags: ["aggregate size"],["partical size"],["fractions"]
 category: Secondary controls on carbon turnover
+level 1:"4"
+level 2:"a"
+level 3: "ii"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+#Quantitative Methods - Physical Fractions
 
-__Template (work in progress):__
-Rmarkdown is a file format for making [dynamic documents](http://rmarkdown.rstudio.com/gallery.html) with R.  It is designed so that it can be converted to HTML and many other formats (we will convert to Word to communicate with our expert collaborator; native markdown will be sent to Dr. Sierra to be converted to HTML for the knowledge hub website).  Markdown's ability to run in Rstudio and use native R code has made it an attractive tool for research scientists.  It allows calculation of final results to be integrated directly into the writing and dissemination process.  If new data becomes available and your R caculations need to be re-run you can easily re-knit the document.
-
-For our current use in creating/updating the information hub, we will simply be using Rmarkdown for formatting.  We will learn to add in images, links, and simple formatting to facilitate or information hub posts for class.  Currently we have not finalized our information hub format so this template will likely change but is in a workable condition. Below is a simple example of my section on the conceptual theory behind stabilization mechanisms from the "Soil carbon information hub content" Google sheet.
-
-You will very likely run into problems when working with formating, knitting, etc.  Dont be discouraged.  Most problems can be easily overcome with time and knowledge (google/stackoverflow are great resources to start with).  We will also be spending time in class addressing everyones issues.  A great list of Rmarkdown syntax can be found here: [Rmarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
-
-*If you are reading the Rmarkdown (.Rmd) file: *
-Above this point you will see the file header and type of output ("output: word_document" in this example) and an example R chunk (grey area that is running native R code).  At the top you can edit the title, author, date, and type of file output.  The asterisks you see around the beginning part of this section will be converted to italics when the document is converted.  
-
-*If you are reading the converted word (or other format: HTML,PDF,etc.) document: *
-Much of what was visible in Rmarkdown is no longer visible and has been used to format the document you are now reading.  Comparison between the Rmarkdown file and this final "knitted" document will help you understand how Rmarkdown syntax is used to format your finished product.
-
-Below you will find my level 4 headers (from the SOC-Hub google sheet) in blue.  Changing the header size is accomplished in Rmarkdown using the '#'.  A single '#' is the largest header.  Each additional '#' reduces the header size as you can see below and will see in the final document when you knit this Rmarkdown (.Rmd) file to Word (.doc).  The more technical details of image additions, html links, and required spaciong (among others) will be discussed in class.
-
-Below starts the actual example:
+Quantitative methods can be used to further study soil organic matter and its behavior. More importantly, utilizing fractionation processes can aid our understanding of the turnover process of soil organic matter. When conducting studies or projects, there are various techniques that can be utilized to fractionate soils. Fractionation is the physical separation of different components within the soil, which can be done physically, biologically, or chemically. Within this section, physical fractions will be discussed. For more information on both the chemical and biological process, please refer to the following links: , respectively. Through physically fractionation, soils will be sorted by their size and potentially by their density (Gregorich et al, 2006). Utilizing one type of fractionation can answer a few characteristic of soil organic matter; however, utilizing multiple fractions can provide a more in depth understanding of that particular sample. More in depth information regarding some of the tools and equipment utilized can be found at here . 
 
 ```{r infobox1, include=FALSE}
 #I've decided to use native R to discuss the syntax and formatting of this example template.  By using include=FALSE in the R chunk definition I have effectively kept it from being included in the final product.  When using this template the template intoduction and all R chunks with "infobox" labels can be removed. 
