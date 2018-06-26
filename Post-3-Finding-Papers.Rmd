@@ -1,0 +1,34 @@
+---
+title: "Finding Papers"
+output:
+  html_document:
+    df_print: paged
+---
+
+There are many tools to identify potential data sources. 
+
+[Publish or Perish](https://harzing.com/resources/publish-or-perish) (PoP) is a free scraping tool that allows users to enter various queries to search publishing databases from Google Scholar to Microsoft Academic Search. PoP scrapes raw citations mostly to analyze to produce metrics like h-index and the total number of citations and similar. 
+
+For our purposes PoP provides a simple tool to generate lists of published papers with potentially relevant data. 
+
+**Search Criteria**
+
+- A literature review was conducted using the search engines Google, Google Scholar, Web of Science, and WorldCat
+- The search terms used were “SOIL CARBON STOCK”, “BULK DENSITY”, “PERCENT CARBON”, and all terms were also searched in conjunction with the terms “HAWAII” and “HAWAIIAN ISLANDS”
+- CAH bibliography was used to identify related articles online and from the UH Library websites
+- UH Hawai’i Voyager website was used to find books
+- Articles were also located through The Hamilton Library website, and via Interlibrary Loan, also through the UH Manoa libraries website
+~~~~
+library(devtools)
+install_github('akshaynagpal/rgscholar')
+library(RgScholar)
+~~~~
+
+~~~~
+query_1 <- google_Scholar("soils")
+~~~~
+
+
+There are also some python scripts that have been developed like [Scholar.py](https://github.com/ckreibich/scholar.py)
+
+
