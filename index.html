@@ -32,15 +32,42 @@ Use the links below to obtain information on specific topics.
 
 <h1> Primary controls on soil carbon development </h1>
  <h2> Climate controls </h2>
-  <h3> Climate and soil development, geomorphology </h3>
-  <h3> Soil profile </h3>
-  <h3> Climate and plant distribution </h3>
-  <h3> Linkage to ecosystem services </h3>
-  <h3>Global carbon modeling </h3> 
- <h2> Biotic controls </h2>
-  <h3>Carbon fixation, partitioning, and allocation </h3>
-  <h3> Soil ecosystems </h3>
-  <h3> Microbial control of carbon flow </h3>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Climate controls" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %} 
+
+<h2> Biotic controls </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Biotic controls" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
 
 <h1> Secondary controls on carbon turnover </h1>
  <h2> Conceptual - theory </h2>
