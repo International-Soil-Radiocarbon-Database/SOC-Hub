@@ -1,0 +1,79 @@
+---
+title: "Soil Carbon Information Hub Template"
+author: "Hunter Heaivilin"
+layout: post
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+tags: stabilization mechanisms conceptual theory
+category: Secondary controls on carbon turnover
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+__Template (work in progress):__
+Rmarkdown is a file format for making [dynamic documents](http://rmarkdown.rstudio.com/gallery.html) with R.  It is designed so that it can be converted to HTML and many other formats (we will convert to Word to communicate with our expert collaborator; native markdown will be sent to Dr. Sierra to be converted to HTML for the knowledge hub website).  Markdown's ability to run in Rstudio and use native R code has made it an attractive tool for research scientists.  It allows calculation of final results to be integrated directly into the writing and dissemination process.  If new data becomes available and your R caculations need to be re-run you can easily re-knit the document.
+
+For our current use in creating/updating the information hub, we will simply be using Rmarkdown for formatting.  We will learn to add in images, links, and simple formatting to facilitate or information hub posts for class.  Currently we have not finalized our information hub format so this template will likely change but is in a workable condition. Below is a simple example of my section on the conceptual theory behind stabilization mechanisms from the "Soil carbon information hub content" Google sheet.
+
+You will very likely run into problems when working with formating, knitting, etc.  Dont be discouraged.  Most problems can be easily overcome with time and knowledge (google/stackoverflow are great resources to start with).  We will also be spending time in class addressing everyones issues.  A great list of Rmarkdown syntax can be found here: [Rmarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+*If you are reading the Rmarkdown (.Rmd) file: *
+Above this point you will see the file header and type of output ("output: word_document" in this example) and an example R chunk (grey area that is running native R code).  At the top you can edit the title, author, date, and type of file output.  The asterisks you see around the beginning part of this section will be converted to italics when the document is converted.  
+
+*If you are reading the converted word (or other format: HTML,PDF,etc.) document: *
+Much of what was visible in Rmarkdown is no longer visible and has been used to format the document you are now reading.  Comparison between the Rmarkdown file and this final "knitted" document will help you understand how Rmarkdown syntax is used to format your finished product.
+
+Below you will find my level 4 headers (from the SOC-Hub google sheet) in blue.  Changing the header size is accomplished in Rmarkdown using the '#'.  A single '#' is the largest header.  Each additional '#' reduces the header size as you can see below and will see in the final document when you knit this Rmarkdown (.Rmd) file to Word (.doc).  The more technical details of image additions, html links, and required spaciong (among others) will be discussed in class.
+
+Below starts the actual example:
+
+```{r infobox1, include=FALSE}
+#I've decided to use native R to discuss the syntax and formatting of this example template.  By using include=FALSE in the R chunk definition I have effectively kept it from being included in the final product.  When using this template the template intoduction and all R chunks with "infobox" labels can be removed. 
+```
+#The Conundrum of SOM
+
+Outline the history of how SOC/SOM has been conceptualized
+
+List of important publications:
+
+Sollins et al. (1996) DOI: [10.1016/S0016-7061(96)00036-5](https://doi.org/10.1016/S0016-7061(96)00036-5)
+
+#Humification as a theory is unsupported
+
+Explain how humication theory is unsupported.
+
+![Figure 1. How our view of SOM has changed as we employ new soil measurement techniques. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f2.2.jpg)
+
+```{r infobox2, include=FALSE}
+#above is the first example of inserting an image into your Rmarkdown file.  the '![]()' syntax is used.  You start with an '!'.  Then Within the brakets [] you include the text that you want included as the figure caption.  Then Within the parentheses () you include the link to where the image can be found; the image is from the web in the above example.  I have also nested the link to Schmidts paper's DOI within the figure text which is why it appears complicated.  Below is a similar example with a different image.  Remember you will be copying this template and, though trial and error, it will begin to make sense... and if it doesnt, we'll help you in class. 
+```
+
+Discuss the emerging understandings in stabilization mechanisms. 
+
+![Figure 2. An emerging understanding of stabilization/destabilization processes has replaced humification theory. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg)
+
+List of important publications:
+
+Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)
+
+#Rethinking the Conceptual Theory of SOM Sequestration
+
+As paradigms have shifted, its important to get away from humification terminology and embrace mechanistic theories and conceptualizations of soil carbon stabilization.
+
+![Figure 3. The soil continum model (SCM) is an attempt to bring together disparate conceptualizations of soil carbon storage, which is an important step forward in soil science as we try to determine the best measurement and modeling techniques to predict SOC changes. For full figure text see Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)](https://media.springernature.com/m685/nature-assets/nature/journal/v528/n7580/images/nature16069-f2.jpg)
+
+List of important publications:
+
+Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articles/nature16069)
+
+#Moving forward: bringing together theory, measurement, and modeling
+
+Theory, measurement, and modeling need to be thought of as a single process to close the loop of the scientific method and create usable products to not just inform further science, but also provide farmers, land managers, policy makers, and the general public a tool to understand soil carbon. 
+
+List of important publications:
+
+Triangle paper
