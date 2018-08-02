@@ -1,0 +1,184 @@
+---
+title: "Thermal and Spectral Fractionation"
+author: "Kristy Lam"
+layout: post
+output: word_document
+tags: ["thermal fractionation", "spectral fractionation",]
+category: "Secondary controls on carbon turnover"
+level1: "Quantitative Methods"
+level2: "Quantitative Methods"
+level3: "Spectral or Thermal Fractionation"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r infobox1, include=FALSE}
+#I've decided to use native R to discuss the syntax and formatting of this example template.  By using include=FALSE in the R chunk definition I have effectively kept it from being included in the final product.  When using this template the template intoduction and all R chunks with "infobox" labels can be removed. 
+```
+#Thermal or Spectral Fractionation
+
+Thermal or spectral fractionation is increasingly being used by soil scientists to quantify and identify organic matter and carbon in samples. In general chemistry, we learned that all matter emit electromagnetic radiation. The electromagnetic spectrum shows the scale of wavelengths emitted (see image below).
+
+
+![Figure 1. Electromagnetic Spectrum from [Wikipedia](https://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg#filelinks)](EM_Spectrum.png)
+
+In the context of soil science, thermal or spectral fractionation involves separating different types of organic material based on the reflectance (i.e. spectral signature) or absorption of a specific type or wavelength of electromagnetic radiation, thus, allowing scientists to determine and identify the soil organic matter (SOM) and soil organic carbon (SOC) present in a given soil sample. However, these methods often require adequate statistical analyses techniques (i.e. Partial Least Squares Regression) that can sort through many highly collinear spectral bands from relatively few observations. Recent studies (see "Applications" section) have utilized these techniques to their advantage to answer relevant questions about SOM dynamics and stability.
+
+Sources:   
+Brown et al. (2006) DOI: [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)  
+Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/core/books/soil-carbon-dynamics/6E3BE5527BCBE2147B09CDB5F76D8788)
+
+#Why We Use These Methods
+
+SOM includes a variety of different forms of carbon that are produced from heterogeneous sources (i.e. microbes, , weathering, etc). There is no one method that can measure and identify every single carbon component in a given soil. The advantage of thermal or spectral fractionation is that these techniques combined can measure and identify SOM/SOC. However, they only serve as a proxy measure, therefore, they need to be coupled with another method (i.e. biological, chemical, physical fractionation - include links to these pages) in order to produce important implications about soil health and soil best management practices. Recent studies are starting to delve deep into the thermal and spectral fraction to answer questions about soil carbon dynamics and SOM stability. Although there are many thermal/spectral techniques out there, we will focus on a few that are often used when studying SOM/SOC.
+
+***
+
+>“...thermal analysis is a highly integrative method that requires little sample preparation and allows the analysis of bulk soil samples without pretreatment, even with low C content. Using thermal analysis techniques to investigate SOM stability is highly attractive.”   
+>Peltre et al., (2013) DOI: [10.2136/sssaj2013.02.0081](https://www.soils.org/publications/sssaj/abstracts/77/6/2020)
+
+
+***
+
+>“Analysis of the results revealed the suitability of thermal methods to provide simple, quick and reliable information on organic matter stabilisation during the composting process of agroindustrial residua.”    
+>Dell’Abate et al., (2000) DOI: [10.1023/A:1010157115211](https://link.springer.com/article/10.1023/A%3A1010157115211)
+
+***
+
+
+
+#Thermal/Spectral Methods
+
+##A. Infrared (IR) Spectroscopy
+
+###1. Visible Near-Infrared (VNIR) - 350-2500nm
+
+This technique measures overtones and combinations to characterize SOC and soil total carbon. VNIR reflectance is key in identifying certain soil properties, such as relative kaolinite content, relative montmorillonite content, clay content, cation exchange capacity (CEC), SOC, inorganic carbon, and citrate-dithionite extractable Fe. This method is quick and inexpensive.
+
+Sources:    
+Brown et al. (2006) DOI: [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)
+
+
+![From Brown et al.(2006) [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)](VNIRtable_Brown(2006).png) 
+
+![From Brown et al.(2006) [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)](VNIRgraph_Brown(2006).jpg)
+
+###2. Near-Infrared (NIR) - 700-2500nm 
+
+This method measures overtones, harmonics and muted combination bands; dominated by much weaker and broader signals from vibration overtones and combination bands.
+
+Source:    
+[EAG Laboratory](https://www.eag.com/)
+
+![From [Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/spectroscopy-elemental-isotope-analysis-learning-center/molecular-spectroscopy-information/nir-technology.html)](NIR_ThermoFisher(1).jpg)
+
+
+###3. Mid-infrared (MIR) - 2500-25,000nm
+
+This technique measures the fundamental (i.e. 1st harmonic) resonance frequencies and a few overtone bands, but mostly dominated by intense vibration fundamentals.
+
+Source:
+  * EAG Laboratory (https://www.eag.com/)
+
+###4. Fourier-Transform Infrared (FTIR) 2500-25,000nm
+
+This method  measures the absorbance of infrared light, then generates a spectrum based on the functional groups in the material. It also takes continuous measurements of atmospheric gases in the field, thus, having good sensitivity to soil gases. SOM produces a “fingerprint” in the IR spectrum, then the chemical family or identity can be determined using a reference database.
+
+Sources:  
+EAG Laboratory (https://www.eag.com/)   
+Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/core/books/soil-carbon-dynamics/6E3BE5527BCBE2147B09CDB5F76D8788)
+
+![From [Thermo Fisher](http://www.avantec.fr/content/tfs/fr_fr/about-us/general-landing-page/ftir-technology.html)](FTIR_ThermoFisher.jpg) 
+
+##B. Thermogravimetry (TG) & Differential Scanning Calorimetry (DSC)
+
+This method involves two parts: thermogravimetry (TG) and differential scanning calorimetry (DSC). The former involves increasingly heating a sample in an inert or oxidative gas atmosphere that result in weight loss or gain. The changes in sample weight can be attributed to alterations in chemical or physical properties, thus TG is important in investigating thermal stability of SOM. The latter will plot a figure according to heat flow (i.e. exotherm vs endotherm reaction). DSC analyses do not require large samples, numerous controls, or extensive method development. In addition, this technique can be applied to whole soil sampling without requirement of pretreatments (i.e. chemical extraction) or isolated fractions.Check out this [video from Setaram](http://us.setaram.com/en/setaram-products/couplings-gas-analysis-2/tga-sta-ms/sensys-evo-tg-dsc-ega/1/).
+
+Sources:   
+EAG Laboratory (https://www.eag.com/)
+
+##C. Pyrolysis Gas Chromatography-Mass Spectrometry (Py GC-MS)
+
+This technique studies the chemical composition of plant material and polymers at the molecular scale. First, the sample is thermally fragmented through pyrolysis, then separated by gas chromatography. According to the mass-charge ratio and relative abundance, the sample is ionized and characterized. This method often provides useful information and insight on the origin of SOC/SOM. In a study conducted by Lara-Gonzalo et al. (2015), they were able to utilize Py GC-MS to quickly identify the majority of the contaminants present at the site, thus found it very useful as a screening system to obtain qualitative results in soil pollution studies. Although this technique only requires minimal sample preparation, Py GC-MS is a destructive technique and non-homogenous samples may lead to variable results. Common types of Py GC-MS analyses include: single shot, double shot, evolved gas anlysis, and much more. (click [here](https://www.eag.com/pyrolysis-gc-ms/) for a more comprehensive list) 
+
+![From [Frontier Lab](http://www.frontier-lab.com/english/multi-functional-pyrolysis-system/)](PyGCMS_Frontier.jpg)
+
+Sources:    
+Jimenez-Gonzales et al. (2017) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)   
+Lara-Gonzalo et al., (2015) DOI: [10.1016/j.orggeochem.2015.06.012](https://www.sciencedirect.com/science/article/pii/S0146638015001321)   
+EAG Laboratory (https://www.eag.com/)
+
+##D. Nuclear Magnetic Resonance (NMR) Spectroscopy 
+
+This method involves aligning magnetic nuclei of a specific isotope (i.e. ^13^C) by a strong external magnet, then perturbing it with a radio wave. Once the molecule absorbs the external energy, the nucleus is in resonance. This resonance frequency tells us about the identity, quantity, position, and intra-molecular relationships occurring within the analyzed substance. Check out this [video from Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/nuclear-magnetic-resonance-nmr.html).
+
+
+![From Pearson Prentice Hall, Inc.](NMR_Pearson(2010).jpg)
+
+For example, ^13^C NMR is often used to analyze soil carbon by differentiating the C atoms within a organic molecule based on their binding status. This method is non-destructive and avoids the potential for secondary reactions. However, scientists need to keep in mind that ^13^C only represents about 1% of whole C in soil sample. Furthermore, paramagnetic metal ions can cause interference with the results. 
+
+Sources:  
+Reeves III et al. (2012) DOI: [10.1016/B978-0-12-386897-8.00020-6](https://www.sciencedirect.com/science/article/pii/B9780123868978000206)  
+Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/core/books/soil-carbon-dynamics/6E3BE5527BCBE2147B09CDB5F76D8788)   
+EAG Laboratory (https://www.eag.com/)
+
+##E. Raman Spectroscopy
+
+This method is used to determine and identify the chemical structure of compounds through vibrational spectroscopy. It provides better resolution than FTIR as well as qualitative analysis of SOC/SOM. Additionally, this technique can analyze at a small scale (i.e. 1um). Taquet et al. (2012) found that one of the advantages of Raman is that it is portable and robust, thus allowing quantitative analyses of absolute gas concentrations.
+
+Sources:   
+Taquet et al. (2012) DOI: [10.1016/j.ijggc.2012.10.003](http://linkinghub.elsevier.com/retrieve/pii/S1750583612002368)   
+EAG Laboratory (https://www.eag.com/)
+
+![From [University of Maryland](http://www.chem.umd.edu/wp-content/uploads/2014/01/)](Raman(1).jpg) 
+
+##F. X-ray 
+
+###1. X-ray Absorption Near-Edge Structure (XANES) or Near edge X-ray Absorption Fine Structure (NEXAFS)
+
+XANES spectroscopy determines the oxidation state of specific elements in a soil and is often used to identify carbon nanotubes (CNTs) using elemental mapping and analyze interface reactions. Interactions between CNT largely depend on the environment in which they are (i.e. saturated soil). In samples with a high C content, xrays tend to be absorbed, easily pass through water, and do not deflect or scatter through air bubbles, thus, enabling samples to be tested for CNTs. 
+
+Sources:   
+Jokic et al.(2003) DOI: [10.1016/S0016-7037(03)00101-7](http://www.sciencedirect.com/science/article/pii/S0016703703001017)   
+Sedlmair et al. (2012) DOI: [10.1016/j.chemgeo.2011.08.009](http://www.sciencedirect.com/science/article/pii/S0009254111003433) 
+
+###2. X-Ray Fluorescence (XRF)
+
+This non-destructive technique is used to quantify the elemental compositions of SOM and measure film thickness and composition. The soil sample is irradiated with X-rays that interact with the innermost electrons of the atom (K- and L-shells), causing the emission of X-rays with energies characteristic of the elements present. This method can analyze a few micrometers to several millimeters depending on the material. (EAG Lab)
+
+
+![From [Thermo Fisher](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/spectroscopy-elemental-isotope-analysis-learning-center/elemental-analysis-information/xrf-technology.html)](XRF(1).jpg)
+
+Sources:   
+EAG Laboratory (https://www.eag.com/)
+
+
+
+#Applications
+
+**Pollutants in the soil**
+
+Jokic et al. (2003) analyzed prairie wetland soils in Saskatchewan, Canada using elemental analysis, NMR and XANES spectroscopy with an emphasis on organic carbon and sulphur structures. After comparison with adjacent upland and cultivated soils, they found that the wetland soils have a significant sequestering ability for pollutants such as polycyclic aromatic hydrocarbon (PAHs). Thus, drying of the wetlands, caused by either drainage or climate change, may result in the rapid decomposition of the more labile organic matter, releasing carbon dioxide into the atmosphere.
+DOI: [10.1016/S0016-7037(03)00101-7](http://www.sciencedirect.com/science/article/pii/S0016703703001017)
+
+
+**Soil carbon and climate change**
+
+Another study done by Gillespie et al. (2014) characterized and developed relationships between the chemistry and bioavailability of SOC in the horizons of Subarctic earth hummocks. Biodegradability was assessed in a laboratory controlled mineralization study, XANES was used to characterize the chemical composition of the SOM, and thermal stability was determined by Rock-Eval pyrolysis. Their results indicated that there may be a pool of labile SOC, relatively rich in phenolic compounds, in perennially frozen soils which may be susceptible to decomposition in a warming climate. 
+DOI: [10.1016/j.soilbio.2013.09.021](http://www.sciencedirect.com/science/article/pii/S0038071713003222)
+
+**SOM stability**
+
+In 2013, Peltre et al. further assessed the relationships between thermal and biological indices of SOM stability using a wide range of soils with varying C concentrations collected from across the United States. Soils were analyzed using TG-DSC coupled with CO2–EGA. These measurements were compared with SOM biological stability measured during long-term laboratory incubations. Results showed that different relationships exist between the thermal and biological stabilities of SOM (i.e. differences in C concentrations), which can be attributed to different mechanisms of SOM stabilization. Thus, mineral association of SOM and  abundance of intact plant debris are vital in low-C soils and high-C soils, respectively.
+DOI: [10.2136/sssaj2013.02.0081](https://www.soils.org/publications/sssaj/abstracts/77/6/2020)
+
+```{r infobox2, include=FALSE}
+#above is the first example of inserting an image into your Rmarkdown file.  the '![]()' syntax is used.  You start with an '!'.  Then Within the brakets [] you include the text that you want included as the figure caption.  Then Within the parentheses () you include the link to where the image can be found; the image is from the web in the above example.  I have also nested the link to Schmidts paper's DOI within the figure text which is why it appears complicated.  Below is a similar example with a different image.  Remember you will be copying this template and, though trial and error, it will begin to make sense... and if it doesnt, we'll help you in class. 
+```
+
+
+
