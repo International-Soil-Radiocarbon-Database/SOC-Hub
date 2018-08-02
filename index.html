@@ -71,10 +71,43 @@ Use the links below to obtain information on specific topics.
 
 <h1> Secondary controls on carbon turnover </h1>
  <h2> Conceptual - theory </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Conceptual-theory" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
  <h2> Stabilization mechanisms </h2>
-  <h3> Physical protection of organic matter in aggregates </h3>
-  <h3> Mineral associations </h3> 
-  <h3> Microbial accessibility </h3>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Stabilization-mechanisms" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
 
 <h1> Quantitative methods </h1>
  <h2> Chemical characterization of SOM (spectral analyses) </h2>
