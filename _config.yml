@@ -21,7 +21,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "content"]
 
 # Jekyll Settings
