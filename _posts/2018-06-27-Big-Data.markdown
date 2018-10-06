@@ -1,6 +1,6 @@
 ---
 title: "Big Data in Science & Problem Solving"
-author: "Hunter Heaivilin"
+author: "Hunter Heaivilin and Will Weider"
 level1: Scientific Process
 level2: Big data 
 tags: big data
