@@ -1,6 +1,6 @@
 ---
 title: "Thermal Fractionation"
-author: "Kristy Lam"
+author: "Kristy Lam and Alain Plante"
 layout: post
 level2: Fractionations
 level1: Quantitative Methods
