@@ -14,7 +14,7 @@ figures: /img/6bi/
 
 
 ![Late soil ecologist Jenny Hans under Spodosol leaf litter from [University of Maryland](https://extension.umd.edu/learn/soil-organic-matter)]({{site.baseurl}}{{page.figures}}UM_SpodosolLeafLitter_lateJennyHans_pioneersoilecologist.jpg) 
-*Late soil ecologist Jenny Hans under Spodosol leaf litter from [University of Maryland](https://extension.umd.edu/learn/soil-organic-matter)*
+*Late soil ecologist Hans Jenny under Spodosol leaf litter from [University of Maryland](https://extension.umd.edu/learn/soil-organic-matter)*
 
 # Understanding SOM
 
