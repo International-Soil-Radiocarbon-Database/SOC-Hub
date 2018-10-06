@@ -11,9 +11,9 @@ figures: /img/2av/
 
 # The State of Science: Earth System Modeling 
 
-As global climate change has been brought to the forefront as a critical planetary issue for this century, science has been struggling to understand this ever evolving and strengthening beast. Global climate change is the overall increase of the Earth’s temperature by the input of greenhouse gases into the Earth’s atmosphere, along with its accompanying effects like sea level rise, high drought occurrence, more intense storms, change in precipitation patterns and increased occurrences of heat waves. This increase in temperature not only affects the planet’s atmosphere, but also the terrestrial (land-based) processes involved in the Earth’s crust, both above ground and below ground. One of the most important processes being affected in terrestrial ecosystems is the soil carbon cycle. See the previous blog post titled the “Dynamic role of soil and terrestrial ecosystems in the global C cycle” to learn the essentials on the soil carbon cycle.
+As global climate change becomes a critical planetary issue for this century, science struggles to understand this ever-evolving and strengthening beast. Climate change is the overall increase of the Earth’s temperature due to unbalanced inputs of greenhouse gases into the Earth’s atmosphere, along with the accompanying effects such as sea level rise, high drought occurrence, more intense storms, change in precipitation patterns, and increased occurrences of heat waves. Increasing temperature not only affects the planet’s atmosphere, but also the terrestrial (land-based) processes involved in the Earth’s crust, both above ground and below ground. One of the most important processes affected in terrestrial ecosystems is the soil carbon cycle. 
 
-Earth system models (ESM) are models that predict global phenomenon’s through integration of many Earth systems.  These models work to integrate the interactions between the atmosphere, plants, soil and water to predict responses to certain conditions, whether it be from stressors or a change in management. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest, given the use of best land management practices, there is significant potential for soil to take up a large amount of carbon from the atmosphere within this century – potentially offsetting some greenhouse gas emissions.  Modeling, however, can have many assumptions based off lack of complete or existing data and therefore large uncertainties can arise in model predictions. Findings from Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is actually a series of nested systems of positive feedback loops. Positive feedback loops are systems that as more changes occur the to the drivers of the system, the system is thrown more and more off equilibrium. An example of a smaller nested system within the large global system is how permafrost in Artic soils is melting due to the increase in global temperate from enhanced greenhouse gas inputs. When the permafrost melts it releases the C trapped within the soil which then oxidizes to form CO2, this then increases the concentration of greenhouse gases in the atmosphere and accelerates the global temperature rise.  Accurately accounting for the nested systems within the larger system creates major challenges in accurate ESMs (Figure 1).
+Earth system models (ESM) are models that predict global phenomenon’s through integration of many Earth systems.  These models work to integrate the interactions between the atmosphere, plants, soil and water to predict responses to certain conditions, whether it be from stressors or a change in management. ESMs are important for predicting the future effects of climate change on soil carbon stocks. Current ESMs suggest, given the use of best land management practices, there is significant potential for soil to take up a large amount of carbon from the atmosphere within this century – potentially offsetting some greenhouse gas emissions.  Modeling, however, can have many assumptions based off lack of complete or existing data and therefore large uncertainties can arise in model predictions. Findings from Heimann and Reichstein (2008) suggest that the relationship between climate and carbon in terrestrial systems is actually a series of nested systems of positive feedback loops. Positive feedback loops are systems that as more changes occur the to the drivers of the system, the system is thrown more and more off equilibrium. An example of a smaller nested system within the large global system is how permafrost in Arctic soils is melting due to the increase in global temperate from enhanced greenhouse gas inputs. When the permafrost melts it releases the C trapped within the soil which then oxidizes to form CO2, this then increases the concentration of greenhouse gases in the atmosphere and accelerates the global temperature rise.  Accurately accounting for the nested systems within the larger system creates major challenges in accurate ESMs (Figure 1).
 
 
 ![Figure 1: Three examples of positive feedback loops of carbon dioxide with terrestrial ecosystems overlaid on a global map of soil organic carbon (SOC) stocks. (Heimann and Reichmann, 2008).]({{site.baseurl}}{{page.figures}}Figure1.png)
@@ -26,9 +26,9 @@ Heimann and Reichstein (2008) [doi](https://doi.org/10.1038/nature06591)
 
 # Changing climate and soil carbon: A complicated relationship 
 
-Using ESMs to predict soil carbon proves to be challenging because of the variability that exists within soils. Soils vary based off many factors like parent material, climate, organism, time and topography (see Soils and Climate linkages 2aiv. LINK HERE) and therefore there is difficulty in accounting for all these differences within a global model. . Table 1 shows the amount of carbon in each soil by biome. Permafrost and peatlands have some of the highest amounts of soil organic carbon (SOC) trapped within their soils. As the Earth’s temperature increases the carbon stored in these soils is threatened by the melting of these partially frozen soils and therefore reigniting the metabolisms of the microbes in the soil, which then respire CO2 back into the atmosphere. This melting permafrost is a key example of the uncertainties in the global carbon cycle. There are two main sources of uncertainty within ESM to be distinguished, uncertainties in model parameters and uncertainties in the prediction of the model.
+Using ESMs to predict soil carbon proves to be challenging because of the variability that exists within soils. Soils vary based off many factors like parent material, climate, organism, time and topography; therefore, there is difficulty in accounting for all these differences within a global model. Table 1 shows the amount of carbon in each soil by biome. Permafrost and peatlands have some of the highest amounts of organic carbon stored within their soils. As the Earth’s temperature increases, the stored carbon is threatened by the melting of these partially frozen soils and therefore reigniting the metabolisms of the microbes in the soil, which then respire CO2 back into the atmosphere. This melting permafrost is a key example of the uncertainties in the global carbon cycle. There are two main sources of uncertainty within ESM to be distinguished, uncertainties in model parameters and uncertainties in the prediction of the model.
 
-Uncertainties in the model parameters are uncertainties in the values that are programmed into the model to determine the model response. This is both for real data values as well as conceptual values determined by governing equations for a certain set of conditions. Uncertainties in the predict of the model are a function of all the uncertainties in the model parameters as well as the uncertainties that the model is an accurate prediction of the system itself. The main sources of parameter uncertainties in ESMs are climate control on net primary productivity (NPP), soil respiration, tropical forest to savannah conversion, and the turnover time of live carbon or live plant biomass which overall contribute to the uncertainties in the prediction of the model. More about these sources of uncertainty can be found in this sections resources.
+Uncertainties in the model parameters are uncertainties in the values programmed into the model to determine the model response. Uncertainty occurs in both empirical data as well as conceptual values determined by governing equations for a certain set of conditions. Uncertainties in the model prediction are a function of all the uncertainties in the model parameters as well as the uncertainties that the model is an accurate prediction of the system itself. The main sources of parameter uncertainties in ESMs are climate control on net primary productivity (NPP), soil respiration, tropical forest to savannah conversion, and the turnover time of live carbon or live plant biomass which overall contribute to the uncertainties in the prediction of the model. 
 
 ![Table 1: SOC by biome given by Jackson et al. 2017]({{site.baseurl}}{{page.figures}}Table1.png)
 *Table 1: SOC by biome given by Jackson et al. 2017*
@@ -38,15 +38,9 @@ One effort to reduce uncertainty in model predictions is targeting how model str
 ![Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al., 2015).]({{site.baseurl}}{{page.figures}}Figure2.png)
 *Figure 2: The five ESMs once CMIP5 protocol of the two carbon pool system is applied. The left two columns are the carbon inputs (live pools) and the right two columns are the carbon outputs (dead pools) (Koven et al., 2015).*
 
-**Further Resources** 
+**Further in-depth resources** 
 
-Olson et al. (2011), [doi](https://doi.org/10.1641/00063568)    
-Fung et al., (2005) [doi](https://doi.org/10.1073/pnas.0504949102)     
-Jones et al., 2003 [doi](https://doi.org/10.1029/2005JD006548)     
-Friedlingstein et al., (2006) [doi](https://doi.org/10.1175/JCLI3800.1)     
-Friend et al., (2014) [doi](https://doi.org/10.1073/pnas.1222477110)     
-Koven et al. (2015) [doi](https://doi.org/10.5194/bg-12-5211-2015)     
-Koven et al. (2017) [doi](https://doi.org/10.1038/nclimate3421)    
+Olson et al. (2011), [doi](https://doi.org/10.1641/00063568)    ; Fung et al., (2005) [doi](https://doi.org/10.1073/pnas.0504949102)     ; Jones et al., 2003 [doi](https://doi.org/10.1029/2005JD006548)     ; Friedlingstein et al., (2006) [doi](https://doi.org/10.1175/JCLI3800.1)     ; Friend et al., (2014) [doi](https://doi.org/10.1073/pnas.1222477110)     ; Koven et al. (2015) [doi](https://doi.org/10.5194/bg-12-5211-2015)     ; Koven et al. (2017) [doi](https://doi.org/10.1038/nclimate3421)    
 
 # Models for Management: How ESMs help make informed decisions
 
@@ -61,11 +55,9 @@ The density of  vegetation for an area influences the belowground biomass in bot
 ![Figure 4: Cross discipline cooperation in model creation and implementation of practice and policies to transition into “climate smart” agriculture. (Paustian et al., 2016).]({{site.baseurl}}{{page.figures}}Figure4.png)
 *Figure 4: Cross discipline cooperation in model creation and implementation of practice and policies to transition into “climate smart” agriculture. (Paustian et al., 2016).*
 
-**Further Resources**
+**Further in-depth resources**
 
-Tubiello et al., (2015) [doi](https://doi.org/10.1111/gcb.12865)     
-Paustian et al.(2016) [doi](https://doi.org/10.1038/nature17174)     
-Bianchi et al. , 2008 [doi](https://doi.org/10.1590/S1516-89132008000200005)   
+Tubiello et al., (2015) [doi](https://doi.org/10.1111/gcb.12865)     ; Paustian et al.(2016) [doi](https://doi.org/10.1038/nature17174)     ; Bianchi et al. , 2008 [doi](https://doi.org/10.1590/S1516-89132008000200005)   
 
 # Where have we come from? The first global SOC models
 
@@ -79,10 +71,9 @@ From Figure 5 we have traveled a long way. SOC stocks were initial understood by
 ![Figure 6: The estimates of the global distribution of carbon density (PgC) extracted from literature of that time with the most recent and agreed upon estimate being #28. Blue color points indicate estimates acquired through non-spatially explicit methods, while red indicates estimates acquired through spatially explicit methods.(Scharlemann et al. 2014).)]({{site.baseurl}}{{page.figures}}Figure6.png)
 *Figure 6: The estimates of the global distribution of carbon density (PgC) extracted from literature of that time with the most recent and agreed upon estimate being #28. Blue color points indicate estimates acquired through non-spatially explicit methods, while red indicates estimates acquired through spatially explicit methods.(Scharlemann et al. 2014).)*
 
-**Further Resources**
+**Further in-depth resources**
 
-Post et al., (1982) [doi](https://doi.org/10.1038/298156a0)    
-Scharlemann et al., (2014) [doi](https://doi.org/10.4155/cmt.13.77)    
+Post et al., (1982) [doi](https://doi.org/10.1038/298156a0)    ; Scharlemann et al., (2014) [doi](https://doi.org/10.4155/cmt.13.77)    
 
 # Where are we going? The future of ESMs for SOC stocks through mechanistic modeling
 
@@ -93,12 +84,9 @@ There are several different types of models that have been developed in ESM. Mos
 
 For all these approaches there are many challenges to scaling. When a model scales from a soil pore to global scales there are many associated uncertainties. The on the ground data used to validate the model may not represent the true values within the system and the data could upscale or downscale the model predictions. Also, there may there is not enough data for the model and extrapolating it to cover an ecosystem or entire planet is not representative of the randomness within the system. Nonetheless, changing from a linear model to a multi continua model is the new focus of ESMs in order to create accurate forecasts for how climate change may affect carbon stocks across different ecosystems. The mechanisms of carbon sequestration and decomposition are so complex and variant by climate that they require a modeling approach that reflects the complexities and nonlinearity of the environment. Bradford et al. (2016) suggest “model-knowledge integration” where models can be accurately represented by adding our advanced knowledge of carbon stabilization to improve feedback projections. Moving forward we need to bring together theory, measurement and modeling in order to predict accurate relationships and create sustainable management decisions. 
 
-**Further Resources**
+**Further in-depth resources**
 
-Steefel et al., (2005) [doi](https://doi.org/10.1038/298156a0)    
-Bradford et al., (2016) [doi](https://doi.org/10.1038/298156a0)    
-Lehmann and Kleber (2015) [doi](https://doi.org/10.1038/nature16069)   
-Schmidt et al. (2011) [doi](https://doi.org/10.1038/nature10386)   
+Steefel et al., (2005) [doi](https://doi.org/10.1038/298156a0)    ; Bradford et al., (2016) [doi](https://doi.org/10.1038/298156a0)    ; Lehmann and Kleber (2015) [doi](https://doi.org/10.1038/nature16069)   ; Schmidt et al. (2011) [doi](https://doi.org/10.1038/nature10386)   
 
 # Building global scale observations and experimental datasets  
 
