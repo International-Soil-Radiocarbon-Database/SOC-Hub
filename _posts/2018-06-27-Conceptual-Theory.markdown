@@ -1,6 +1,6 @@
 ---
 title: "SOM Stabilization mechanisms: Conceptual Theory"
-author: "Jon M. Wells"
+author: "Jon M. Wells, Joey Blankinship, and Marco Keiluweit"
 layout: post
 tags: ["stabilization","mechanisms", "conceptual", "theory","recalcitrance", "humification"]
 level1: Secondary controls on carbon turnover
