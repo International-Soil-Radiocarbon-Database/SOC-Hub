@@ -1,6 +1,6 @@
 ---
 title: "Physical Fractions"
-author: "Kaelin Sylva"
+author: "Kaelin Sylva and Rota Wagai"
 layout: post
 tags: ["Physical Fractionation", "Soil Fractionation", "Soil Texture"]
 level1: Quantitative methods
