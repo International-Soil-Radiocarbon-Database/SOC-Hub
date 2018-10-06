@@ -3,14 +3,14 @@
 - name: Corey Lawrence
   role: PI
   img: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/content_grid/public/thumbnails/image/photo_0.JPG?itok=ztb4Av8X
-  bio: Corey likes to grill and play around with soil
+  bio: Corey bring expertise in erosion, geochemistry, soil and water chemistry, and ecosystems to the group.  "Fall's water moves to soils deep" - this quote inspires his work on reactive transport and mineral interactions.  
   url: https://www.usgs.gov/staff-profiles/corey-lawrence
    
 - name: Susan E. Crow
   role: co-PI
   img: https://i1.rgstatic.net/ii/profile.image/AS%3A277509573758979%401443174846672_l/Susan_Crow.png
-  bio: Susan is awesome
-  url: https://www.ctahr.hawaii.edu/nrem/staff/crow.html
+  bio: Susan dabbles in all aspects of soil organic matter and carbon - from mechanisms to modeling and organo-mineral interactions to policy implementation. 
+  url: https://www.soilandcarbon.com
   
 - name: Katherine Heckman
   role: co-PI
@@ -21,7 +21,7 @@
 - name: Marco Keiluweit
   role: co-PI
   img: http://stockbridge.cns.umass.edu/sites/stockbridge.cns.umass.edu/files/pictures/Bio-Marc_Keiluweit.jpg
-  bio: Marco brings inspiring insights to the team
+  bio: Marco brings inspring insights to the team.  His foci are identifying molecular-level mechanisms controlling organic matter cycling, quantifying the importance of mechanisms to fluxes in microenvironments, and examining climate change impacts on pathways and rates.   
   url: http://stockbridge.cns.umass.edu/marco-keiluweit
 
 - name: Joseph Blankinship
@@ -34,13 +34,13 @@
   role: Participant
   img: https://www.eemb.ucsb.edu/sites/www.eemb.ucsb.edu/files/styles/portrait-full/public/images/faculty/joshua-schimel.jpg
   url: https://www.eemb.ucsb.edu/people/faculty/schimel
-  bio: Josh brings senior expertise to the team and keeps them focused
+  bio: Josh brings senior expertise in soil C and N cycling, connecting processes and models, and dryland and Arctic ecosystems to the team and keeps them focused.  His interest is in rejuvenating conceptual models for soil carbon cycling to engage organisms, minerals, and the complex structure of soil.
 
 - name: Christina Schädel
   role: Participant
   img: https://www2.nau.edu/schuurlab-p/images/people/Sch%C3%A4del%20thumb.jpg
   url: https://www2.nau.edu/schuurlab-p/Schaedel.html
-  bio: Christina contributes to the team with her expertise on permafrost soil carbon
+  bio: Christina bring expertise in synthesis science, meta-analysis, incubation studies, and soil carbon dynamics to the team.  She is a biogeochemist and plant ecophysiologist and coordinates the Permafrost Carbon Network, a data-synthesis based research program on the vulnerability of permafrost carbon to climate change.
 
 - name: Erika Marin-Spiotta
   role: Participant
@@ -51,7 +51,7 @@
 - name: Asmeret Berhe
   role: Participant
   img: https://scholar.google.com/citations?view_op=medium_photo&user=AbCVgKMAAAAJ&citpid=4
-  bio: Asmeret rocks the soil erosion component of the soil C cycle
+  bio: Asmeret focuses on stabilization mechanisms and fate of soil organic matter in systems undergoing change.  Her expertise and perspective expands our understanding of global soil formation processes through the lens of natural history.
   url: https://aaberhe.com/
 
 - name: Aaron Thompson
@@ -70,13 +70,14 @@
   role: Participant
   url: http://web.sas.upenn.edu/aplante/
   img: https://web.sas.upenn.edu/aplante/files/2016/04/Me-at-SOM5-1qn2m2i.jpg
-  bio: Alain brings his unique perspective to the team.
+  bio: Alain always bring his unique perspective to the team, pulling from his deep expertise in organo-mineral interactions and novel thermal analytical approach to understanding the potential role of energetics in soil organic matter stability.
 
 - name: Jennifer Druhan
   role: Participant
   url: https://www.geology.illinois.edu/cms/One.aspx?portalId=127672&pageId=299670
   img: https://www.geology.illinois.edu/UserFiles/Servers/Server_127588/Image/Directory/jdruhan.jpg
   bio: Jenny contributes expertise on reaction transport modeling
+  
 - name: William Wieder
   role: Participant
   img: https://staff.ucar.edu/sites/default/files/styles/medium/public/user/photos/wwieder.jpg
@@ -87,7 +88,7 @@
   role: Participant
   img: http://www.bgc-jena.mpg.de/TEE/assets/Sierra.jpg
   url: http://www.bgc-jena.mpg.de/TEE/index.html
-  bio: Carlos talks non-sense about theories and models, and mantains this website
+  bio: Carlos talks non-sense about theories and models, and maintains this website
 
 - name: Rota Wagai
   role: Participant
