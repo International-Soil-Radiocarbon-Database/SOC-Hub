@@ -1,6 +1,6 @@
 ---
 title: "Carbon fixation and belowground allocation"
-author: "Hannah L. Hubanks"
+author: "Hannah L. Hubanks and Caitlin E. Hicks Pries"
 date: "2018-1-30"
 level1: Primary controls on soil carbon development
 level2: Biotic controls
