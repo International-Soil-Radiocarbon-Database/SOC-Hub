@@ -1,6 +1,6 @@
 ---
 title: "Mineral Associations of Organic Matter"
-author: "Jacqueline E. Pitts"
+author: "Jacqueline E. Pitts, Asmeret Berhe, Aaron Thompson, and Marco Keiluweit"
 layout: post
 tags: ["organomineral", "mineral associations"]
 level1: Secondary controls on carbon turnover
