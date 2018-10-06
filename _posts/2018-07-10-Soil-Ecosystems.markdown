@@ -1,5 +1,5 @@
 ---
-title: "Oh, the places Carbon goes!"
+title: "Oh, the places carbon goes!"
 author: "Genelle Watkins"
 layout: post
 level2: Biotic controls
