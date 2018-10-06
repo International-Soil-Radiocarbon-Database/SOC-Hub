@@ -1,7 +1,7 @@
 # Site settings
 title: Soil Carbon Information Hub
 description: "A Learning Site for Soil Carbon Science"
-url: "https://powellcenter-soilcarbon.github.io"
+url: "https://international-soil-radiocarbon-database.github.io"
 
 # Secondary Parameters
 baseurl: /SOC-Hub
@@ -10,7 +10,7 @@ headercolor: "#FFFFFF"
 #logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  powellcenter-soilcarbon
+github_username:  International-Soil-Radiocarbon-Database
 project_repository: soilcarbon
 disqus_shortname: soc-hub
 #g-analytics: UA-75881392-1
