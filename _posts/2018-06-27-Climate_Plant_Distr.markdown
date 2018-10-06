@@ -1,7 +1,7 @@
 ---
 title: How do climate and plant distribution influence above and below ground carbon
   stocks in our planet?
-author: "Patricia LaPorte and Genelle Watkins"
+author: "Patricia LaPorte, Genelle Watkins, Erika Marin-Spiotta, and Christina Schadel"
 layout: post
 level2: Climate controls
 level3: Climate and plant distribution
