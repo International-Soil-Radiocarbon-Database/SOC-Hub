@@ -1,6 +1,6 @@
 ---
 title: "Linkages between soil order, ecosystems and climate"
-author: "Casey McGrath"
+author: "Casey McGrath and Kate Heckman"
 layout: post
 level1: Primary controls on soil carbon development
 level2: Climate controls
