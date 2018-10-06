@@ -18,6 +18,7 @@ As in the Linnaean classification system, soil scientists have worked to group t
 
 
 ![Figure 1: The Global Soil Regions map using the USDA 12 order soil taxonomy system. (NRCS)]({{site.baseurl}}{{page.figures}}figure2.jpg)
+*Figure 1: The Global Soil Regions map using the USDA 12 order soil taxonomy system. (NRCS)*
 
 **Further Resources** 
 
@@ -26,7 +27,7 @@ Check out this [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu
 To explore the 30 orders of the World Reference Base classification system, click [here](http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
 
 ![Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by both the World Reference Base adn USDA Soil Taxonomy.]({{site.baseurl}}{{page.figures}}Figure6.jpg)
-   
+*Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by both the World Reference Base adn USDA Soil Taxonomy.*
 
 # Soils formation to biome creation 
 
@@ -41,6 +42,8 @@ Why do we care about a diversity of soil types? Soils are the second most import
 
 ![Figure 3: The effects of climate on soil formation and dominant vegetation type. 
 Soils are he second most important influence on vegetation after climate (Thomson Higher Education (2007)]({{site.baseurl}}{{page.figures}}Figure7.jpg) 
+*Figure 3: The effects of climate on soil formation and dominant vegetation type.
+Soils are he second most important influence on vegetation after climate (Thomson Higher Education (2007)*
 
 The density of vegetation for an area influences the belowground biomass in both roots and decomposing organic matter. Looking back at Figure 2 we can see that tropical and temperate regions contain more organic matter than desert and arctic regions. This phenomenon is due to the higher density of vegetation in these regions, which is associated with larger inputs of organic matter to soils. These organic deposits decompose and become incorporated into soils. This carbon storage is an example of an ecosystem service that soils provide. Carbon dioxide is taken up from the atmosphere by vegetation and inputted belowground through roots. Carbon is also inputted into the soil from the decomposing of dead flora and fauna. This carbon is then stored until it is respired by microorganisms back into the atmosphere.
 
@@ -55,6 +58,7 @@ Van Cleve and Powers Chapter 9, 1995 [doi](https://doi.org/10.2136/1995.carbonfo
 Soils are critical in providing and supporting many ecosystem services. The Millennium Ecosystem Assessment defines ecosystem services as “the benefits people derive from ecosystems.” Basically these are the services that the Earth provides for free, and most people live their day to day lives without even thinking of them. Ecosystem service benefits fall into four main categories: supporting, provisioning, regulating and cultural services. Supporting services are necessary for the functioning of all other ecosystem services, provisioning services provide food, water and raw material to humans, regulating systems control the quality of air, water, climate, pests and disease, and cultural services provide spiritual, recreational, aesthetic enrichment. These services vary among ecosystems, but all have one thing in common, humans need them in order to survive.
 
 ![Figure 4: The proponents to ecosystem services from soil and how they provide to human populations. Millenium Ecosystem Assessment (2005)]({{site.baseurl}}{{page.figures}}Figure11.jpg)
+*Figure 4: The proponents to ecosystem services from soil and how they provide to human populations. Millenium Ecosystem Assessment (2005)*
 
 Some of the ecosystem services provided by soil (or that involve soil) are listed from the IPCC 2002 report: 
 
@@ -76,6 +80,7 @@ Some of the ecosystem services provided by soil (or that involve soil) are liste
 Who knew that soils have been under our feet this entire time providing most of the means we need to live?! Clearly this a lengthy list of services, all important for sustaining life. We need soils for the air we breathe, the water we drink, the food we consume, and everything in between. Without healthy soil there cannot be healthy ecosystems and in turn a healthy global human population.
 
 ![Figure 5: The main ecosystem services provided by soils (Food and Agriculture Organization of the United Nations). ]({{site.baseurl}}{{page.figures}}Figure10.jpg)
+*Figure 5: The main ecosystem services provided by soils (Food and Agriculture Organization of the United Nations).*
 
              "The nation that destroys its soil, destroys itself." -Franklin Delano Roosevelt
 
@@ -94,6 +99,7 @@ Baveye et al. 2016 [doi](https://doi.org/10.3389/fenvs.2016.00041)
 Sequestration of carbon is one of the biggest ecosystem services provided by soils. While there is carbon above ground that you can see in the form of vegetation, there is also a large amount of carbon below ground. Soils hold ⅔ of the world’s carbon found in terrestrial ecosystems. Carbon from the atmosphere is incorporated into vegetation through photosynthesis and then is introduced to soils through roots and decomposing organic matter. This organic matter (carbon) will either stay in the soil or be respired back to the atmosphere (link to post 1 (susans)).The amount of carbon allocated to each ecosystem is dependent on climatic controls, such as precipitation and temperature as well as soil characteristics such as pH and mineral assemblage. See Figure 6 below from Jackson et al. (2017) to understand how much carbon is above and below ground for each ecosystem.
 
 ![Figure 6: The amount of carbon above (green) and below ground biomass (topsoil = orange, subsoil = brown) for each biome. (Jackson et al., 2017)]({{site.baseurl}}{{page.figures}}Figure5.jpeg)
+*Figure 6: The amount of carbon above (green) and below ground biomass (topsoil = orange, subsoil = brown) for each biome. (Jackson et al., 2017)*
 
 From this figure we can see that warmer wetter climates hold more organic carbon in their above ground biomass, while colder, wetter climates hold more carbon in their below ground stocks. This large amount of below ground organic carbon in the colder, wetter region of boreal moist biomes is where microbes decompose the organic matter within the soil at a slower rate, therefore more organic matter can accumulate.  With rising global temperatures the soil thaws and activates the more microbial activity within the soil. These now mobilized microbes start to decompose the carbon within the soil and the carbon is respired as the greenhouse gas, CO2. This creates a positive feedback loop that accelerates the consequences of climate change.
 

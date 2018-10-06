@@ -50,8 +50,10 @@ EAG Laboratory (https://www.eag.com/)
 
 
 ![From [Frontier Lab](http://www.frontier-lab.com/english/multi-functional-pyrolysis-system/)]({{site.baseurl}}{{page.figures}}PyGCMS_Frontier.jpg)
+*From [Frontier Lab](http://www.frontier-lab.com/english/multi-functional-pyrolysis-system/)*
 
 ![From Jimenez-Gonzales et al. (2007) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)]({{site.baseurl}}{{page.figures}}Py-GMCS-Jimenez-Gonzales_2017.png)      
+*From Jimenez-Gonzales et al. (2007) DOI: [10.1016/j.chroma.2017.05.068](https://www.sciencedirect.com/science/article/pii/S0021967317308282)*
 
 # Applications
 

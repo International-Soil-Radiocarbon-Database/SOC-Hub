@@ -19,6 +19,7 @@ figures: /img/2bii/
 Carbon is all around us, and inside of us! It is in the trees, the air we breathe, the oceans we swim in on a warm day, and within the ground beneath our feet. Like gravity, you cannot see the carbon molecules themselves, but it is always present. So, how does it work? Many people believe carbon is only related to the C0~2~ molecules retrieved by plants; however, that cycle goes much deeper, and the fate of carbon is in absolutely everything part of our surroundings.
 
 ![**Figure 1.** The figure above shows the fate of carbon utilized in a variety of systems, above and belowground.]({{site.baseurl}}{{page.figures}}Belowground_Carbon.jpg)
+*Figure 1. The figure above shows the fate of carbon utilized in a variety of systems, above and belowground.*
 
 # Pools of Carbon!
 Not swimming pools, but congregations of distinct pools of carbon that come from different sources. These sources can include oil wells, coal seams, and aquifers. In order to combat the excess carbon in the atmosphere, natural resources such as forests or oceans can act as sinks, and sequester carbon and store it in the earth's soil. Unfortunately, as sources of carbon emission continually increase, natural sinks have declined over the past few decades. Pre-industrialization, carbon dioxide was in an abundance of 280 ppm, but after, reached 381 ppm. In the 1980s, carbon sinks had a storage capacity of about 56.3%, and currently account for less than 54%.
@@ -37,13 +38,13 @@ Scharlemann, J. P. (2014). [DOI:10.4155/cmt.13.77](https://doi.org/10.4155/cmt.1
 
 
 ![**Figure 2.** A simplification of the carbon cycle and how burning fossil fuels is upsetting the balance of this natural cycle.]({{site.baseurl}}{{page.figures}}BFF.jpg)
-
+*Figure 2. A simplification of the carbon cycle and how burning fossil fuels is upsetting the balance of this natural cycle.*
 
 
 
 
 ![**Figure 3** The dynamic equilibrium of activities and processes that all contribute to losses and gains of soil carbon to determine the carbon balance in an ecosystem.]({{site.baseurl}}{{page.figures}}Dynamic_Equilibrium.jpg)
-
+*Figure 3. The dynamic equilibrium of activities and processes that all contribute to losses and gains of soil carbon to determine the carbon balance in an ecosystem.*
 
 
 There is an abundance of processes that affect carbon balance, but it is important to keep in context that it is not only about soil organic carbon pools. It is to see only a small portion of the puzzle piece, but this figure puts into perspective the activities and processes that we should always keep in mind when thinking of carbon in plants and soil.
@@ -54,14 +55,18 @@ Plant species are unique through the photosynthetic paths they use to create ene
 Castellano, M. J. (2015). [DOI: 10.1111/gcb.12982](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Integrating+plant+litter+quality%2C+soil+organic+matter+stabilization%2C+and+the+carbon+saturation+concept.%C2%A0Global+change+biology%2C%C2%A021%289%29%2C+3200-3209.&btnG=&httpsredir=1&article=1099&context=agron_pubs)
 
 ![**Figure 4.** An overview on how C~3~ and C~4~  plants take in carbon. The majority of plants fall under the C~3~ pathway, but to learn more, read [Organic Geochemistry Journal Club--Papers and Cake](https://papersandcake.wordpress.com/2015/10/27/the-leaf-wax-composition-and-stable-carbon-isotope-values-of-conifers-should-we-care/), to learn more about advantages/disadvantages to each pathway.]({{site.baseurl}}{{page.figures}}C3_C4_Pathways.jpg)
+*Figure 4. An overview on how C~3~ and C~4~  plants take in carbon. The majority of plants fall under the C~3~ pathway, but to learn more, read [Organic Geochemistry Journal Club--Papers and Cake](https://papersandcake.wordpress.com/2015/10/27/the-leaf-wax-composition-and-stable-carbon-isotope-values-of-conifers-should-we-care/), to learn more about advantages/disadvantages to each pathway.*
 
 ![**Figure 5.** CAM plants are for more xerophytic plant species, and have similar steps compared to the C~4~ plants. Learn more [here](http://lifeofplant.blogspot.com/2011/10/c4-and-cam-photosynthesis.html) to dive into the details!]({{site.baseurl}}{{page.figures}}CAM_Pathway.jpg)
+*Figure 5. CAM plants are for more xerophytic plant species, and have similar steps compared to the C~4~ plants. Learn more [here](http://lifeofplant.blogspot.com/2011/10/c4-and-cam-photosynthesis.html) to dive into the details!*
 
 ![Figure 6. Carbon is not just above ground collected by plants, but stored in great abundance in the soils belowground. Places like Healy, Alaska (_picture above_), offers a glimpse at how even colder places store the greatest amount of carbon! Check out the [blog](https://www.polartrec.com/expeditions/carbon-balance-in-warming-and-drying-tundra/journals/2011-05-03) that tracks data up there.]({{site.baseurl}}{{page.figures}}Healy_Alaska.jpg)
+*Figure 6. Carbon is not just above ground collected by plants, but stored in great abundance in the soils belowground. Places like Healy, Alaska (_picture above_), offers a glimpse at how even colder places store the greatest amount of carbon! Check out the [blog](https://www.polartrec.com/expeditions/carbon-balance-in-warming-and-drying-tundra/journals/2011-05-03) that tracks data up there.*
 
 Overall, it is important to realize that carbon in plants is more than just these complex processes. We see these plants every day, whether it be in agricultural settings (rice, wheat, barley, sugarcane). Or in desert landscapes from plants such as cacti and other succulents.
 
 ![Figure 7. Examples of plants from each of the carbon pathways (C~3~=wheat, CAM=succulents, C~4~=maize).]({{site.baseurl}}{{page.figures}}C3_C4_CAM.jpg)
+*Figure 7. Examples of plants from each of the carbon pathways (C~3~=wheat, CAM=succulents, C~4~=maize).*
 
 # Carbon Allocation
 Carbon allocation differs both above and below ground. Conventionally, carbon storage is looked at in aboveground biomass such as vegetation (i.e. grasses, forests, other vegetation). However, allocatoin belowground is significant because soil depth is highly variable where temperatures and moisture have a noticeable impact on presence of carbon stored within soils (Litton et al., 2008). The figure below from Giardina et al.'s (2014) paper illustrates the processes of belowground carbon.
@@ -73,6 +78,7 @@ Giardina, P.C. (2014) [DOI](https://www.nature.com/articles/nclimate2322)
 Atmospheric carbon dioxide continues to rise significantly over the past several decades. [NOAA's](https://www.co2.earth/weekly-co2) Earth System Research Laboratory (ESRL) keeps track of weekly C0~2~ emissions from Mauna Loa Observatory on Hawaii Island. Currently, atmospheric carbon dioxide sits at approximately 408.21 ppm (parts per million). To offset the increases over recent years, some researchers suggest sequestration of excess atmospheric carbon is as simple as growing more plants with proper management. The video below offers insight as to how that may be possible: 
 
 ![Soil Carbon: Putting Carbon Back Where it Belongs- In the Earth]({{site.baseurl}}{{page.figures}}PuttingCwhereitBelongs.jpg)
+*Soil Carbon: Putting Carbon Back Where it Belongs- In the Earth*
 
 *Video*: Good news! Plants can quite literally change the face of the earth. By growing more plants, we can capture more carbon dioxide, water, production, biodiversity and profit? In fact, a 1% change in soil organic matter across just one quarter of the world's land area could sequester 300 billion tons of physical C0~2~. Check out Tony Lovell's TED Talk [here](https://www.youtube.com/watch?v=wgmssrVInP0)."
 

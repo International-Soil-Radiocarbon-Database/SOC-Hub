@@ -15,11 +15,13 @@ figures: /img/3bii/
 
 Mineral-bound organic matter has been defined as organic matter that is adsorbed to minerals or entrapped in small micro-aggregates. In temperate, cultivated soils, 50-75% of the organic matter in soils exists within clay-sized organo-mineral particles (Christensen 2001). This large reservoir of SOM (and therefore also soil carbon) makes understanding the dynamics of carbon in organo-mineral particles important in understanding the overall dynamics of carbon in soils. The protection of SOM by soil mineral associations also helps to explain the persistence of SOM even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
 
-![Figure 1, from Keiluweit et al, 2015. DOI: ___________]({{site.baseurl}}{{page.figures}}blog2_general.png)
+![Figure 1, from Keiluweit et al, 2015]({{site.baseurl}}{{page.figures}}blog2_general.png)
+*Figure 1, from Keiluweit et al, 2015*
 
 Mineral associations provide a significant stabilization mechanism for organic matter in soils. There is an increased mean residence time of OM (stabilization) due to sorption to a mineral subsoil, soil minerals, and after co-precipitation (Kleber et al, 2015). This increased residence time is explained by the physical strength of the association of organic matter with minerals and a consequent resistance to microbial decay (link to microbial access). 
 
-![Figure 2, showing the causal relationship between moisture supply, plant biomass production, mineral weathering, and the formation of mineral–organic associations, from Kleber et al, 2015. DOI: ___________]({{site.baseurl}}{{page.figures}}fig2.png)
+![Figure 2, showing the causal relationship between moisture supply, plant biomass production, mineral weathering, and the formation of mineral–organic associations, from Kleber et al, 2015.]({{site.baseurl}}{{page.figures}}fig2.png)
+*Figure 2, showing the causal relationship between moisture supply, plant biomass production, mineral weathering, and the formation of mineral–organic associations, from Kleber et al, 2015.*
 
 References: 
 Christensen, 2001
@@ -33,7 +35,9 @@ Kleber et al, 2015
 
 A negative correlation between particle size and organic carbon in soils has long been recognized and assumed to be proof of a close association between clays and soil organic matter (SOM). Part of the reason for this relationship is the high surface area to volume ratio of smaller particles. This high surface area provides more substrate for both colonization by microorganisms and direct adsorption of organic matter. More recent work has shown that this relationship is due also to the chemical affinity of the minerals of these smaller particles and organic matter. These interactions are now termed “organomineral associations.” Figure 3 below shows organo-mineral interactions in the right bottom corner, where molecular size is smallest and polarity (i.e. reactivity) is highest.
 
-![Figure 3, from Kleber et al, 2015. DOI: ________]({{site.baseurl}}{{page.figures}}overviewfigure.png)
+![Figure 3, from Kleber et al, 2015.]({{site.baseurl}}{{page.figures}}overviewfigure.png)
+*Figure 3, from Kleber et al, 2015.*
+
 
 Carbon to Nitrogen Ratios in Soils:
 
@@ -80,7 +84,8 @@ There is growing evidence for “zonal structures” on mineral surfaces with th
 More recently, Physical fractionation data led Sollins et al. (2006 ) to postulate that sorption of
 proteins to minerals might create a basal layer to which other amphiphilic molecular fragments would adsorb more strongly than they would to clean clay surfaces, creating a zonal eV ect, with N-rich compounds more abundant near mineral surfaces, and C-rich compounds more abundant farther from the surface.
 
-![Figure 4, showing the zones associated with organomineral interactions. DOI:______](blog2zones.png)
+![Figure 4, showing the zones associated with organomineral interactions.](blog2zones.png)
+*Figure 4, showing the zones associated with organomineral interactions.*
 
 The above figure 4 provides a visualization of organic matter interactions with various types of minerals and their associated zones. The three zones elucidated by Kleber et al (2007) are described below, and include the contact zone, the hydrophobic zone (not always present) and the kinetic zone. 
 

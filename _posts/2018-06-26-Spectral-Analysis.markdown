@@ -17,7 +17,9 @@ figures: /img/4ai/
 Spectral analysis, or spectroscopy, is increasingly being used by soil scientists to quantify and identify organic matter and carbon in samples. In general chemistry, we learned that all matter emit electromagnetic radiation. The electromagnetic spectrum shows the scale of wavelengths emitted (Figure 1).
 
 
-![Figure 1. Electromagnetic spectrum from [Wikipedia](https://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg#filelinks)]({{site.baseurl}}{{page.figures}}EM_Spectrum.png)
+![Figure 1]({{site.baseurl}}{{page.figures}}EM_Spectrum.png)
+*Figure 1. Electromagnetic spectrum from [Wikipedia](https://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg#filelinks)*
+
 
 In the context of soil science, spectral analysis involves identifying different types of organic compounds in a sample based on the reflectance (i.e. spectral signature) or absorption of a specific type or wavelength of electromagnetic radiation. SOM includes a variety of different forms of carbon that originate from heterogeneous sources (i.e. plants, animals, microbes, and transformations associated with decomposition). Thus, the advantage of spectral analyses is that these techniques can identify and broadly classify organic matter based on the compounds' ability to absorb and/or emit electromagnetic radiation. However, these methods often require adequate statistical and/or numerical analyses techniques (i.e. Fourier Transformation to convert time-domain data to frequency-domain data or Partial Least Squares Regression to sort through many highly collinear spectral bands from relatively few observations). In addition, the results of spectral analyses may need to be coupled with other analytical approaches (i.e. biological, chemical, physical, or thermal fractionation - include links to these pages) to determine the implication of SOM composition for soil health and soil best management practices. Recent studies (see “Applications(link)” section) have utilized these techniques to their advantage to answer relevant questions about SOM dynamics and stability. Many techniques of spectral analysis exist, but this section will focus on a few that are commonly used in soil science.
 
@@ -36,10 +38,12 @@ Sources:
 [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/infrared/infrared.htm)    
 
 
-![Figure 2. Spectral signature of vanillin (CCl~4~) from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/infrared/infrared.htm)]({{site.baseurl}}{{page.figures}}IRspec.jpg)  
+![Figure 2]({{site.baseurl}}{{page.figures}}IRspec.jpg)  
+*Figure 2. Spectral signature of vanillin (CCl~4~) from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/infrared/infrared.htm)*
 
-![Figure 3. A breakdown of the infrared region of the electromagnetic spectrum from [Digital Earth Watch](http://dew.globalsystemsscience.org/key-messages/near-infrared-and-the-electromagnetic-spectrum)]({{site.baseurl}}{{page.figures}}IRbreakdown.jpg)   
 
+![Figure 3]({{site.baseurl}}{{page.figures}}IRbreakdown.jpg)   
+*Figure 3. A breakdown of the infrared region of the electromagnetic spectrum from [Digital Earth Watch](http://dew.globalsystemsscience.org/key-messages/near-infrared-and-the-electromagnetic-spectrum)*
 
 ### 1. Visible Near-Infrared (VNIR) - 350-2500nm
 
@@ -49,8 +53,8 @@ Sources:
 Brown et al. (2006) DOI: [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)
 
 
-![Table 1. A list of key soil constituents, their VNIR absorptions, and the associated soil taxonomy diagnostics from Brown et al.(2006) [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)]({{site.baseurl}}{{page.figures}}VNIRtable_Brown(2006).png) 
-
+![Table 1]({{site.baseurl}}{{page.figures}}VNIRtable_Brown(2006).png) 
+*Table 1. A list of key soil constituents, their VNIR absorptions, and the associated soil taxonomy diagnostics from Brown et al.(2006) [10.1016/j.geoderma.2005.04.025](http://linkinghub.elsevier.com/retrieve/pii/S0016706105001564)*
 
 ### 2. Fourier-Transform Infrared (FTIR) 400-4,000nm
 
@@ -61,7 +65,9 @@ EAG Laboratory (https://www.eag.com/)
 Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/core/books/soil-carbon-dynamics/6E3BE5527BCBE2147B09CDB5F76D8788)   
 Parkih at al. (2014) DOI: [10.1016/B978-0-12-800132-5.00001-8](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/B9780128001325000018?via=ihub)
 
-![Figure 4. FTIR spectra of kaolin, bentonite, and calcium carbonate from Du and Zhou (2011) [10.1080/05704928.2011.570837](https://www.tandfonline.com/doi/abs/10.1080/05704928.2011.570837)]({{site.baseurl}}{{page.figures}}FTIRspectra_mainclayminerals.png) 
+![Figure 4]({{site.baseurl}}{{page.figures}}FTIRspectra_mainclayminerals.png) 
+*Figure 4. FTIR spectra of kaolin, bentonite, and calcium carbonate from Du and Zhou (2011) [10.1080/05704928.2011.570837](https://www.tandfonline.com/doi/abs/10.1080/05704928.2011.570837)*
+
 
 ## B. Nuclear Magnetic Resonance (NMR) Spectroscopy 
 This method involves aligning magnetic nuclei of a specific isotope (i.e. ^13^C) by a strong external magnet, then perturbing it with a radio wave. Once the molecule absorbs the external energy, the nuclei resonate at a certain frequency, which then tells us the chemical environment that the nuclei resides in (i.e. nature of bonds, constituent organic functional groups, etc). Figure 5 below shows the spectrum of camphor.  In addition, ^13^C NMR can determine chemical composition of soil organic matter, where compounds are identified based on proportion of total carbon in the sample in different organic functional groups, such as alkyl, aromatic, and carboxylic groups (Figure 5). This method is non-destructive and avoids the potential for secondary reactions. However, ^13^C only represents about 1% of whole C in soil sample, and interference from paramagnetic metal ions in soil (ex. Fe and Mn) can cause interference with the NMR signals.     
@@ -74,9 +80,12 @@ Denef et al. (2009) DOI: [10.1017/CBO9780511711794](https://www.cambridge.org/co
 EAG Laboratory (https://www.eag.com/)   
 
 
-![Figure 5. Spectrum of Camphor from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm)]({{site.baseurl}}{{page.figures}}13CNMR_camphor.jpg)   
+![Figure 5]({{site.baseurl}}{{page.figures}}13CNMR_camphor.jpg)   
+*Figure 5. Spectrum of Camphor from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm)*
 
-![Figure 6. General distribution of carbon chemical shifts associated with different functional groups from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm)]({{site.baseurl}}{{page.figures}}13CNMR_shiftranges.jpg)   
+
+![Figure 6]({{site.baseurl}}{{page.figures}}13CNMR_shiftranges.jpg)   
+*Figure 6. General distribution of carbon chemical shifts associated with different functional groups from [Michigan State University](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm)*
 
 
 ## C. Raman Spectroscopy
@@ -87,9 +96,12 @@ Sources:
 Taquet et al. (2012) DOI: [10.1016/j.ijggc.2012.10.003](http://linkinghub.elsevier.com/retrieve/pii/S1750583612002368)   
 EAG Laboratory (https://www.eag.com/)
 
-![Figure 7. Diagram of Raman spectrometer and the resulting spectra of TAPP Porphyrin powder from [University of Maryland](http://www.chem.umd.edu/wp-content/uploads/2014/01/)]({{site.baseurl}}{{page.figures}}Raman(1).jpg)   
+![Figure 7]({{site.baseurl}}{{page.figures}}Raman(1).jpg)   
+*Figure 7. Diagram of Raman spectrometer and the resulting spectra of TAPP Porphyrin powder from [University of Maryland](http://www.chem.umd.edu/wp-content/uploads/2014/01/)*
 
-![Figure 8. Compound characteristics as they are related to a spectral signature produced from a Raman spectrometer from [nanophoton](https://www.nanophoton.net/raman/raman-spectroscopy.html)]({{site.baseurl}}{{page.figures}}Raman_1.jpg)   
+
+![Figure 8]({{site.baseurl}}{{page.figures}}Raman_1.jpg)   
+*Figure 8. Compound characteristics as they are related to a spectral signature produced from a Raman spectrometer from [nanophoton](https://www.nanophoton.net/raman/raman-spectroscopy.html)*
 
 ## D. X-ray 
 
@@ -101,8 +113,8 @@ Sources:
 Jokic et al.(2003) DOI: [10.1016/S0016-7037(03)00101-7](http://www.sciencedirect.com/science/article/pii/S0016703703001017)   
 Sedlmair et al. (2012) DOI: [10.1016/j.chemgeo.2011.08.009](http://www.sciencedirect.com/science/article/pii/S0009254111003433)   
 
-![Figure 9. Example of a XANES/NEXAFS spectra from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_absorption_spectroscopy)]({{site.baseurl}}{{page.figures}}XANES(2).jpg)   
-
+![Figure 9]({{site.baseurl}}{{page.figures}}XANES(2).jpg)   
+*Figure 9. Example of a XANES/NEXAFS spectra from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_absorption_spectroscopy)*
 
 ### 2. X-Ray Fluorescence (XRF)
 
@@ -112,7 +124,7 @@ Sources:
 EAG Laboratory (https://www.eag.com/)
 
 ![Figure 10. XRF spectra of a sample containing various elements from [Metallurgist](https://www.911metallurgist.com/blog/sample-preparation-methods-for-xrf-analysis)]({{site.baseurl}}{{page.figures}}XRF_1.png)    
-
+*Figure 10. XRF spectra of a sample containing various elements from [Metallurgist](https://www.911metallurgist.com/blog/sample-preparation-methods-for-xrf-analysis)*
 
 # Applications
 

@@ -18,7 +18,8 @@ Fractionation is the separation of different physical components within the soil
 
 Physical fractionation is a process used to separate soil based on size and density (Gregorich et al, 2006). It assumes that soil physical components and structure will determine its behavior and interactions. Additionally, with soils being complex systems influenced by different forming factors, they can separated using different processes. These processes include separation by soil texture, particle size, aggregates and density. With many permutations of physical fractionation methods in the literature (Figure 1), the research question should dictate what method is chosen.
   
-![Figure 1. A flow chart diagram that demonstrates the complexity of separation of by physical properties.For more detailed information on the diagram, please refer to chapter 13 in "Soil microbiology, ecology, and biochemistry" (Paul, 2015).]({{site.baseurl}}{{page.figures}}image.png){width=55%}  
+![Figure 1. A flow chart diagram that demonstrates the complexity of separation of by physical properties.For more detailed information on the diagram, please refer to chapter 13 in "Soil microbiology, ecology, and biochemistry" (Paul, 2015).]({{site.baseurl}}{{page.figures}}image.png)  
+*Figure 1. A flow chart diagram that demonstrates the complexity of separation of by physical properties.For more detailed information on the diagram, please refer to chapter 13 in "Soil microbiology, ecology, and biochemistry" (Paul, 2015).*
 
 **Helpful Links:**  
 
@@ -48,14 +49,16 @@ Silt              | 0.05 - 0.002
 Clay              | less than 0.002
  
  
-![Figure 2. Visual comparison of the size and shapes of each separate. Refer to the text written by Hillel for the original image.]({{site.baseurl}}{{page.figures}}IMG_1010.jpg){width=55%}
+![Figure 2. Visual comparison of the size and shapes of each separate. Refer to the text written by Hillel for the original image.]({{site.baseurl}}{{page.figures}}IMG_1010.jpg)
+*Figure 2. Visual comparison of the size and shapes of each separate. Refer to the text written by Hillel for the original image.*
 
 ##### Utilizing Soil Texture  
 
 The best way to determine the percentages of each size class is through laboratory analysis via a particle size analysis. Coupled with the laboratory analysis, given the percentages of sand, silt, and clay the Soil Textural Triangle (Figure 3) can tell you the classification of the sample. If you don't have access to a lab, there is a in the field method to determine the texture class is by feel. The USDA has provided a modified guide from Thien on their [website](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_054311) (1979). Soil texture is an important attribute for descriptive purposes, but does not change under land use, management, or experimentation.Therefore, is rarely a quantitative measure used in process-level or mechanistic studies.
 
-![Figure 3. The Soil Texture Triangle provided by the NRCS. If you would like to utilize this tool, please refer to the [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167).]({{site.baseurl}}{{page.figures}}Soil_Textural_Triangle.jpg){width=75%} 
-  
+![Figure 3. The Soil Texture Triangle provided by the NRCS. If you would like to utilize this tool, please refer to the [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167).]({{site.baseurl}}{{page.figures}}Soil_Textural_Triangle.jpg)
+*Figure 3. The Soil Texture Triangle provided by the NRCS. If you would like to utilize this tool, please refer to the [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167).*
+
 **Helpful Links**  
 
 6. Hillel, D. (2013). *Fundamentals of soil physics*. Academic press.  
@@ -79,7 +82,8 @@ There is more than one way to determine particle size of soil samples. It is not
 - **Sedimentation**
     + To identify finer particles, samples will be subjected to being suspended in a solution. The mixture will be centrifuged separating larger particles from the smaller ones. Larger particles will fall to the bottom of the container first and the smaller particles will eventually settle.  
 
-![Figure 4. Soil samples that have been sieved at different sizes. The largest sized particles at 1-2 mm and smallest at 0.053-0.125 mm. Photo courtesy of Hannah Hubanks.]({{site.baseurl}}{{page.figures}}IMG_0015.jpg){width=55%}
+![Figure 4. Soil samples that have been sieved at different sizes. The largest sized particles at 1-2 mm and smallest at 0.053-0.125 mm. Photo courtesy of Hannah Hubanks.]({{site.baseurl}}{{page.figures}}IMG_0015.jpg)
+*Figure 4. Soil samples that have been sieved at different sizes. The largest sized particles at 1-2 mm and smallest at 0.053-0.125 mm. Photo courtesy of Hannah Hubanks.*
 
 **Helpful Links:**  
 
@@ -102,7 +106,8 @@ Similar to particle size fractionation, there are multiple ways to go about this
 - **Water-stable Aggregation**  
     + Samples need to be well mixed to be sieved with a 2 millimeter sieve and then microsieves (250 micron and 53 micron). Once completed, it will be dampened then soaked in water. Dry the soil via baking then disrupt it in 5% solution of sodium hexametaphosphate coupled with an additional rise, finally dried. Simple calculations should be used to find the total percentages of water stable aggregates, water stable aggregates larger than 250 microns, and water stable aggregates between 53 and 250 microns.
     
-![Figure 5. Example of one fractionation process. For more information, please refer to this [link.](https://www.researchgate.net/profile/Claire_Chenu/publication/229915465_Dynamics_of_soil_organic_matter_associated_with_particle-size_fractions_of_water-stable_aggregates/links/56c8d9da08ae110637078f3c.pdf)]({{site.baseurl}}{{page.figures}}Figure5ish.png){width=50%}
+![Figure 5. Example of one fractionation process. For more information, please refer to this [link.](https://www.researchgate.net/profile/Claire_Chenu/publication/229915465_Dynamics_of_soil_organic_matter_associated_with_particle-size_fractions_of_water-stable_aggregates/links/56c8d9da08ae110637078f3c.pdf)]({{site.baseurl}}{{page.figures}}Figure5ish.png)
+*Figure 5. Example of one fractionation process. For more information, please refer to this [link.](https://www.researchgate.net/profile/Claire_Chenu/publication/229915465_Dynamics_of_soil_organic_matter_associated_with_particle-size_fractions_of_water-stable_aggregates/links/56c8d9da08ae110637078f3c.pdf)*
 
 **Helpful Links:**  
 
@@ -119,7 +124,8 @@ Similar to particle size fractionation, there are multiple ways to go about this
 
 This method assumes that the soil can be separated into different parts and relies on separation based on densities. According Swanston et al., densities are  referred to as simply the “heavy fraction” or the “light fraction” (2002). Through this method, we can better understand organic matter turnover and stabilization, which is associated with organic mineral interaction. With “heavy fractions”, there are more minerals present thus there will be a low carbon to nitrogen ratio, which would indicate a slow turnover rate. While “light fractions”, there are less minerals and will be a higher carbon to nitrogen ratio, which would indicate faster turnover rates (Whitbread, 1995).  
 
-![Figure 6. Flow chart of a multi-part fractionation. This particular process includes breakdown of macroaggregates via wet sieving coupled with a density fraction to further separate the sample. Please refer to the original [paper](https://www.researchgate.net/profile/Mohammed_Kader/publication/265021947_COMPARISON_OF_PHYSICAL_FRACTIONATION_METHODS_TO_SEPARATE_FUNCTIONAL_SOIL_ORGANIC_MATTER_POOLS/links/59e5a4ef458515250250886c/COMPARISON-OF-PHYSICAL-FRACTIONATION-METHODS-TO-SEPARATE-FUNCTIONAL-SOIL-ORGANIC-MATTER-POOLS.pdf) for more information.]({{site.baseurl}}{{page.figures}}Fractionation_Process_Density.png){width=55%}
+![Figure 6. Flow chart of a multi-part fractionation. This particular process includes breakdown of macroaggregates via wet sieving coupled with a density fraction to further separate the sample. Please refer to the original [paper](https://www.researchgate.net/profile/Mohammed_Kader/publication/265021947_COMPARISON_OF_PHYSICAL_FRACTIONATION_METHODS_TO_SEPARATE_FUNCTIONAL_SOIL_ORGANIC_MATTER_POOLS/links/59e5a4ef458515250250886c/COMPARISON-OF-PHYSICAL-FRACTIONATION-METHODS-TO-SEPARATE-FUNCTIONAL-SOIL-ORGANIC-MATTER-POOLS.pdf) for more information.]({{site.baseurl}}{{page.figures}}Fractionation_Process_Density.png)
+*Figure 6. Flow chart of a multi-part fractionation. This particular process includes breakdown of macroaggregates via wet sieving coupled with a density fraction to further separate the sample. Please refer to the original [paper](https://www.researchgate.net/profile/Mohammed_Kader/publication/265021947_COMPARISON_OF_PHYSICAL_FRACTIONATION_METHODS_TO_SEPARATE_FUNCTIONAL_SOIL_ORGANIC_MATTER_POOLS/links/59e5a4ef458515250250886c/COMPARISON-OF-PHYSICAL-FRACTIONATION-METHODS-TO-SEPARATE-FUNCTIONAL-SOIL-ORGANIC-MATTER-POOLS.pdf) for more information.*
 
 ##### Utilizing Density Fractionation
   

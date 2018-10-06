@@ -17,8 +17,10 @@ Carbon in the air is magically placed into the soil by tiny brilliant elves. Jus
 Photosynthesis is the first step of carbon entering the soil. Atmospheric carbon, carbon dioxide ($CO_2$), is converted within plants using solar energy and becomes stored energy in the form of organic carbon (carbon fixation). This fixation process is done by the enzyme Rubisco, the most abundant protein on Earth. Chloroplasts host the process of photosynthesis where primary reduction reactions convert $CO_2$ into energy-rich carbohydrates, which are used as an energy currency for the plant and organisms within the ecosystem, with oxygen as a byproduct. 
 
 ![Chemical equation for photosynthesis. Learn more about photosynthesis and Rubisco [here.](https://bigpictureeducation.com/great-rubisco-and-its-amazing-carbon-fixation)]({{site.baseurl}}{{page.figures}}photosynthesis_equation.png)
+*Chemical equation for photosynthesis. Learn more about photosynthesis and Rubisco [here.](https://bigpictureeducation.com/great-rubisco-and-its-amazing-carbon-fixation)*
 
 ![Figure 1. Photosynthesis within the leaf of a plant, producing energy in the form of sugar. View this image [here.](http://gleeson11biology.pbworks.com/f/1223346423/photosynthesis%20summary.jpg)]({{site.baseurl}}{{page.figures}}photosynthesis_leaf.jpg)
+*Figure 1. Photosynthesis within the leaf of a plant, producing energy in the form of sugar. View this image [here.](http://gleeson11biology.pbworks.com/f/1223346423/photosynthesis%20summary.jpg)*
 
 Three different metabolic pathways exist for carbon dioxide fixation in plants which also categorizes plants into groups: [C3, C4, and CAM](https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants-agriculture). High temperatures and dry weather favor C4 and CAM plants, which are adapted to these areas to increase photosynthetic efficiency by use of different $CO_2$ fixation enzymes, extra carbon storage steps, and less open stomate activity where water can be lost. Photosynthetic capacity is also variable through the course of plant development and among species. While respiration and carbon uptake through photosynthesis is only the first step to carbon being stored in the soil, its important to acknowledge that these factors play a role in carbon fixed from the atmosphere and how carbon fixation in climates with increasing temperatures may be impacted. 
 
@@ -33,10 +35,12 @@ Larcher, W., 1995. Physiological plant ecology: ecophysiology and stress physiol
 Once carbohydrates are created within the plant, they are used both as the physical plant building blocks and substrate to fuel plant metabolism. The organic carbon stored in plants forms the basis of the green food web, including the tasty things for animals to eat. Plants can store this carbon in aboveground and belowground biomass. However, not all plant growth forms and climates are created equal. Globally, mean annual temperature affects how plants partition carbon between aboveground and belowground tissues. As we can see in Figure 2, plants in warmer climates store more of their biomass belowground than plants in colder climates. 
 
 ![Figure 2. Carbon partioning between above and below ground mass in forests and pasture show increase in ratio of below-ground to above-ground mass in warmer regions of the world. View image [here](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2008.01479.x/epdf) from Litton and Giardina, 2008.]({{site.baseurl}}{{page.figures}}carbon_above_below_litton.jpg)
+*Figure 2. Carbon partioning between above and below ground mass in forests and pasture show increase in ratio of below-ground to above-ground mass in warmer regions of the world. View image [here](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2008.01479.x/epdf) from Litton and Giardina, 2008.*
 
 Where carbon is allocated within the plant can also be impacted by atypical environmental conditions such as heat and drought. High stress from heat and drought can cause increases in above ground biomass and decreases in below ground mass (Figure 3). In the tundra, where large amounts of the world's soil carbon is stored, increased temperatures could shift plant carbon allocation above ground and result in less soil carbon storage (Wang et al., 2016). 
 
 ![Figure 3. Heat and drought affect a plant's carbon allocation, and change depending on the stress condition of the plant. Under stress, heat and drought can shift plant carbon allocation above ground. View this image [here](https://academic.oup.com/treephys/article/35/6/581/1646587) from Sevanto and Dickman, 2015.]({{site.baseurl}}{{page.figures}}Sevanto_and_Dickman_2015_Figure_1.png)
+*Figure 3. Heat and drought affect a plant's carbon allocation, and change depending on the stress condition of the plant. Under stress, heat and drought can shift plant carbon allocation above ground. View this image [here](https://academic.oup.com/treephys/article/35/6/581/1646587) from Sevanto and Dickman, 2015.*
 
 References: 
 
@@ -52,11 +56,12 @@ Wang, P., Heijmans, M.M.P.D., Mommer, L., van Ruijven, J., Maximov, T.C., Berend
 Carbon enters the soil from plants, and the resulting soil organic matter cycles into the soil profile by multiple processes. To enter the soil, carbon can leave the plant as root exudates or as plant litter, further decomposed by microorganisms. Potatoes are an example of stored plant energy, which we all know and love, and just as we can consume potatoes for energy, microbes can use many forms of plant carbohydrates for energy as well. A large portion of a plant's photosynthetically fixed carbon enters the soil through root exudates, which consist of organic compounds and enzymes that protect and support the plant within the diverse microorganism community living in the rhizosphere (region of soil near to and directly influenced by plant roots). These exudates can prime microbes to more efficiently decompose existing soil organic matter which benefits the plant as necessary nutrients are released. In addition, carbon is allocated to symbiotic mycorrhizae which can provide an increase in water and nutrient absorption capabilities for the plant in exchange.  
 
 ![Figure 4. Interactions of root exuates with the rhizosphere which funtion to attract beneficial microbes and deter pathogenic microbes. View this image [here](https://www.researchgate.net/publication/264642727_The_rhizosphere_microbiota_of_plant_invaders_An_overview_of_recent_advances_in_the_microbiomics_of_invasive_plants) from Coates and Rumpho, 2014.]({{site.baseurl}}{{page.figures}}exudates_Coates.jpg) 
-
+*Figure 4. Interactions of root exuates with the rhizosphere which funtion to attract beneficial microbes and deter pathogenic microbes. View this image [here](https://www.researchgate.net/publication/264642727_The_rhizosphere_microbiota_of_plant_invaders_An_overview_of_recent_advances_in_the_microbiomics_of_invasive_plants) from Coates and Rumpho, 2014.*
 
 Plant litter (such as leaves, needles, roots, coarse woody debris) is decomposed by a host of soil fungi and bacteria into microbial products such as biomass and enzymes and respired as $CO_2$. Once in the soil, carbon cycles by physical mixing via decomposers such as earthworms and microorganisms, mineral-organo associations, and by freeze/thaw cycles within certain climates. 
 
 ![Figure 5. An emerging understanding of how carbon enters the soil from plant matter and exudates, and how it is incorporated into the soil profile. View this image [here](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg) from Schmidt et al., 2011.](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg)
+*Figure 5. An emerging understanding of how carbon enters the soil from plant matter and exudates, and how it is incorporated into the soil profile. View this image [here](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg) from Schmidt et al., 2011.*
 
 References: 
 
@@ -78,6 +83,7 @@ Walker, T.S., 2003. Root Exudation and Rhizosphere Biology. PLANT PHYSIOLOGY 132
 Vegetation type, management, and biomass location (above ground or below ground biomass) can vary the amount of plant biomass carbon retained in the soil organic matter (SOM). In Figure 6, we see that soybeans, for example, show a high ratio of below ground to above ground carbon inputs retained in the SOM, as well as organic agriculture practices. The dominance of belowground carbon being retained in the SOM shows the importance of root sourced carbon in long term carbon stabilization. 
 
 ![Figure 6. The source of carbon inputs retained in soil organic matter. View image [here](https://jacksonlab.stanford.edu/sites/default/files/jackson_et_al._arees_2017.pdf) from Jackson et al., 2017.]({{site.baseurl}}{{page.figures}}jackson_image2.png)
+*Figure 6. The source of carbon inputs retained in soil organic matter. View image [here](https://jacksonlab.stanford.edu/sites/default/files/jackson_et_al._arees_2017.pdf) from Jackson et al., 2017.*
 
 References: 
 
@@ -89,10 +95,4 @@ Rasse, D.P., Rumpel, C., Dignac, M.-F., 2005. Is soil carbon mostly root carbon?
 # The big picture
 
 Global climate changes will fluctuate the balance between plant carbon uptake and soil carbon losses, which may be in balance their current climate. While some of these fluctuations are difficult to predict, we also see some patterns in the carbon cycle of how plants react to temperature changes and stress, some threatening, some promising. We also see the potential for belowground plant biomass to be a great potential resource for carbon storage. By understanding the patterns of carbon fixation within plants and the relationship to long term carbon storage, we can promote plant growth that will be a powerful tool in climate change mitigation. 
-
-
-
-
-
-
 

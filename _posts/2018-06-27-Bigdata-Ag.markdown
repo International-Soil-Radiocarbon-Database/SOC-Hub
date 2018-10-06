@@ -18,7 +18,7 @@ This post will provide 1) an outline of the concept of big data, 2) how big data
 > “Big Data represents the Information assets characterized by such a High Volume, Velocity and Variety to require specific Technology and Analytical Methods for its transformation into Value.”   
 > - [De Mauro, Greco, and Grimaldi, in What Is Big Data? A Consensual Definition and a Review of Key Research Topics (2015)](https://doi.org/10.1063/1.4907823)
 
-![]({{site.baseurl}}{{page.figures}}BigData_2267x1146_white.png){width=50%}
+![]({{site.baseurl}}{{page.figures}}BigData_2267x1146_white.png)
 
 
 <!-- !["Static tag cloud visualization (word cloud) of key terms appearing in abstracts of Big Data-related papers." via [De Mauro, Greco, & Grimaldi, 2015](https://doi.org/10.1063/1.4907823) -->
@@ -39,7 +39,7 @@ Unifying definitions of novel and developing ideas are hard to come by, but as [
 
 * **Variety**: the spread of types and structures of data
 
-![https://hadoop.cesga.es/workshop/img/3v.png]({{site.baseurl}}{{page.figures}}3v.png){WIDTH=50%}
+![https://hadoop.cesga.es/workshop/img/3v.png]({{site.baseurl}}{{page.figures}}3v.png)
 
 <!-- ![https://www.datasciencecentral.com/forum/topics/the-3vs-that-define-big-data](BigData.001.jpg){width=50%} -->
 
@@ -68,7 +68,7 @@ Part of these [debates](https://www.sciencenews.org/blog/context/why-big-data-ba
 Not new concerns, nearly three centuries ago, Hume outlined what has become known as the Problem of Induction. In broad strokes, the problem is that while we constantly use previous experiences to make judgments about future experiences, inductive processes offer insufficient justification for causal conclusions. To wit, the past can help us to make a good guesses about the future (probability)  but we can never be sure of exactly what it will hold (certainty). 
 
 
-![]({{site.baseurl}}{{page.figures}}maxresdefault.jpg){width=75%}
+![]({{site.baseurl}}{{page.figures}}maxresdefault.jpg)
 
 Deductive research works to address this issue by starting with generally accepted theory and progressing through hypothesis development and experimentation to produce specific observations that can be confirmed with certainty.
 
