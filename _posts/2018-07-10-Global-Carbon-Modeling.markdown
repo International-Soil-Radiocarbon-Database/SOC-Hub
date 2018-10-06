@@ -1,6 +1,6 @@
 ---
 title: "Global Carbon Modeling"
-author: "Casey McGrath"
+author: "Casey McGrath, Will Weider, and Corey Lawrence"
 layout: post
 level2: Climate controls
 level1: Primary controls on soil carbon development
