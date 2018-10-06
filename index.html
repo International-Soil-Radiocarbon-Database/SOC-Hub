@@ -130,6 +130,24 @@ Use the links below to obtain information on specific topics.
  {% endfor %}
 
  <h2> Isotopic characterization of SOM </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Isotopic" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
  <h2> Fractionation of SOM (biological, chemical, physical) </h2>
  {% for post in paginator.posts %}
  {% if post.level2 == "Fractionations" %}
@@ -151,6 +169,24 @@ Use the links below to obtain information on specific topics.
 
 <h1> Scientific Process </h1>
   <h2> Scientific Method and hypothesis testing </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Scientific method" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
   <h2> Big data - how it can be used to solve problems </h2>
  {% for post in paginator.posts %}
  {% if post.level2 == "Big data" %}
@@ -171,7 +207,43 @@ Use the links below to obtain information on specific topics.
  {% endfor %}
 
   <h2> Observations and SOM theory </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Observations and theory" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
   <h2> Partitioning of SOM stocks (methods, models, theory) </h2>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Stock partitioning" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
   <h2> Models of SOM dynamics </h2>
  {% for post in paginator.posts %}
  {% if post.level2 == "Models" %}
@@ -193,7 +265,24 @@ Use the links below to obtain information on specific topics.
 
 <h1> Problem-based questions - case studies </h1>
  <h2> Capacity </h2>
-  <h3> SOM storage capacity, carbon saturation </h3>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Capacity" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
  <h2> Change </h2>
  {% for post in paginator.posts %}
  {% if post.level2 == "SOM Change" %}
@@ -214,7 +303,24 @@ Use the links below to obtain information on specific topics.
  {% endfor %} 
 
 <h2> Soil health </h2>
-  <h3> Soil C contribution to soil health and climate change mitigation </h3>
+ {% for post in paginator.posts %}
+ {% if post.level2 == "Soil health" %}
+ <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
+         <h3 class="post-subtitle">            {{ post.title }}
+         </h3>
+         {% if post.subtitle %}
+         <h3 class="post-subtitle">
+             {{ post.subtitle }}
+         </h3>
+         {% endif %}
+     </a>
+     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+ </div>
+ <hr>
+ {% endif %}
+ {% endfor %}
+
  <h2> Bridging the gap </h2>
  {% for post in paginator.posts %}
  {% if post.level2 == "Bridging-the-gap" %}
