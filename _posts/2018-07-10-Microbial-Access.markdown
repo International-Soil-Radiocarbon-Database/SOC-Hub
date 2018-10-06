@@ -1,6 +1,6 @@
 ---
 title: "Can Microbes Access Carbon in Soils?"
-author: "Jacqueline E. Pitts"
+author: "Jacqueline E. Pitts, Josh Schimel, and Joey Blankinship"
 layout: post
 tags: ["stabilization mechanisms", "accessibility to microbes"]
 level1: Secondary controls on carbon turnover
