@@ -1,6 +1,6 @@
 ---
 title: "SOM Stabilization mechanisms: Conceptual Theory"
-author: "Jon M. Wells, Joey Blankinship, and Marco Keiluweit"
+author: "Jon M. Wells, Joseph Blankinship, and Marco Keiluweit"
 layout: post
 tags: ["stabilization","mechanisms", "conceptual", "theory","recalcitrance", "humification"]
 level1: Secondary controls on carbon turnover
@@ -11,15 +11,15 @@ figures: /img/3ai/
 
 # The Conundrum of  Soil Organic Material (SOM)
 
-It's hard to pinpoint individual controls of SOM storage because soils are highly heterogeneous and there are many potential processes occurring across multiple scales.  From the the nano-scale interactions between minerals and SOM to the macro-scale protection of large SOM particles by aggregates, soil systems are complex and hard to study. 
+It's hard to pinpoint individual controls of SOM storage because soils are highly heterogeneous and there are many potential processes occurring across multiple scales. From the the nano-scale interactions between minerals and SOM to the macro-scale protection of large SOM particles by aggregates, soil systems are complex and hard to study. 
 
-Historically, SOM was believed to condense into larger molecules that are more recalcitrant (chemically resistance to decay) and persist in soils, a theory known as "humification", and a lot of work in soils in centered around this idea.  However, we have come to understand that humification as a theory doesn't make sense.  Movement away from humification theory was catalyzed by improvements in measurement and visualization of the soil system by techniques like nuclear magnetic resonance (NMR) and in-situ soil chemistry that showed that complex "humic" macromolecules are not prevalent in soils.  Instead most SOM resembles biomolecules created by plants and microbes.   
+Historically, SOM was believed to condense into larger molecules that are more recalcitrant (chemically resistance to decay) and persist in soils, a theory known as "humification", and a lot of work in soils in centered around this idea. However, we have come to understand that humification as a theory doesn't make sense. Movement away from humification theory was catalyzed by improvements in measurement and visualization of the soil system by techniques like nuclear magnetic resonance (NMR) and in-situ soil chemistry that showed that complex "humic" macromolecules are not prevalent in soils. Instead most SOM resembles biomolecules created by plants and microbes.   
 
 
 ![Figure 2. How our view of SOM has changed as we employ new soil measurement techniques. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f2.2.jpg#right)
 *Figure 2. How our view of SOM has changed as we employ new soil measurement techniques. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)*
 
-Though it has long been understood by soil scientists that discrete stabilization mechanisms are at work in soils, there has been a lack of acceptance of these ideas in adjoining disciplines that also deal with soils.  Everyone who works with soil should consider physical disconnection, sorption/desorption, and freeze thaw cycles as key mechanisms controlling SOM sequestration.  It is also important to understand that carbon inputs into soils are largely controlled by the rhizosphere. 
+Though it has long been understood by soil scientists that discrete stabilization mechanisms are at work in soils, there has been a lack of acceptance of these ideas in adjoining disciplines that also deal with soils. Everyone who works with soils should consider physical disconnection, sorption/desorption, and freeze-thaw cycles as key mechanisms controlling SOM sequestration. It is also important to understand that carbon inputs into soils are largely controlled by the rhizosphere. 
 
 
 ![Figure 3. An emerging understanding of stabilization/destabilization processes has replaced humification theory. For full figure text see Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles/nature10386)](https://media.springernature.com/m685/nature-assets/nature/journal/v478/n7367/images/nature10386-f3.2.jpg)
