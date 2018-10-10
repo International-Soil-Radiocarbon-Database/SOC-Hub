@@ -17,6 +17,20 @@ Radiocarbon (<sup>14</sup>C) is the radioactive isotope of carbon, with 6 proton
 ![Figure 1:   ]({{site.baseurl}}{{page.figures}}Figure1.png)
 *Figure 1: Production of radiocarbon in the upper atmosphere by high energy cosmic rays interacting. (Schuur et al., 2015).*
 
+! Telling time with cosmogenic radiocarbon- hundreds to thousands of years
+
+
+
+
+
+
+! Telling time with bomb radiocarbon - the years to decades
+
+
+
+
+# 
+
 **Further in-depth resources**    
 Schuur, EAG, Druffel, ERM and Trumbore, S. 2016. Radiocarbon and Climate Change: Mechanisms, Applications and Laboratory Techniques. Springer
 
