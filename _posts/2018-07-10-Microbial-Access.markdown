@@ -28,7 +28,7 @@ As described by Schimel and Schaeffer (2012) and shown in Figure 2, the rate at 
 
 # Limits on Microbial Access to SOM
 
-What influences microbial access to SOM? Water, oxygen, substrate, and organism must all come together (in space and time) for SOM turnover at the pore space level (Kuka et al, 2007). The physical protection of SOM from microbial decomposition has a few major drivers: occlusion within aggregates, adsorption onto minerals, the spatial heterogeneity within soils, and wet/dry cycles that may promote or inhibit diffusion.
+What influences microbial access to SOM? Water, oxygen, substrate, and organism must all come together (in space and time) for SOM turnover at the pore-space level (Kuka et al, 2007). The physical protection of SOM from microbial decomposition has a few major drivers: occlusion within aggregates, adsorption onto minerals, the spatial heterogeneity within soils, and wet/dry cycles that may promote or inhibit diffusion.
 
 
 Important Publications:
@@ -42,7 +42,7 @@ Schimel and Schaeffer, 2012 DOI: 10.3389/fmicb.2012.00348
 # 1. Occlusion 
 
 ![Figure 3, showing a soil microeggrate from https://www.extension.umn.edu/agriculture/soils/soil-properties/the-soil-is-alive/]({{site.baseurl}}{{page.figures}}figure5.jpg)
-*Figure 3, showing a soil microeggrate from https://www.extension.umn.edu/agriculture/soils/soil-properties/the-soil-is-alive/*
+*Figure 3, showing a soil microaggreg1ate from https://www.extension.umn.edu/agriculture/soils/soil-properties/the-soil-is-alive/*
 
 Occlusion within water-stable soil aggregates and soil nano-sized pores are important processes that can render SOM inaccessible to microbes. One way that aggregates contribute to inaccessibility is by limiting movement of microbial enzymes. Aggregates can also limit access to other resources such as oxygen, thereby reducing microbial activity. In order to make aggregate-bound SOM available for microbial decomposition, both physical disruption and exoenzymes are often necessary. Microaggregates (53 – 250 um in diameter) tend to store C longer than macroaggregates (> 250 um), perhaps because of less disturbance and more occlusion in microaggregates.
 
