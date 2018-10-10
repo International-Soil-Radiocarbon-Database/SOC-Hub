@@ -113,7 +113,7 @@ Kelly, A. E., & Goulden, M. L. (2008). Rapid shifts in plant distribution with r
 Primack, R., Higuchi, H., & Miller-Rushing, A. (2009). The impact of climate change on cherry trees and other species in Japan. Biological Conservation (Vol. 142). DOI: [10.1016/j.biocon.2009.03.016](https://doi.org/10.1016/j.biocon.2009.03.016)
 
 ## Websites:
-[EPA](https://www.epa.gov/) 
+[EPA](https://www.epa.gov/)  
 [IPCC 2013](http://www.ipcc.ch/report/ar5/wg1/)    
 [IUCN](https://www.iucn.org/resources/issues-briefs/invasive-alien-species-and-climate-change) 
 
@@ -139,7 +139,7 @@ Donato, Daniel C., et al. “Mangroves among the Most Carbon-Rich Forests in the
 [Spalding, M. (2013)](https://blog.nature.org/science/2013/10/11/new-science-mangrove-forests-carbon-store-map/) Science: Mangrove Forests as Incredible Carbon Stores. Cool Green Science. 
 
 ## Websites: 
-[Metlink - Royal Meteorological Society]( http://www.metlink.org/climate/ipcc-updates-for-a-level-geography/carbon-cycle-feedbacks/)   
+[Metlink - Royal Meteorological Society]( http://www.metlink.org/climate/ipcc-updates-for-a-level-geography/carbon-cycle-feedbacks/)  
 [NOOA Fisheries](https://www.fisheries.noaa.gov/insight/coastal-blue-carbon)   
 [The Blue Carbon Initiative](http://thebluecarboninitiative.org/)
 
@@ -162,11 +162,10 @@ Schädel, C., McGuire, A.D., and Schuur, E.A.G. (2015). [Permafrost Carbon Netwo
 
 Schaefer, K., Lantuit, H, Romanovsky, R.E., Schuur, E.A.G., Witt, R. (2014). The impact of the permafrost carbon feedback on global climate. Environ. Res. Lett. 9:085003. [doi: 10.1088/1748-9326/9/8/085003](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta#citations)  
 
-Tarnocai, C., Canadell, J. G., Schuur, E. A., Kuhry, P., Mazhitova, G., & Zimov, S. (2009). Soil organic carbon pools in the northern circumpolar permafrost region. Global Biogeochemical Cycles, 23(2). DOI: [10.1029/2008GB003327](https://doi.org/10.1029/2008GB003327)   
+Tarnocai, C., Canadell, J.G., Schuur, E.A.G., Kuhry, P., Mazhitova, G., & Zimov, S. (2009). Soil organic carbon pools in the northern circumpolar permafrost region. Global Biogeochemical Cycles, 23(2). DOI: [10.1029/2008GB003327](https://doi.org/10.1029/2008GB003327)   
 
 ## Websites:
-[National Park Service](https://www.nps.gov/articles/denali-permafrost-carbon.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more)  
-
+[National Park Service](https://www.nps.gov/articles/denali-permafrost-carbon.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more)
 [NOOA Artic Report Card 2017](http://www.arctic.noaa.gov/Report-Card/Report-Card-2017/ArtMID/7798/ArticleID/694/Terrestrial-Permafrost)  
 [Smithsonianmag.com](https://www.smithsonianmag.com/science-nature/barrow-alaska-ground-zero-for-climate-change-7553696/)  
 
