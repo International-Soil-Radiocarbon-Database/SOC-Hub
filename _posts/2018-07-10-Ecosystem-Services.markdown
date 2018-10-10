@@ -28,12 +28,12 @@ To explore the 32 orders of the World Reference Base classification system, clic
 
 ![Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by both the World Reference Base adn USDA Soil Taxonomy.]({{site.baseurl}}{{page.figures}}Figure6.jpg)
 *Figure 2: Soil types in the Northern Hemisphere according to WRB and USDA taxonomy, their distribution by latitude, and the accompanying influential soil forming processes.
-# Soils formation to biome creation 
+# Pedogenesis
 
-Pedogensis is the process of soil formation resulting from the influence of environmental factors. The five main factors of pedogenesis are, climate, organisms (including humans), relief, parent material, and time. Commonly referred to as CLORPT, these factors along with their processes of additions, removals, transfers and transformations create the attributes of each pedon, including soil type (classification), physicochemical qualities and suitability for particular uses.
+Pedogensis is the process of soil formation resulting from the influence of environmental factors. The five main factors of pedogenesis are, climate, organisms (including humans), relief, parent material, and time (Jenny, 1949). Commonly referred to as CLORPT, these factors along with their processes of additions, removals, transfers and transformations create the attributes of each pedon, including soil type (classification), physicochemical qualities and suitability for particular uses.
 
-                                          #FACTORS + PROCESSES = PEDON 
-
+                                          Soil = f(cl, o, r, p, t, …)
+                                          
 These soil forming factors and processes are unique to each climate, thus resulting in unique pedons. An example would be that arctic soils have a soil forming factor of parent material influenced by glacial deposits and they have a process of freeze thaw transformations. Tropical soils on the other hand can be formed by different parent material of volcanic origins (although not all volcanically derived parent material is in the tropics) that has been influenced by the process of leaching by heavy rains. It is this stark difference in factors and processes that give the Earth its unique soils, resulting in the world’s unique ecosystems!
 
 Why do we care about a diversity of soil types? Soils are the second most important influence on vegetation after climate. To understand the link between climate and vegetation see the previous blog post titled “Climate and Plant Distribution” (Link to GW and PL blog post 2aiii). The fertility of the soil along with the climate determine the type and density of aboveground biomass for a region. In Figure 3 below the vegetation type, temperature and precipitation regime are categorized along a gradient below.
