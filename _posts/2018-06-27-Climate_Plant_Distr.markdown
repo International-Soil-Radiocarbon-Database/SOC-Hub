@@ -136,7 +136,7 @@ Alongi, Daniel M. “Carbon Sequestration in Mangrove Forests.” Carbon Managem
 
 Donato, Daniel C., et al. “Mangroves among the Most Carbon-Rich Forests in the Tropics.” Nature Geoscience, vol. 4, no. 5, 2011, pp. 293–297. DOI: [10.1038/ngeo1123](http://dx.doi.org/10.1038/ngeo1123)   
 
-[Spalding, M. (2013)](https://blog.nature.org/science/2013/10/11/new-science-mangrove-forests-carbon-store-map/) Science: Mangrove Forests as Incredible Carbon Stores. Cool Green Science. 
+Spalding, M. (2013)[Science: Mangrove Forests as Incredible Carbon Stores. Cool Green Science](https://blog.nature.org/science/2013/10/11/new-science-mangrove-forests-carbon-store-map/)
 
 ## Websites: 
 [Metlink - Royal Meteorological Society]( http://www.metlink.org/climate/ipcc-updates-for-a-level-geography/carbon-cycle-feedbacks/)  
