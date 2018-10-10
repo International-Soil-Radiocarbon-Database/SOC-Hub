@@ -12,7 +12,7 @@ figures: /img/3biii/
 
 # Why is Microbial Access to SOM Important?
 
-Microbial access to soil organic matter is a significant control on carbon cycling in soil. How do we reconcile microbes’ enormous capability to decompose organic matter with the enormous amount of C that is stored in soil (Eckschmitt et al. 2005)?” If SOM is accessible to microbes, they will degrade it, regardless of its chemical structure (Dungait et al, 2012). However, if it is not accessible, that SOM can remain in the soil for very long time periods. At the long timescales relevant to global carbon cycle models (i.e., decades to millennia), the strongest influences aren’t the processes that occur in seasonal or even annual cycles (e.g. plant growth or litter production). Rather, the strongest influence is the production of stabilized materials in mineral soil - the “big, slow pools”.
+Microbial access to organic matter is a significant control on carbon cycling in soils. How do we reconcile the enormous capability of microbes to decompose organic matter with the enormous amount of C that is stored in soil (Eckschmitt et al. 2005)? If SOM is accessible to microbes, they will degrade it, regardless of its chemical structure (Dungait et al, 2012). However, if it is not accessible, that SOM can remain in the soil for very long time periods. At the long timescales relevant to global carbon cycle models (i.e., decades to millennia), the strongest influences aren’t the processes that occur in seasonal or even annual cycles (e.g. plant growth or litter production). Rather, the strongest influence is the production of stabilized materials in mineral soil - the “big, slow pools”.
 
 # Physical Protection of SOM
 
