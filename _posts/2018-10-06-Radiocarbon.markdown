@@ -29,7 +29,7 @@ Radiocarbon is destroyed in only one way: Radioactive decay.  The combination of
 
 The balance of production and decay are such that the natural abundance of 14C is roughly one in every trillion (1012) carbon atoms.   
 
-Radiocarbon is used to study the carbon cycle in several ways:
+**Radiocarbon is used to study the carbon cycle in several ways:**
  
 1)	As a dating tool – to get the ages and accumulation rates of sediments, tropical trees, volcanic eruptions, etc.
 2)	As a source tracer – for example, comparing the isotopic values of respired CO2 with those of potential substrates will determine which substrate contributes the most;.
@@ -37,20 +37,35 @@ Radiocarbon is used to study the carbon cycle in several ways:
 3)  As a purposeful tracer (e.g. when 14C is added to a system and traced through it)
 
 
+
 # Radiocarbon dating
 
+** Telling time with cosmogenic radiocarbon - hundreds of years to ~60,000 years **
+
+The basis of radiocarbon dating is shown in Figure 3.  There are a number of assumptions behind this approach. 
+(1) We assume that the carbon in the object being dated (for example, a plant seed) is derived from a reservoir of carbon (atmospheric CO2 or ocean surface dissolved inorganic C) with a known amount of 14C (this is N0 in Figure 3).    
+(2)  We assume that the carbon in our object remains 'closed' to exchange with newer carbon since it formed.  
+(3) In Figure 3, we are assuming that N0 does not change with time
+(4) We assume we know the half-life of radiocarbon.
 
 ![Figure 3:   ]({{site.baseurl}}{{page.figures}}decay.png)
 *Figure 3: The basis for radiocarbon dating.*
 
+We know that the 14C activity of atmospheric CO2 has changed in the past  - and this affects the usefulness of 14C to determine the absolute age of an object.
+Causes of these variations are
+(1)	changes in the earth’s magnetic field (which determines the trajectory of cosmic ray particles hitting the upper atmosphere); 
+(2)	changes in the solar output (we can see changes coincident with solar cycles such as the 11-year sunspot cycle)
+(3)	changes in the carbon cycle (the partitioning of carbon among atmosphere, ocean and land).
+
+To determine the 14C content of the atmosphere in the past, we need to measure the 14C in something of known age. The radiocarbon community uses tree rings (or corals dated with an independent method like U/Th) to accomplish this. 
+This tree ring record is used to determine the “Calibrated” age from a radiocarbon measurement.  The calibration curves are based on data from several laboratories and there are several programs available over the web that can be used for conversion. Tree ring records go back only to about ~10,000 years.  For the latest calibration curves and programs, see the Radiocarbon web site:  
+
+** Telling time with bomb radiocarbon - years to decades **
 
 
-! Telling time with bomb radiocarbon - the years to decades
 
 
-
-
-# 
+ 
 
 **Further in-depth resources**    
 Schuur, EAG, Druffel, ERM and Trumbore, S. 2016. Radiocarbon and Climate Change: Mechanisms, Applications and Laboratory Techniques. Springer
