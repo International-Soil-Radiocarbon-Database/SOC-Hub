@@ -8,18 +8,40 @@ level2: Isotopic
 #figures: /img/14C/
 ---
 
-
 # Radiocarbon – the way to tell time in the carbon cycle
-Radiocarbon (<sup>14</sup>C) is the radioactive isotope of carbon, with 6 protons and 8 neutrons. Radiocarbon is a cosmogenic radionuclide, which means it is constantly being created by the interaction of cosmic rays with the atmosphere and earth’s surface.  It is unstable, and will spontaneously emit an electron from its nucleus.  The half-life of radiocarbon - the time that it takes for half of the original radiocarbon atoms to revert to <sup>14</sup>N is 5730 years. 
+Radiocarbon (<sup>14</sup>C) is the radioactive isotope of carbon, with 6 protons and 8 neutrons. 
+
+Radiocarbon is produced in three ways:
+(1)	Cosmic-ray generated neutrons interacting with 14N in the  atmosphere (see Figure 1)
+(2)	Cosmic-ray interactions with surface minerals (in situ production, generally quite small compared to (1))
+(3)	Neutrons from thermonuclear reactions interacting with 14N 
+Atmospheric thermonuclear weapons testing in the early 1960’s approximately doubled the amount of 14C in atmospheric CO2 (see Figure 2)
+Small amounts of 14C are also released by some nuclear reactors, these can be minor but if you are near one you should be aware!
 
 ![Figure 1:   ]({{site.baseurl}}{{page.figures}}Figure1.png)
 *Figure 1: Production of radiocarbon in the upper atmosphere by high energy cosmic rays interacting with O and N atoms. The resulting energetic particle collision can create a 14C nucleus (6 protons and 8 neutrons) from a 14N nucleus (7 protons and 7 neutrons).  The 14C atom is quickly oxidized to carbon monoxide and then to carbon dioxide - thus 14C enters the global carbon cycle from the atmosphere.  (Schuur et al. 2016).*
 
-! Telling time with cosmogenic radiocarbon- hundreds to thousands of years
+![Figure 2:   ]({{site.baseurl}}{{page.figures}}levin_bomb.png)
+*Figure 2: 'Bomb" radiocarbon is the production of 14C by atomic weapons testing in the atmosphere*
 
 
-![Figure 2:   ]({{site.baseurl}}{{page.figures}}decay.png)
-*Figure 2: The basis for radiocarbon dating.*
+Radiocarbon is destroyed in only one way: Radioactive decya.  The combination of 6 protons and 8 neutrons is inherently unstable, and will spontaneously emit an electron from its nucleus. However, this is a rather slow process: the half-life of radiocarbon - the time that it takes for half of the original radiocarbon atoms to revert to <sup>14</sup>N is 5730 years. (see Figure 3 for more on half-life)
+
+The balance of production and decay are such that the natural abundance of 14C is roughly one in every trillion (1012) carbon atoms.   
+
+Radiocarbon is used to study the carbon cycle in several ways:
+ 
+1)	As a dating tool – to get the ages and accumulation rates of sediments, tropical trees, volcanic eruptions, etc.
+2)	As a source tracer – for example, comparing the isotopic values of respired CO2 with those of potential substrates will determine which substrate contributes the most;.
+3)	As an indicator of the rate of exchange of carbon in various reservoirs with atmospheric CO2.
+3)  As a purposeful tracer (e.g. when 14C is added to a system and traced through it)
+
+
+# Radiocarbon dating
+
+
+![Figure 3:   ]({{site.baseurl}}{{page.figures}}decay.png)
+*Figure 3: The basis for radiocarbon dating.*
 
 
 
