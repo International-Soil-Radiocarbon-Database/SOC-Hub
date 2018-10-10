@@ -158,7 +158,7 @@ Schuur, E.A.G., McGuire A.D., Schädel C., Grosse G., Harden J.W., Hayes D.J., H
 
 Liljedahl, A. K., et al. (2016). Pan-Arctic ice-wedge degradation in warming permafrost and its influence on tundra hydrology. et al. (2016) DOI: [10.1038/NGEO2674](https://doi.org/10.1038/NGEO2674)    
 
-[Schädel, C., McGuire, A.D., and Schuur, E.A.G. (2015)](https://www2.nau.edu/schuurlab-p/documents/PCN_5_year_synthesis_report.pdf) Permafrost Carbon Network 5-Year Systhesis Report.[www.permafrostcarbon.org](www.permafrostcarbon.org)  
+Schädel, C., McGuire, A.D., and Schuur, E.A.G. (2015). [Permafrost Carbon Network 5-Year Systhesis Report](https://www2.nau.edu/schuurlab-p/documents/PCN_5_year_synthesis_report.pdf). [www.permafrostcarbon.org](www.permafrostcarbon.org)  
 
 Schaefer, K., Lantuit, H, Romanovsky, R.E., Schuur, E.A.G., Witt, R. (2014). The impact of the permafrost carbon feedback on global climate. Environ. Res. Lett. 9:085003. [doi: 10.1088/1748-9326/9/8/085003](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta#citations)  
 
