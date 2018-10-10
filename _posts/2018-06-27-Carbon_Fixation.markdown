@@ -31,7 +31,7 @@ Larcher, W., 1995. Physiological plant ecology: ecophysiology and stress physiol
 
 # Carbon use within plants
 
-Once carbohydrates are created within the plant, they are used both as the physical plant building blocks and substrate to fuel plant metabolism. The organic carbon stored in plants forms the basis of the green food web, including the tasty things for animals to eat. Plants can store this carbon in aboveground and belowground biomass. However, not all plant growth forms and climates are created equal. Globally, mean annual temperature affects how plants partition carbon between aboveground and belowground tissues. As we can see in Figure 2, plants in warmer climates store more of their biomass belowground than plants in colder climates. 
+Once carbohydrates are created within the plant, they are used both as the physical plant building blocks and substrate to fuel plant metabolism. The organic carbon stored in plants forms the basis of the green food web, including the tasty things for animals to eat. Plants can store this carbon in aboveground and belowground biomass. However, not all plant growth forms and climates are created equal. Globally, in forests and pastures, mean annual temperature affects how plants partition carbon between aboveground and belowground tissues. As we can see in Figure 2, forest and grassland store more of their biomass belowground as the climate warms. However, in very cold ecosystems like tundra, most plants store the majority of their biomass belowground than aboveground. 
 
 ![Figure 2. Carbon partioning between above and below ground mass in forests and pasture show increase in ratio of below-ground to above-ground mass in warmer regions of the world. View image [here](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2008.01479.x/epdf) from Litton and Giardina, 2008.]({{site.baseurl}}{{page.figures}}carbon_above_below_litton.jpg)
 *Figure 2. Carbon partioning between above and below ground mass in forests and pasture show increase in ratio of below-ground to above-ground mass in warmer regions of the world. View image [here](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2008.01479.x/epdf) from Litton and Giardina, 2008.*
@@ -42,6 +42,8 @@ Where carbon is allocated within the plant can also be impacted by atypical envi
 *Figure 3. Heat and drought affect a plant's carbon allocation, and change depending on the stress condition of the plant. Under stress, heat and drought can shift plant carbon allocation above ground. View this image [here](https://academic.oup.com/treephys/article/35/6/581/1646587) from Sevanto and Dickman, 2015.*
 
 References: 
+
+Iversen, C. M., Sloan, V. L., Sullivan, P. F., Euskirchen, E. S., McGuire, A. D., Norby, R. J., … Wullschleger, S. D. 2015. The unseen iceberg: plant roots in arctic tundra. New Phytologist, 205(1), 34–58. DOI: [10.1111/nph.13003](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.13003)
 
 Litton, C.M., Giardina, C.P., 2008. Below-ground carbon flux and partitioning: global patterns and response to temperature. Functional Ecology 22, 941-954. DOI: [10.1111/j.1365-2435.2008.01479.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2008.01479.x/epdf)
 
