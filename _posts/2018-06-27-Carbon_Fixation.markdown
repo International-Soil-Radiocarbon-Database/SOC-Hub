@@ -12,9 +12,9 @@ figures: /img/2bi/
 
 # Photosynthesis, our solar energy converter
 
-Carbon in the air is magically placed into the soil by tiny brilliant elves. Just kidding. It's a very complex process of interactions between plants and microbial life that we have to thank for this crucial step in the carbon cycle, a [benefit](https://powellcenter-soilcarbon.github.io/SOC-Hub/global-context/2017/05/04/Dynamic-role/) to the system. 
+Carbon in the air is magically placed into the soil by tiny brilliant elves. Just kidding. It is a complex process of interactions between plants and microbial life that we have to thank for this crucial part of the carbon cycle, which transfers carbon from the atmosphere to plants to soils, resulting in a carbon sink
 
-Photosynthesis is the first step of carbon entering the soil. Atmospheric carbon, carbon dioxide ($CO_2$), is converted within plants using solar energy and becomes stored energy in the form of organic carbon (carbon fixation). This fixation process is done by the enzyme Rubisco, the most abundant protein on Earth. Chloroplasts host the process of photosynthesis where primary reduction reactions convert $CO_2$ into energy-rich carbohydrates, which are used as an energy currency for the plant and organisms within the ecosystem, with oxygen as a byproduct. 
+Photosynthesis is the first step of the process by which carbon enters the soil. Atmospheric carbon, carbon dioxide ($CO_2$), is converted within plants using solar energy and becomes stored energy in the form of organic carbon (carbon fixation). This fixation process is done by the enzyme Rubisco, the most abundant protein on Earth. Chloroplasts host the process of photosynthesis where primary reduction reactions convert $CO_2$ into energy-rich carbohydrates, which are used as an energy currency for the plant and organisms within the ecosystem, with oxygen as a byproduct. 
 
 ![Chemical equation for photosynthesis. Learn more about photosynthesis and Rubisco [here.](https://bigpictureeducation.com/great-rubisco-and-its-amazing-carbon-fixation)]({{site.baseurl}}{{page.figures}}photosynthesis_equation.png)
 *Chemical equation for photosynthesis. Learn more about photosynthesis and Rubisco [here.](https://bigpictureeducation.com/great-rubisco-and-its-amazing-carbon-fixation)*
