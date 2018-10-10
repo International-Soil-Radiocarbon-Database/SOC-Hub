@@ -1,5 +1,5 @@
 ---
-title: "Mineral Associations of Organic Matter"
+title: "Organic Matter Associated with Minerals"
 author: "Jacqueline E. Pitts, Asmeret Berhe, Aaron Thompson, and Marco Keiluweit"
 layout: post
 tags: ["organomineral", "mineral associations"]
@@ -11,9 +11,9 @@ figures: /img/3bii/
 
 
 
-# What are mineral associations with organic matter and why are they important?
+# What does it mean to have organic matter associated with minerals and why is this important?
 
-Mineral-bound organic matter is generally defined as organic matter that is adsorbed to minerals or entrapped in small micro-aggregates. In temperate, cultivated soils, 50-75% of the organic matter in soils exists within clay-sized organo-mineral particles (Christensen 2001). This large reservoir of SOM (and therefore also soil carbon) makes understanding the dynamics of carbon in organo-mineral particles important in understanding the overall dynamics of carbon in soils. The protection of SOM by soil mineral associations also helps to explain the persistence of SOM even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
+Mineral-bound organic matter is organic matter that is adsorbed to mineral surfaces, co-precipitated with minerals, or entrapped in  small aggregates. Much of the organic matter in soils is present in mineral associations. For instance, in temperate, cultivated soils that comprise some of the most productive soils in the world, 50-75% of the organic matter is present within clay-sized organo-mineral particles (Christensen 2001). This large reservoir of SOM (and therefore also soil carbon) makes understanding the dynamics of carbon in organo-mineral particles important in understanding the overall dynamics of carbon in soils. The protection of SOM by soil mineral associations also helps to explain the persistence of SOM even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
 
 ![Figure 1, from Keiluweit et al, 2015]({{site.baseurl}}{{page.figures}}blog2_general.png)
 *Figure 1, from Keiluweit et al, 2015*
