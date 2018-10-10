@@ -34,7 +34,7 @@ Schmidt et al. (2011) DOI: [10.1038/nature10386](https://www.nature.com/articles
 In contemporary times we've come to think of SOM storage as a process of stabilization and de-stabilization by multiple discrete mechanisms in the soil, an idea that was first conceptualized well by Sollins and co-authors circa 1996.  
 
 ![Fig 1. Sollins et al. (1996) is a fantastic paper that brings together many of the budding ideas in soil science at the time.  It is a concrete and well discussed paper on how SOM storage can be conceptualized]({{site.baseurl}}{{page.figures}}Sollins.png)
-*Fig 1. Sollins et al. (1996) is a fantastic paper that brings together many of the budding ideas in soil science at the time.  It is a concrete and well discussed paper on how SOM storage can be conceptualized*
+*Fig 1. Sollins et al. (1996) is a fantastic paper that brings together many of the budding ideas in soil science at the time. It is a concrete and well discussed paper on how SOM storage can be conceptualized*
 
 As paradigms have shifted, its important to get away from humification terminology and embrace mechanistic theories and conceptualizations of soil carbon stabilization.  Below is a visualization of multiple conceptualizations of SOM sequestration and a final consolidated view of SOM sequestration by Lehmann & Kleber (2015).
 
@@ -52,17 +52,17 @@ Lehmann & Kleber (2015) DOI: [10.1038/nature16069](https://www.nature.com/articl
 
 # Moving forward: bringing together theory, measurement, and modeling
 
-Some awesome new work by Vidal et al. (2018) has highlighted important interactions in the rhizosphere between plant roots, fungi, and bacteria.  The hope is that research like this will inform how we think about SOM and eventually lead to new conceptualizations of SOM storage that can be tested, further refined, and finally modeled to help project future changes in SOC. 
+New work by Vidal et al. (2018) has highlighted important interactions in the rhizosphere between plant roots, fungi, and bacteria. The hope is that research like this will inform how we think about SOM and eventually lead to new conceptualizations of SOM storage that can be tested, further refined, and finally modeled to help project future changes in SOC. 
 
 
 ![Figure 5.  Recent labeling and imaging techniques have given an amazing look into new conceptual models of root driven SOM storage.  For full figure text see Vidal et a. (2018) DOI: [10.3389/fenvs.2018.00009](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00009/full)](https://www.frontiersin.org/files/Articles/331687/fenvs-06-00009-HTML/image_m/fenvs-06-00009-g009.jpg)
 *Figure 5.  Recent labeling and imaging techniques have given an amazing look into new conceptual models of root driven SOM storage.  For full figure text see Vidal et a. (2018) DOI: [10.3389/fenvs.2018.00009](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00009/full)*
 
-Moving forward there needs to be a focus on connecting theory, measurement, and modeling as a single process.   When separated we fail to close the loop of the scientific method and have difficulty informing further research.  Only by designing experiments to test conceptual theory and provide data to test/model soil systems will we be able to provide farmers, land managers, policy makers, and the general public tools to better understand soil carbon. 
+Moving forward there needs to be a focus on connecting theory, measurement, and modeling as a single process. When separated we fail to close the loop of the scientific method and have difficulty informing further research. Only by designing experiments to test conceptual theory and provide data to model soil systems will we be able to provide farmers, land managers, policy makers, and the general public with tools to better understand soil carbon. 
 
 
 **List of important publications**:
 
-Triangle paper
+Blankinship et al. (2018) DOI: [10.1007/s10533-018-0478-2] (https://link.springer.com/article/10.1007/s10533-018-0478-2)
 
 Vidal et al. (2018) DOI: [10.3389/fenvs.2018.00009](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00009/full)
