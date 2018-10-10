@@ -89,45 +89,53 @@ Isolating the effects of climate change and land use is a challenging task. Sinc
 
 Although there are different models available and under development to estimate the influence of climate change in different biomes. Figure 7 illustrates DVGM projections of vegetation dispersion from a changing climate. Due to the complexity of estimating such effects, some studies have provided contradictory results. One of the impacts of modifications in land cover is changes on the albedo effect, resulting in warmer temperatures. For example, changes in land cover affect how much of the Sun’s energy is reflected (or not) by the Earth’s surface (known also as the albedo effect). For example, areas covered with snow (lighter surfaces) are better at reflecting the solar radiation, than darker surfaces. The latter increases the absorption of solar radiation by the Earth's surface (Figure 8).
 
-![Figure 7 - The figure above indicates predictions in vegetation spread across the globe, starting with historical data from 1990, and projecting until the year 2100, using the MC1 DVGM Model. Biomes in the legend: ice (IC), tundra and alpine (UA), boreal conifer forest (BC), temperate conifer forest (TC), temperate broadleaf forest (TB), temperate mixed forest (TM), temperate shrubland (TS), temperate grassland (TG), desert (DE), tropical grassland (RG), tropical woodland (RW), tropical deciduous broadleaf forest (RD), tropical evergreen broadleaf forest (RE). From [Gonzalez et al. (2010)](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00558.x/abstract)]({{site.baseurl}}{{page.figures}}MC1_Projections.png)
+![Figure 7]({{site.baseurl}}{{page.figures}}MC1_Projections.png)
 *Figure 7 - The figure above indicates predictions in vegetation spread across the globe, starting with historical data from 1990, and projecting until the year 2100, using the MC1 DVGM Model. Biomes in the legend: ice (IC), tundra and alpine (UA), boreal conifer forest (BC), temperate conifer forest (TC), temperate broadleaf forest (TB), temperate mixed forest (TM), temperate shrubland (TS), temperate grassland (TG), desert (DE), tropical grassland (RG), tropical woodland (RW), tropical deciduous broadleaf forest (RD), tropical evergreen broadleaf forest (RE). From [Gonzalez et al. (2010)](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00558.x/abstract)*
 
-![Figure 8 - Albedo effect describes the ability of surfaces of absorbing or reflecting solar radiation. While light-coloured (e.g. snow covered) surfaces are great at reflecting the sunlight (high albedo), dark-coloured surfaces contribute to the absorption of heat (low albedo). From [Norwegian Polar Institute](http://www.npolar.no/en/facts/albedo-effect.html)]({{site.baseurl}}{{page.figures}}albedo.jpg)
+![Figure 8]({{site.baseurl}}{{page.figures}}albedo.jpg)
 *Figure 8 - Albedo effect describes the ability of surfaces of absorbing or reflecting solar radiation. While light-coloured (e.g. snow covered) surfaces are great at reflecting the sunlight (high albedo), dark-coloured surfaces contribute to the absorption of heat (low albedo). From [Norwegian Polar Institute](http://www.npolar.no/en/facts/albedo-effect.html)*
 
 ## References: 
 
 Bertin, R. I. (2008). Plant Phenology And Distribution In Relation To Recent Climate Change Plant phenology and distribution in relation to recent climate change. The Journal of the Torrey Botanical Society, 135(1), 126–146. DOI: [10.3159/07-RP-035R.1](https://doi.org/10.3159/07-RP-035R.1)  
+
 Bradley, B. A., Wilcove, D. S., & Oppenheimer, M. (2010). Climate change increases risk of plant invasion in the Eastern United States. Biological Invasions, 12(6), 1855–1872. DOI: [10.1007/s10530-009-9597-y](https://doi.org/10.1007/s10530-009-9597-y)  
+
 Carlson, K. M., Curran, L. M., Asner, G. P., Pittman, A. M., Trigg, S. N., & Marion Adeney, J. (2012). Carbon emissions from forest conversion by Kalimantan oil palm plantations. Nature Climate Change, 3, 283. DOI: [10.1038/nclimate1702](https://doi.org/10.1038/nclimate1702)  
+
 Forseth, I. (2010) Terrestrial Biomes. [Nature Education Knowledge](https://www.nature.com/scitable/knowledge/library/terrestrial-biomes-13236757) 3(10):11  
+
 Gehrig-Fasel, Guisan, Zimmermann (2007) DOI: [10.1111/j.1654-1103.2007.tb02571.x](http://dx.doi.org/10.1111/j.1654-1103.2007.tb02571.x)  
 Gonzalez, P., Neilson, R.P., Lenihan, J.M., Drapek, R.J.Global Ecology and Biogeography vol. 19 issue 6 (2010) pp: 755-768 Published by Blackwell Publishing Ltd DOI: [10.1111/j.1466-8238.2010.00558.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00558.x/abstract)
+
 Kelly, A. E., & Goulden, M. L. (2008). Rapid shifts in plant distribution with recent climate change. Proceedings of the National Academy of Sciences, 105(33), 11823–11826. DOI: [10.1073/pnas.0802891105](https://doi.org/10.1073/pnas.0802891105)    
+
 Primack, R., Higuchi, H., & Miller-Rushing, A. (2009). The impact of climate change on cherry trees and other species in Japan. Biological Conservation (Vol. 142). DOI: [10.1016/j.biocon.2009.03.016](https://doi.org/10.1016/j.biocon.2009.03.016)
 
 ## Websites:
 [EPA](https://www.epa.gov/) 
-[IPCC 2007](https://www.ipcc.ch/)    
+[IPCC 2013](http://www.ipcc.ch/report/ar5/wg1/)    
 [IUCN](https://www.iucn.org/resources/issues-briefs/invasive-alien-species-and-climate-change) 
 
 # Ecosystems with exceptional carbon storage abilities
 
-Mangroves are excellent at carbon sequestration (Figure 9). They absorb above ground carbon from the atmosphere, and transfer it into below ground carbon. Every year, the impacts of climate change and mangrove deforestation (Figure 10) in small island communities jeopardize the ability for that excess atmospheric carbon to be absorbed (Figure 11). Carbon is rapidly becoming a hot topic that can be used in future to offset emissions, particularly along shorelines.  The carbon stored in coastal habitats is also known as “Coastal blue carbon”.
+Mangroves are excellent at carbon sequestration (Figure 9). They absorb aboveground carbon from the atmosphere, and transfer it into belowground carbon. Every year, the impacts of climate change and mangrove deforestation (Figure 10) in small island communities jeopardize the ability for that excess atmospheric carbon to be absorbed (Figure 11). Carbon is rapidly becoming a hot topic that can be used in future to offset emissions, particularly along shorelines. The carbon stored in coastal habitats is also known as “Coastal blue carbon”.
 
-![Figure 9. The picture above represents red mangroves found along the coast of Tumbe, Pemba Island. (Credit Genelle Watkins)]({{site.baseurl}}{{page.figures}}Genelle_photo_1.png)
+![Figure 9]({{site.baseurl}}{{page.figures}}Genelle_photo_1.png)
 *Figure 9. The picture above represents red mangroves found along the coast of Tumbe, Pemba Island. (Credit Genelle Watkins)*
 
-![Figure 10. This figure depicts the coastal deforestation occurring in Pemba Island, East Africa. The small seedlings emerging from the beach sand is mkoko (red mangrove--Rhizophora mucronata) (Credit Genelle Watkins)]({{site.baseurl}}{{page.figures}}Genelle_photo_2.png)
+![Figure 10]({{site.baseurl}}{{page.figures}}Genelle_photo_2.png)
 *Figure 10. This figure depicts the coastal deforestation occurring in Pemba Island, East Africa. The small seedlings emerging from the beach sand is mkoko (red mangrove--Rhizophora mucronata) (Credit Genelle Watkins)*
 
-![Figure 11 - The potential of carbon sequestration by mangroves is exceptional as described in the first two parts of this figure. However, the carbon stored by mangroves are released into the atmosphere when deforestation occurs (as illustrated in the last part). From [Ocean Health Index](http://www.oceanhealthindex.org/methodology/components/mangroves-condition)]({{site.baseurl}}{{page.figures}}OHI_CARBON_DYNAMIC_11J_KM.png)  
+![Figure 11]({{site.baseurl}}{{page.figures}}OHI_CARBON_DYNAMIC_11J_KM.png)  
 *Figure 11 - The potential of carbon sequestration by mangroves is exceptional as described in the first two parts of this figure. However, the carbon stored by mangroves are released into the atmosphere when deforestation occurs (as illustrated in the last part). From [Ocean Health Index](http://www.oceanhealthindex.org/methodology/components/mangroves-condition)*
 
 ## References: 
 
-Alongi, Daniel M. “Carbon Sequestration in Mangrove Forests.” Carbon Management, vol. 3, no. 3, 2012, pp. 313–322. DOI: [10.4155/cmt.12.20](https://www.researchgate.net/profile/Daniel_Alongi2/publication/274116107_Carbon_sequestration_in_mangrove_forests/links/556b926408aec22683037b84/Carbon-sequestration-in-mangrove-forests.pdf)    
+Alongi, Daniel M. “Carbon Sequestration in Mangrove Forests.” Carbon Management, vol. 3, no. 3, 2012, pp. 313–322. DOI: [10.4155/cmt.12.20](https://www.researchgate.net/profile/Daniel_Alongi2/publication/274116107_Carbon_sequestration_in_mangrove_forests/links/556b926408aec22683037b84/Carbon-sequestration-in-mangrove-forests.pdf)  
+
 Donato, Daniel C., et al. “Mangroves among the Most Carbon-Rich Forests in the Tropics.” Nature Geoscience, vol. 4, no. 5, 2011, pp. 293–297. DOI: [10.1038/ngeo1123](http://dx.doi.org/10.1038/ngeo1123)   
+
 [Spalding, M. (2013)](https://blog.nature.org/science/2013/10/11/new-science-mangrove-forests-carbon-store-map/) Science: Mangrove Forests as Incredible Carbon Stores. Cool Green Science. 
 
 ## Websites: 
@@ -137,27 +145,31 @@ Donato, Daniel C., et al. “Mangroves among the Most Carbon-Rich Forests in the
 
 # Thawing permafrost increases carbon emissions into the atmosphere
 
-Permafrost soils stay frozen all year round for over two years in a row (Figure 12), and are concentrated  in the Artic, Antartic, and some mountain regions. The carbon in permafrost has been stored and preserved for thousands of years but is now starting to be decomposed as microbes wake up (Figure 13). Permafrost holds almost twice as much carbon as the atmosphere and large amounts of CO2 and CH4 will be released to the atmosphere if global temperatures continue to increase. 
+Permafrost soils stay frozen all year round for at least two consecutive years (Figure 12), and occur in the Artic, Antartic, and some mountain regions. The carbon in permafrost has been stored and preserved for thousands of years but is now starting to be decomposed as temperatures increase and microbes wake up (Figure 13). Permafrost holds almost twice as much carbon as the atmosphere and large amounts of CO2 and CH4 will be released to the atmosphere if global temperatures continue to increase. 
 
-![Figure 12 - Ice rich soil (permafrost) near Yellowknife NWT, Canada (Credit P. Morse Aug. 2014) From [Natural Resources Canada](http://www.nrcan.gc.ca/earth-sciences/science/permafrost-ice-snow/permafrost/10990)]({{site.baseurl}}{{page.figures}}ice-rich-pf.jpg)
+![Figure 12]({{site.baseurl}}{{page.figures}}ice-rich-pf.jpg)
 *Figure 12 - Ice rich soil (permafrost) near Yellowknife NWT, Canada (Credit P. Morse Aug. 2014) From [Natural Resources Canada](http://www.nrcan.gc.ca/earth-sciences/science/permafrost-ice-snow/permafrost/10990)*
 
-![Figure 13 -This figure illustrates the permafrost carbon feedback (PCF). Higher temperatures cause the expansion of the active layer and an increased thawing of organic material frozen in permafrost.  As the thickness of this layer increases, it leads to the decay of SOM at deeper levels and the release of CO2 and CH4 into the atmosphere causing the amplification of the effects of anthropogenic emissions on climate. Mechanisms of Arctic Greenhouse Gas Release. From [Schaffer et al. (2014)](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta)]({{site.baseurl}}{{page.figures}}permafrost.jpg)
-*Figure 13 -This figure illustrates the permafrost carbon feedback (PCF). Higher temperatures cause the expansion of the active layer and an increased thawing of organic material frozen in permafrost.  As the thickness of this layer increases, it leads to the decay of SOM at deeper levels and the release of CO2 and CH4 into the atmosphere causing the amplification of the effects of anthropogenic emissions on climate. Mechanisms of Arctic Greenhouse Gas Release. From [Schaffer et al. (2014)](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta)*
+![Figure 13]({{site.baseurl}}{{page.figures}}permafrost.jpg)
+*Figure 13 -This figure illustrates the permafrost carbon feedback (PCF). Higher temperatures cause the active layer to deepen thawing an increased amount of organic material. As the thickness of this layer increases, it leads to the decay of SOM at deeper levels and the release of CO2 and CH4 into the atmosphere causing the amplification of the effects of anthropogenic emissions on climate. Mechanisms of Arctic Greenhouse Gas Release. From [Schaefer et al. (2014)](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta)*
 
 ## References: 
+Schuur, E.A.G., McGuire A.D., Schädel C., Grosse G., Harden J.W., Hayes D.J., Hugelius G., Koven C.D., Kuhry P., Lawrence D.M., Natali S.M., Olefeldt C., Romanovsky V.E., Schaefer K., Turetsky M.R., Treat C.C. and Vonk J.E. (2015). Climate change and the permafrost carbon feedback. Nature 520 (7546): 171-179. [doi:10.1038/nature14338](https://www.nature.com/articles/nature14338)
 
-Findell, Kirsten L., et al. (2017) The Impact of Anthropogenic Land Use and Land Cover Change on Regional Climate Extremes. Nature News, Nature Publishing Group. DOI: [10.1038/s41467-017-01038-w](https://doi.org/10.1038/s41467-017-01038-w)    
 Liljedahl, A. K., et al. (2016). Pan-Arctic ice-wedge degradation in warming permafrost and its influence on tundra hydrology. et al. (2016) DOI: [10.1038/NGEO2674](https://doi.org/10.1038/NGEO2674)    
-[Schädel, C., McGuire, A.D., and Schuur, E.A.G. (2015)](https://www2.nau.edu/schuurlab-p/documents/PCN_5_year_synthesis_report.pdf) Permafrost Carbon Network 5-Year Systhesis Report.[www.permafrostcarbon.org](www.permafrostcarbon.org)   
-Kevin, S., Hugues, L., Vladimir, E. R., Edward, A. G. S., and Ronald, W. (2014). The impact of the permafrost carbon feedback on global climate. Environ. Res. Lett. 9:085003. [doi: 10.1088/1748-9326/9/8/085003](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta#citations)         
+
+[Schädel, C., McGuire, A.D., and Schuur, E.A.G. (2015)](https://www2.nau.edu/schuurlab-p/documents/PCN_5_year_synthesis_report.pdf) Permafrost Carbon Network 5-Year Systhesis Report.[www.permafrostcarbon.org](www.permafrostcarbon.org)  
+
+Schaefer, K., Lantuit, H, Romanovsky, R.E., Schuur, E.A.G., Witt, R. (2014). The impact of the permafrost carbon feedback on global climate. Environ. Res. Lett. 9:085003. [doi: 10.1088/1748-9326/9/8/085003](http://iopscience.iop.org/article/10.1088/1748-9326/9/8/085003/meta#citations)  
+
 Tarnocai, C., Canadell, J. G., Schuur, E. A., Kuhry, P., Mazhitova, G., & Zimov, S. (2009). Soil organic carbon pools in the northern circumpolar permafrost region. Global Biogeochemical Cycles, 23(2). DOI: [10.1029/2008GB003327](https://doi.org/10.1029/2008GB003327)   
 
 ## Websites:
-[National Park Service](https://www.nps.gov/articles/denali-permafrost-carbon.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more)   
+[National Park Service](https://www.nps.gov/articles/denali-permafrost-carbon.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more)  
+
 [NOOA Artic Report Card 2017](http://www.arctic.noaa.gov/Report-Card/Report-Card-2017/ArtMID/7798/ArticleID/694/Terrestrial-Permafrost)  
 [Smithsonianmag.com](https://www.smithsonianmag.com/science-nature/barrow-alaska-ground-zero-for-climate-change-7553696/)  
 
 # Global Implications
 
-Vegetation and climate distribution go hand in hand. It is important to realize that climate is constantly changing and vegetation types that were seen in early decades, may not be reflective of what is found in current ecosystems. Biomes experiencing albedo effects, melting permafrost layers, and high mangrove sequestration, are only some examples relating directly to climate and vegetation type. The world is full of carbon within many types of vegetation and resources are always changing. Recognize that what once was, may not be the same in the next few years!
+Vegetation and climate distribution go hand in hand. It is important to realize that climate is constantly changing and vegetation types that were seen in early decades, may not be reflective of what is found in current ecosystems. Biomes experiencing albedo effects, thawing permafrost layers, and high mangrove sequestration, are only some examples relating directly to climate and vegetation type. The world is full of carbon within many types of vegetation and resources are always changing. Recognize that what once was, may not be the same in the next few years!
