@@ -25,7 +25,7 @@ Small amounts of 14C are also released by some nuclear reactors, these can be mi
 *Figure 2: 'Bomb" radiocarbon is the production of 14C by atomic weapons testing in the atmosphere*
 
 
-Radiocarbon is destroyed in only one way: Radioactive decya.  The combination of 6 protons and 8 neutrons is inherently unstable, and will spontaneously emit an electron from its nucleus. However, this is a rather slow process: the half-life of radiocarbon - the time that it takes for half of the original radiocarbon atoms to revert to <sup>14</sup>N is 5730 years. (see Figure 3 for more on half-life)
+Radiocarbon is destroyed in only one way: Radioactive decay.  The combination of 6 protons and 8 neutrons is inherently unstable, and will spontaneously emit an electron from its nucleus. However, this is a rather slow process: the half-life of radiocarbon - the time that it takes for half of the original radiocarbon atoms to revert to <sup>14</sup>N is 5730 years. (see Figure 3 for more on half-life)
 
 The balance of production and decay are such that the natural abundance of 14C is roughly one in every trillion (1012) carbon atoms.   
 
