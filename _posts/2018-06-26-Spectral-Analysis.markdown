@@ -1,6 +1,6 @@
 ---
 title: "Spectral Analyses"
-author: "Kristy Lam, Alain Plante, and Asmeret Berhe"
+author: "Kristy Lam, Alain Plante, and Asmeret Asefaw Berhe"
 layout: post
 level2: Chemical-characterization
 level1: Quantitative Methods
