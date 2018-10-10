@@ -40,7 +40,7 @@
   role: Participant
   img: https://www2.nau.edu/schuurlab-p/images/people/Sch%C3%A4del%20thumb.jpg
   url: https://www2.nau.edu/schuurlab-p/Schaedel.html
-  bio: Christina brings expertise in synthesis science, meta-analysis, incubation studies, and soil carbon dynamics to the team. She is a biogeochemist and plant ecophysiologist and coordinates the Permafrost Carbon Network (www.permafrostcarbon.org), a data-synthesis based research program on the vulnerability of permafrost carbon to climate change.
+  bio: Christina brings expertise in synthesis science, meta-analysis, incubation studies, and soil carbon dynamics to the team.  She is a biogeochemist and plant ecophysiologist and coordinates the Permafrost Carbon Network, a data-synthesis based research program on the vulnerability of permafrost carbon to climate change.
 
 - name: Erika Marin-Spiotta
   role: Participant
@@ -62,8 +62,8 @@
 
 - name: Craig Rasmussen
   role: Participant
-  url: https://www.researchgate.net/profile/Craig_Rasmussen
-  bio: Craig brings expertise on soil formation, landscape evolution, and thinks beyond the clay paradigm of soil C stabilization
+  url: https://cals.arizona.edu/swes/rasmussen/
+  bio: Craig thinks beyond the clay paradigm of soil C stabilization
   img: http://www.environment.arizona.edu/sites/default/files/styles/profile/public/profile/Rasmussen%2C_Craig.jpg
 
 - name: Alain Plante
@@ -78,7 +78,7 @@
   img: https://www.geology.illinois.edu/UserFiles/Servers/Server_127588/Image/Directory/jdruhan.jpg
   bio: Jenny contributes expertise on reaction transport modeling
   
-- name: William Wieder
+- name: Will Wieder
   role: Participant
   img: https://staff.ucar.edu/sites/default/files/styles/medium/public/user/photos/wwieder.jpg
   url: https://staff.ucar.edu/users/wwieder
