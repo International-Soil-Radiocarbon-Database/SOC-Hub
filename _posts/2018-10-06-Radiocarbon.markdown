@@ -5,7 +5,7 @@ layout: post
 tags: ["radiocarbon", "14C"]
 level1: Quantitative methods
 level2: Isotopic
-#figures: /img/14C/
+figures: /img/14C/
 ---
 
 # Radiocarbon – the way to tell time in the carbon cycle
