@@ -54,7 +54,7 @@ Cotrufo et al., 2013 FROM Kallenbach et al 2015
 Dungait et al., 2012
 Cyle et al, 2016
 
-# Other factors that influence organomineral interactions
+# Factors that influence organomineral interactions
 
 It is not simply the source or nature of the organic matter that influences the formation of organic matter and mineral associations. Many other factors, including the mineral characteristics, water,  and pH are also significant factors in the formation of mineral associations with organic matter. 
 
@@ -78,8 +78,8 @@ Hedges and Keil, 1999
 There is growing evidence for “zonal structures” on mineral surfaces with the layering of organic material on minerals. The basis for this idea comes from work by Schmidt et al 
 (1990) in which they show that it is easier or harder for organic matter to dissolve depending on where in the soil the organic matter is. In other words, there are different turnover times for both C and N within the same organo-mineral complex. 
  
-More recently, Physical fractionation data led Sollins et al. (2006 ) to postulate that sorption of
-proteins to minerals might create a basal layer to which other amphiphilic molecular fragments would adsorb more strongly than they would to clean clay surfaces, creating a zonal eV ect, with N-rich compounds more abundant near mineral surfaces, and C-rich compounds more abundant farther from the surface.
+More recently, Physical fractionation data led Sollins et al. (2006) to postulate that sorption of
+proteins to minerals might create a basal layer to which other amphiphilic molecular fragments would adsorb more strongly than they would to clean clay surfaces, creating a zonal effect, with N-rich compounds more abundant near mineral surfaces, and C-rich compounds more abundant farther from the surface.
 
 ![Figure 4, showing the zones associated with organomineral interactions.](blog2zones.png)
 *Figure 4, showing the zones associated with organomineral interactions.*
