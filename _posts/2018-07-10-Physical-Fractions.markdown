@@ -9,14 +9,14 @@ figures: /img/4cii/
 ---
 <!--  
 ***  
-Fractionation is the separation of different physical components within the soil, to distinguish the organic matter pools having different ecological or biogeochemical meanings. This can be done based on **mineralogy - insert link**, physical properties, **biological properties - insert link**, or **chemical properties - insert link**. To have a better understanding of soil, it is best to combine multiple separation procedures to get a more in depth understanding. Once isolated, various approaches may be used to determine the composition and turnover of the isolated fraction(s) **insert link to Kristy’s section**.
+Fractionation is the method to separate different physical components within the soil, to distinguish the organic matter pools having different ecological or biogeochemical meanings. This can be achieved based on our understanding of **mineralogy - insert link**, physical properties, **biological properties - insert link**, or **chemical properties - insert link** of the soil. To have a better understanding of soil, it may be useful to combine multiple fractionation procedures. Once isolated, various approaches may be used to determine the composition and turnover of the isolated fraction(s) **insert link to Kristy’s section**.
 
 ***
 -->
 
 ### What is it?  
 
-Physical fractionation is a process used to separate soil based on size and density (Gregorich et al, 2006). It assumes that soil physical components and structure will determine its behavior and interactions. Additionally, with soils being complex systems influenced by different forming factors, they can be separated using different processes. These processes include separation by soil texture, particle size, aggregates and density. With many permutations of physical fractionation methods in the literature (Figure 1), the research question should dictate what method is chosen.
+Physical fractionation is a method to separate different physical components within the soil by physical means with a goal to distinguish soil organic matter pools having different ecological or biogeochemical characteristics. Soil is commonly fractionated according to the size and density of physical components (Gregorich et al, 2006) after certain levels of dispersion (Fig. 1). As soils being a complex systems with high physical and chemical heterogeneity, the research question should dictate which physical fractionation method is chosen.
   
 ![Figure 1. A flow chart diagram that demonstrates the complexity of separation of by physical properties.For more detailed information on the diagram, please refer to chapter 13 in "Soil microbiology, ecology, and biochemistry" (Paul, 2015).]({{site.baseurl}}{{page.figures}}image.png)  
 *Figure 1. A flow chart diagram that demonstrates the complexity of separation of by physical properties.For more detailed information on the diagram, please refer to chapter 13 in "Soil microbiology, ecology, and biochemistry" (Paul, 2015).*
@@ -38,7 +38,7 @@ Physical fractionation is a process used to separate soil based on size and dens
 
 #### Soil Texture
 
-Soil texture is determined by the proportions of different sized particles (sand, silt, and clay). Soil texture, together with mineralogy and chemical properties, influences soil structure and aggregations. For instance, when there is enough of clay particles present, they tend to "glue" particles into clumps to create aggregates. Qualitatively, soil texture can be described as the way soil feels and looks which is influenced by the type and the size of each particle. Sand, silt, and clay (Table 1 and Figure 2) particles are the basis of soil texture and combine into more specific texture classifications. Given a soil’s textural classification, information about the soil’s water holding capacity, productivity, nutrient retention, and carbon-sequestration capacity may be implied, but soil organic carbon content strongly influences water holding capacity and availability of the water contained in the soil for plant uptake.
+Before getting into physical fractionation, we need to understand soil texture. Soil texture express the mass proportion of different sized particles (sand, silt, and clay). When there is a considerable amount of clay-size particles or "sticky" materials (technically called binding agents such as amorphous organic matter and poorly-crystalline minerals), the particles tend to cluster to form aggregates. Qualitatively, soil texture can be described as the way soil feels and looks (hand texturing). Sand, silt, and clay (Table 1 and Figure 2) particles are the basis of soil texture and combine into more specific texture classifications. Soil textural class is strongly related to water holding capacity, plant productivity, nutrient retention, and carbon-sequestration capacity.
 
 Table 1. Breakdown of the size classes as provided by the US Department of Agriculture (USDA).  
 
