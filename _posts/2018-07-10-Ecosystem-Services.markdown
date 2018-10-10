@@ -24,11 +24,10 @@ As in the Linnaean classification system, soil scientists have worked to group t
 
 Check out this [link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/?cid=nrcs142p2_053588) to explore the USDA 12 soil orders of Soil Taxonomy 
 
-To explore the 30 orders of the World Reference Base classification system, click [here](http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
+To explore the 32 orders of the World Reference Base classification system, click [here](http://www.fao.org/soils-portal/soil-survey/soil-classification/world-reference-base/en/) 
 
 ![Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by both the World Reference Base adn USDA Soil Taxonomy.]({{site.baseurl}}{{page.figures}}Figure6.jpg)
-*Figure 2: Soil types in the Northern Hemisphere and their weathering processes classified by both the World Reference Base adn USDA Soil Taxonomy.*
-
+*Figure 2: Soil types in the Northern Hemisphere according to WRB and USDA taxonomy, their distribution by latitude, and the accompanying influential soil forming processes.
 # Soils formation to biome creation 
 
 Pedogensis is the process of soil formation resulting from the influence of environmental factors. The five main factors of pedogenesis are, climate, organisms (including humans), relief, parent material, and time. Commonly referred to as CLORPT, these factors along with their processes of additions, removals, transfers and transformations create the attributes of each pedon, including soil type (classification), physicochemical qualities and suitability for particular uses.
