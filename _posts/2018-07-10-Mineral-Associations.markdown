@@ -13,7 +13,7 @@ figures: /img/3bii/
 
 # What does it mean to have organic matter associated with minerals and why is this important?
 
-Mineral-bound organic matter is organic matter that is adsorbed to mineral surfaces, co-precipitated with minerals, or entrapped in  small aggregates. Much of the organic matter in soils is present in mineral associations. For instance, in temperate, cultivated soils that comprise some of the most productive soils in the world, 50-75% of the organic matter is present within clay-sized organo-mineral particles (Christensen 2001). Because this is such a large reservoir of soil carbon understanding the dynamics of organo-mineral associations are critical for understanding the overall dynamics of carbon in soils. Furthermore, protection of SOM in mineral associations is an important mechanism governing the persistence of SOM, even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
+Mineral-bound organic matter is organic matter that is adsorbed to mineral surfaces, co-precipitated with minerals, or entrapped in  small aggregates (link to Hannah). Much of the organic matter in soils is present in mineral associations. For instance, in temperate, cultivated soils that comprise some of the most productive soils in the world, 50-75% of the organic matter is present within clay-sized organo-mineral particles (Christensen 2001). Because this is such a large reservoir of soil carbon understanding the dynamics of organo-mineral associations are critical for understanding the overall dynamics of carbon in soils. Furthermore, protection of SOM in mineral associations is an important mechanism governing the persistence of SOM, even after serious disturbance events (Kiem and Kogel-Knabner, 2003).
 
 ![Figure 1, from Keiluweit et al, 2015]({{site.baseurl}}{{page.figures}}blog2_general.png)
 *Figure 1, from Keiluweit et al, 2015*
@@ -33,29 +33,26 @@ Kleber et al, 2015
 
 # The Relationship Between Particle Size and Organic Matter
 
-A negative correlation between particle size and organic carbon in soils has long been recognized as evidence of a close association between clay-sized particles and soil organic matter (SOM). Part of the reason for this relationship is the high surface area to volume ratio (specific surface area) of smaller particles. The high specific surface area of clay-sized particles provides more substrate for both colonization by microorganisms and direct adsorption of organic matter. More recent work has shown that this relationship is due also to the chemical affinity of organic matter for the iron and aluminum oxides that comprise the smallest and highest surface area minerals. Figure 3 below shows organo-mineral interactions in the right bottom corner, where molecular size is smallest and polarity (i.e. reactivity) is highest.
+A negative correlation between particle size and organic carbon in soils has long been recognized as evidence of a close association between clay-sized particles and soil organic matter (SOM). Part of the reason for this relationship is the high surface area to volume ratio (specific surface area) of smaller particles. The high specific surface area of clay-sized particles provides more substrate for both colonization by microorganisms and direct adsorption of organic matter. More recent work has shown that this relationship is due also to the chemical affinity of organic matter for the iron and aluminum oxides that comprise the smallest and highest surface area minerals. Figure 3 below shows organo-mineral interactions in the right bottom corner, where molecular size is smallest and polarity (i.e. reactivity) is highest. Organomineral interactions also likely influence the C:N ratio in soils. Often the C:N decreases as particle size decreases. Soils with high sand content generally have higher C:N ratios than soils with high clay content, which typically have a lower C:N ratio (Six et al, 2002). N-compounds have a high affinity for mineral surfaces (Kleber et al, 2007), and this likely explains the greater abundance of N-containing compounds in clay-rich soils (Mikutta et al., 2006; von Lützow et al., 2006).
+
 
 ![Figure 3, from Kleber et al, 2015.]({{site.baseurl}}{{page.figures}}overviewfigure.png)
 *Figure 3, from Kleber et al, 2015.*
 
 
-Carbon to Nitrogen Ratios in Soils:
-
-Another piece of evidence suggesting the mechanisms of organomineral interactions in soils is that C:N ratio decreases as particle size decreases. In soils with high sand content, SOM stabilization is due to chemical recalcitrance of compounds, as explained by the presence of more lignins and resistant compounds that generally have higher C:N ratios (Six et al, 2002). In contrast, in soils with a high clay content, stabilization by physical and chemical mechanisms will be the primary controls over C accumulation and these soils generally also have a lower C:N ratio (Mikutta et al., 2006; von Lützow et al., 2006). These mechanisms include aggregation (link to Hannah), sorption on mineral surfaces, and entrapment within fine pores.  As shown experimentally, there are more N-containing compounds in these soils because of a higher affinity of N-compounds with mineral surfaces (Kleber et al, 2007). 
 
 
 # Nature of organic matter that associates with minerals
 
-Where does the organic matter in these interactions come from? There are many sources of the organic matter that becomes associated with minerals in soils, including that associated with plants, microbes, and necromass (dead microbial biomass). 
-Plants provide a large variety of inputs to the system. These are in the form of biomass (i.e. dead plant matter), root exudates, and other plant-derived products including mucilage, cell fragments and plant-derived biopolymers. Plant-derived organic matter provides a substrate for microbes to act upon. Roots physically and chemically disintegrate substrate in soil and rocks and contribute to soil weathering by producing smaller organic molecules and acids that can either react with minerals or go into soil solution. The rhizosphere is a zone of particular interest because here, plants are able to stimulate microbial growth and more directly interact with the soil environment. 
+Where does the organic matter in these organo-mineral associations come from? Organic matter that becomes associated with minerals can derive from plants, microbes, or necromass (dead microbial biomass). Determining the precise pathway a molecule of organic mater took prior to becoming mineral associated is an active area of soil science research. Plants provide a large variety of inputs to the system. These are in the form of biomass (i.e. dead plant matter), root exudates, and other plant-derived products including mucilage, cell fragments and plant-derived biopolymers. Plant-derived organic matter provides a substrate for microbes to act upon. Roots physically and chemically weather soil and rocks in the profile and produce small, solubile organic acids accellerate weathering. Often these compounds are present at high concentrations in the rhizosphere and they can stimulate microbial growth and further accelerate interact between organic compounds and minerals. 
 
-Microbes have the ability to break down larger organic compounds into smaller functional units of organic matter. They exude acids, chelators and extracellular polysaccharides (EPS) that can be deposited directly onto minerals or go into the dissolved organic matter pool in soil. Dead microbes contribute to necromass. The organic matter in necromass has a stronger resistance to decomposition. Interestingly, the diversion of plant carbon into microbial biomass might ultimately lead to a greater accumulation of stable soil carbon.
+Microbes continually break down larger organic matter moleculars into smaller units. Microbes also exude organic acids, chelators and sugars (extracellular polysaccharides, EPS) that can be deposited directly onto minerals or become part of the dissolved organic matter pool. Upon microbial death, the cellular components comprise a necromass that is often considered an important precusor to organomineral associations (Cotrufo et al, 2013). In fact, many studies now consider that most mineral associated carbon has passed first through the microbial biomass (Kallenbach et al, 2015). Supporting this, newly added plant material that is easier to decompose (more labile) stimulates the production of more clay-associated organic matter than adding plant material that is harder to decompose (Cyle et al, 2016).
 
-However, recent research suggests the shortcomings in methods to characterize this minerally-associated organic matter. Traditionally, just physical fractionation has been used to separate this organic matter. However, this seems to incompletely fractionate the organic matter associated with minerals. There are also chemical treatments available that can further separate minerally-associated organic matter, and there is a growing need to perhaps combine the 2 in order to effectively characterize the organic matter that is associated with minerals. 
 
 References:
-Cotrufo et al., 2013 FROM Kallenbach et al
+Cotrufo et al., 2013 FROM Kallenbach et al 2015
 Dungait et al., 2012
+Cyle et al, 2016
 
 # Other factors that influence organomineral interactions
 
@@ -104,3 +101,7 @@ Coprecipitation
 2. precipitation of insoluble metal–organic complexes,
 3. adsorption of OM to neoformed Fe and Al oxides, and
 4. occlusion of pure OM into precipitated Fe and Al oxide aggregates
+
+# Methods for characterizing organomineral associations
+
+Recent research suggests the shortcomings in methods to characterize this minerally-associated organic matter. Traditionally, just physical fractionation has been used to separate this organic matter. However, this seems to incompletely fractionate the organic matter associated with minerals. There are also chemical treatments available that can further separate minerally-associated organic matter, and there is a growing need to perhaps combine the 2 in order to effectively characterize the organic matter that is associated with minerals. 
