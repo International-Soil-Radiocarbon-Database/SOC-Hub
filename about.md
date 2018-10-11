@@ -14,4 +14,15 @@ These activities will improve our ability to map the vulnerability of soil C and
 
 <img src="{{site.baseurl}}/img/group_work.jpg" alt="Drawing" style="width: 500px;"/>
 
+# Soil pictures
+Members involved travel all over the world studying soils. Here are some pictures!
+
+{% for photo in site.data.photos %}
+<p>
+<figure>
+ <img src="{{site.baseurl}}/img/photos/{{photo.file}}" alt="Missing" style="width: 700px;"/>
+ <figcaption> {{photo.desc}} | Photo contributed by {{photo.credit}} </figcaption>
+</figure>
+</p>
+{% endfor %}
 
