@@ -1,6 +1,6 @@
 ---
 title: "Radiocarbon"
-#author: "Susan Trumbore"
+author: "Susan Trumbore"
 layout: post
 tags: ["radiocarbon", "14C"]
 level1: Quantitative methods
@@ -60,7 +60,7 @@ Causes of these variations are
 To determine the 14C content of the atmosphere in the past, we need to measure the 14C in something of known age. The radiocarbon community uses tree rings (or corals dated with an independent method like U/Th) to accomplish this. 
 This tree ring record is used to determine the “Calibrated” age from a radiocarbon measurement.  The calibration curves are based on data from several laboratories and there are several programs available over the web that can be used for conversion. Tree ring records go back only to about ~10,000 years.  For the latest calibration curves and programs, see the Radiocarbon web site:  
 
-** Telling time with bomb radiocarbon - years to decades **
+**Telling time with bomb radiocarbon - years to decades**
 
 
 
